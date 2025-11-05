@@ -1,0 +1,25 @@
+pages:
+  - title: Home
+    url: /
+  - title: Dates
+    url: /dates/
+  - title: Calls
+    url: /calls/
+    dropdown: true
+  - title: Attending
+    url: /attending/
+    dropdown: true
+  - title: Programme
+    url: /programme/
+    dropdown: true
+  - title: Authors
+    url: /authors/
+    dropdown: true
+  - title: People
+    url: /people/
+    dropdown: true
+  - title: Sponsors
+    url: /sponsors/
+  - title: Proceedings
+    url: /proceedings/
+    dropdown: true

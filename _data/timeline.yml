@@ -1,0 +1,102 @@
+deadlines:
+  - title: Abstract Submission Deadline
+    date: 2025-05-13
+    tags:
+      - key: Authors
+  - title: Workshop Submission Deadline
+    date: 2025-05-16
+    tags:
+      - key: Authors
+  - title: Paper Submission Deadline
+    date: 2025-05-16
+    tags:
+      - key: Authors
+  - title: Supplementary Material Submission
+    date: 2025-05-16
+    tags:
+      - key: Authors
+  - title: Review Period Starts
+    date: 2025-05-26
+    tags:
+      - key: Reviewers
+  - title: Workshop Acceptance Notification
+    date: 2025-05-30
+    tags:
+      - key: Authors
+  - title: Reviews Submitted
+    date: 2025-06-09
+    tags:
+      - key: Reviewers
+  - title: Start of AC/reviewer Discussion Period
+    date: 2025-06-20
+    tags:
+      - key: Reviewers
+      - key: ACs
+  - title: End of AC/reviewer Discussion Period
+    date: 2025-06-27
+    tags:
+      - key: Reviewers
+      - key: ACs   
+  - title: Reviewer Final Reviews 
+    date: 2025-07-04
+    tags:
+      - key: Reviewers
+      - key: ACs
+  - title: Meta-Reviews Submitted
+    date: 2025-07-08
+    tags:
+      - key: ACs
+      - key: PCs
+  - title: Doctoral Consortium Submission Open
+    date: 2025-7-13
+    tags:
+      - key: Authors  
+  - title: Paper Decisions & Meta-Review Consolidation
+    date: 2025-07-18
+    tags:
+      - key: ACs
+      - key: PCs
+  - title: Author Notifications
+    date: 2025-07-25
+    tags:
+      - key: Authors
+  - title: Doctoral Consortium Submission Close
+    date: 2025-7-30
+    tags:
+      - key: Authors
+  - title: Camera Ready for Papers
+    date: 2025-08-29
+    tags:
+      - key: Authors
+  - title: Doctoral Consortium Acceptance Notification
+    date: 2025-09-05
+    tags:
+      - key: Authors 
+  - title: Camera Ready for Workshops
+    date: 2025-10-31
+    tags:
+      - key: Authors
+  - title: Poster Submissions
+    date: 2025-10-31
+    tags:
+      - key: Authors
+  - title: Video Submissions
+    date: 2025-10-31
+    tags:
+      - key: Authors
+  - title: Conference Starts
+    date: 2025-11-24
+    tags:
+      - key: Everyone
+  - title: Conference Ends
+    date: 2025-11-27
+    tags:
+      - key: Everyone
+  # - title: Workshops Start
+  #   date: 
+  #   tags:
+  #     - key: Everyone
+  # - title: Workshops End
+  #   date: 
+  #   tags:
+  #     - key: Everyone

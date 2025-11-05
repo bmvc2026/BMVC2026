@@ -1,0 +1,86 @@
+sponsors:
+  - name: Tavus
+    type: Gold
+    logo: tavus.png
+    url: "https://www.tavus.io/"
+    url-external: "https://www.tavus.io/"  
+
+  - name: ENCORD
+    type: Silver
+    logo: encord.png
+    url: "https://encord.com/"
+    url-external: "https://encord.com/"  
+
+  - name: The_University_of_Sheffield
+    type: Supported by
+    logo: tuos_cs.jpg
+    url: "https://sheffield.ac.uk/cs"
+    url-external: "https://sheffield.ac.uk/cs"
+
+  # - name: Technovative Solutions
+  #   type: Platinum
+  #   logo: technovative_solutions.png
+  #   url: "https://technovativesolutions.co.uk/"
+  #   url-external: "https://technovativesolutions.co.uk/"
+
+  # - name: VIVO TECH GmbH
+  #   type: Gold
+  #   logo: VIVO.png
+  #   url: "https://www.vivo.com/eu"
+  #   url-external: "https://www.vivo.com/eu"
+
+  # - name: Nokia Bell Labs
+  #   type: Gold
+  #   logo: NBL_Logo_rgb.png
+  #   url: "https://www.bell-labs.com/"
+  #   url-external: "https://www.bell-labs.com/"
+
+  # - name: Living Optics
+  #   type: Gold
+  #   logo: LO_Logo_Horizontal_RGB_Black.png
+  #   url: "https://www.livingoptics.com/"
+  #   url-external: "https://www.livingoptics.com/"
+
+  # - name: Frontiers
+  #   type: Special
+  #   logo: logo_frontiers.png
+  #   url: "https://www.frontiersin.org/research-topics/61449/ai-insights-computer-vision---british-machine-vision-association-bmva"
+  #   url-external: "https://www.frontiersin.org/research-topics/61449/ai-insights-computer-vision---british-machine-vision-association-bmva"
+
+  # - name: RGU
+  #   type: Special
+  #   logo: RGU.jpeg
+  #   url: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
+  #   url-external: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing"
+
+  # - name: Glasgow_City_Council
+  #   type: Supported by
+  #   logo: Glasgow_City_Council.png
+  #   url: "https://www.glasgow.gov.uk/"
+  #   url-external: "https://www.glasgow.gov.uk/"
+
+  # - name: Glasgow_City_Council
+  #   type: Supported by
+  #   logo: GlasgowCrest.png
+  #   url: "https://www.glasgow.gov.uk/article/5956/Lord-Provost"
+  #   url-external: "https://www.glasgow.gov.uk/article/5956/Lord-Provost"
+
+  # - name: Paperlib
+  #   type: Supported by
+  #   logo: Paperlib.png
+  #   url: "https://www.paperlib.app/en/"
+  #   url-external: "https://www.paperlib.app/en/"
+
+  # - name: Visit_Glasgow
+  #   type: Supported by
+  #   logo: PEOPLE-MAKE-GLASGOW-brand-image.jpg
+  #   url: "https://www.visitglasgow.org.uk/"
+  #   url-external: "https://www.visitglasgow.org.uk/"
+
+  # - name: University_of_Glasgow
+  #   type: Supported by
+  #   logo: SoCS.png
+  #   url: "https://www.gla.ac.uk/schools/computing"
+  #   url-external: "https://www.gla.ac.uk/schools/computing/"
+
+

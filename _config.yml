@@ -1,0 +1,120 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+
+# BMVC2021 colours:
+# #9E005D
+# 158, 0, 93
+# #7F004B
+# #5F003B
+# #DC0082
+
+
+timezone: Europe/London
+title: The 37th British Machine Vision Conference 2026
+formatted-title: The 37<sup>th</sup> British Machine Vision Conference
+brand: BMVC&thinsp;2026
+short-title: "BMVC 2026"
+conf_year: 2026
+email: bmvc@bmva.org
+#bmvc2024@googlegroups.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The website is for the 37th British Machine Vision Conference. 23th - 26th November 2026, Lancaster, UK.
+
+#baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
+#url: "https://britishmachinevisionassociation.github.io" 36007D#"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
+#baseurl: "/"
+#url: "http://bmvc2021.ndfcampbell.org"
+
+baseurl: ""
+url: "https://www.bmvc2026.github.io"
+conf-url: "https://www.bmvc2026.github.io"
+chat-url: "https://www.bmvc2026.github.io"
+
+logo: "/assets/images/layout/bmvc-2026-transparent.png"
+
+#twitter_username: BMVCconf
+twitter_username: BMVCconf
+github_username:  BritishMachineVisionAssociation
+#facebook_username: thebmva
+#youtube_channel: channel/UCBDkH5yK4GyVoRkV8lYdwdw1
+
+deadline-time: "23:59 GMT"
+
+#cmt-url: "https://cmt3.research.microsoft.com/BMVC2023/"
+bmva-event-url: "https://www.bmva.org/"
+
+dates: 23<sup>th</sup> - 26<sup>th</sup> November 2026
+
+author: BMVC PCs
+
+#flickr_user: '131006004@N06'
+#flickr_api_key: adb4be93419edab991522b4fa92b7029
+
+# Handling Reading
+safe: true
+encoding: utf-8
+# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-liquid
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+
+  - conference/
+
+  - programme/oral.md  
+  - programme/paper-awards.md
+  - programme/papers.md
+  - programme/poster.md
+  - programme/programme.md
+  - programme/schedule.md
+  - programme/workshop_papers.md
+
+  - authors/faq.md
+  - authors/rebuttal-instructions.md  
+  - authors/reviewing-guidelines-old.md
+  - authors/submit-your-paper-old.md
+
+  - people/area-chairs.md
+  - people/emergency-reviewers.md
+  - people/reviewers.md
+  - people/volunteers.md
+
+  - proceedings/workshop-proceedings.md
+
+  - proceedings_old/create_all.py
+  - proceedings_old/CameraReadyPapers.xls
+  - proceedings_old/conference-proceedings.md
+  - proceedings_old/workshop-proceedings.md
+  
+  - attending/code-of-conduct.md
+  - attending/guides.md  
+  - attending/registration_old.md
+  - attending/student-funding.md
+
+  - sponsorship_backup.md
+
+

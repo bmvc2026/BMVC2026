@@ -1,0 +1,233 @@
+monday:
+  - session: Registration
+    start-time: "08:00"
+    end-time: "09:30"
+    session-type: "ceremony event"
+    data: "Throughout the day"
+  - session: Tea & Coffee
+    start-time: "08:00"
+    end-time: "09:30"
+    session-type: "break"
+  - session: Welcome speech
+    start-time: "09:30"
+    end-time: "09:45"
+    session-type: "ceremony event"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Oral Session 1 - Multimodal Learning
+    start-time: "09:45"
+    end-time: "11:00"
+    session-type: "oral"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Tea & Coffee
+    start-time: "11:00"
+    end-time: "11:45"
+    session-type: "break"
+  - session: Poster Session 1 - Multimodal Learning
+    start-time: "11:00"
+    end-time: "12:30"
+    session-type: "poster"
+    data: "Cutlers' Hall"
+  - session: Lunch
+    start-time: "12:30"
+    end-time: "14:00"
+    session-type: "break"
+  - session: Keynote 1/3 - Phil Torr
+    start-time: "14:00"
+    end-time: "15:00"
+    session-type: "keynote"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Poster Session 2 - Generative Models and Synthesis
+    start-time: "15:00"
+    end-time: "16:30"
+    session-type: "poster"
+    data: "Cutlers' Hall"
+  - session: Tea & Coffee
+    start-time: "15:15"
+    end-time: "16:00"
+    session-type: "break"
+  - session: Oral Session 2 - Generative Models and Synthesis
+    start-time: "16:30"
+    end-time: "17:30"
+    session-type: "oral"
+    data: "Main Hall, Cutlers' Hall"
+  - session: End
+    start-time: "17:30"
+    end-time: "17:30"
+    session-type: "break"
+  - session: Reception (inc. the Fellowship award)
+    start-time: "19:00"
+    end-time: "20:30"
+    session-type: "ceremony event"
+
+tuesday:
+  - session: Registration
+    start-time: "08:00"
+    end-time: "09:00"
+    session-type: "ceremony event"
+  - session: Tea & Coffee
+    start-time: "08:30"
+    end-time: "09:00"
+    session-type: "break"
+  - session: Keynote 2/3 - Marc Pollefeys
+    start-time: "09:00"
+    end-time: "10:00"
+    session-type: "keynote"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Poster Session 3 - 3D Scene Analysis and Understanding
+    start-time: "10:00"
+    end-time: "11:45"
+    session-type: "poster"
+    data: "Cutlers' Hall"
+  - session: Tea & Coffee
+    start-time: "10:45"
+    end-time: "11:45"
+    session-type: "break"
+  - session: Oral Session 3 - 3D Scene Analysis and Understanding
+    start-time: "11:45"
+    end-time: "13:00"
+    session-type: "oral"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Lunch
+    start-time: "13:00"
+    end-time: "14:00"
+    session-type: "break"
+  - session: Poster Session 4 - Medical and Biological Image Analysis and Real World Applications and Systems
+    start-time: "14:00"
+    end-time: "15:45"
+    session-type: "poster"
+    data: "Cutlers' Hall"
+  - session: Tea & Coffee
+    start-time: "15:15"
+    end-time: "15:45"
+    session-type: "break"
+  - session: Oral Session 4 - Medical and Biological Image Analysis
+    start-time: "15:45"
+    end-time: "16:45"
+    session-type: "oral"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Tea & Coffee
+    start-time: "16:40"
+    end-time: "17:05"
+    session-type: "break"
+  - session: Oral Session 5 - Real World Applications and Systems
+    start-time: "17:00"
+    end-time: "18:00"
+    session-type: "oral"
+    data: "Main Hall, Cutlers' Hall"
+  - session: End
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "break"
+  - session: Dinner
+    start-time: "19:00"
+    end-time: "23:00"
+    session-type: "ceremony event"
+    data: "Cambridge Street Collective"
+
+wednesday:
+  - session: Registration
+    start-time: "08:00"
+    end-time: "09:00"
+    session-type: "ceremony event"
+  - session: Tea & Coffee
+    start-time: "08:30"
+    end-time: "09:00"
+    session-type: "break"
+  - session: Keynote 3/3 - Angela Dai
+    start-time: "09:00"
+    end-time: "10:00"
+    session-type: "keynote"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Poster Session 5 - Advanced Architectures, Robustness and Efficiency
+    start-time: "10:00"
+    end-time: "11:45"
+    session-type: "poster"
+    data: "Cutlers' Hall"
+  - session: Doctoral Consortium
+    start-time: "10:00"
+    end-time: "13:00"
+    session-type: "poster"
+    data: "Cutlers' Hall"
+  - session: Tea & Coffee
+    start-time: "10:45"
+    end-time: "11:45"
+    session-type: "break"
+  - session: Oral Session 6 - Advanced Architectures, Robustness and Efficiency
+    start-time: "11:45"
+    end-time: "13:00"
+    session-type: "oral"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Lunch
+    start-time: "13:00"
+    end-time: "14:00"
+    session-type: "break"
+  - session: Poster Session 6 - Human & Motion Analysis (+ Doctoral Consortium Posters)
+    start-time: "14:00"
+    end-time: "15:45"
+    session-type: "poster"
+    data: "Cutlers' Hall"
+  - session: Tea & Coffee
+    start-time: "15:15"
+    end-time: "15:45"
+    session-type: "break"
+  - session: Oral Session 7 - Human & Motion Analysis
+    start-time: "15:45"
+    end-time: "17:00"
+    session-type: "oral"
+    data: "Main Hall, Cutlers' Hall"
+  - session: Awards & closing speech
+    start-time: "17:00"
+    end-time: "17:30"
+    session-type: "ceremony event"
+    data: "Main Hall, Cutlers' Hall"
+  - session: End
+    start-time: "17:30"
+    end-time: "17:30"
+    session-type: "break"
+
+thursday:
+  - session: Registration for workshops
+    start-time: "08:00"
+    end-time: "09:00"
+    session-type: "ceremony event"
+    data: "For one-day attendees"
+  - session: Tea & Coffee
+    start-time: "08:30"
+    end-time: "09:00"
+    session-type: "break"
+  - session: Morning workshops start
+    start-time: "09:00"
+    end-time: "09:00"
+    session-type: "workshop"
+  - session: BMVA Town Hall
+    start-time: "10:00"
+    end-time: "11:00"
+    session-type: "ceremony event"
+  - session: Tea & Coffee
+    start-time: "10:45"
+    end-time: "11:15"
+    session-type: "break"
+  - session: Morning workshops end
+    start-time: "13:00"
+    end-time: "13:00"
+    session-type: "workshop"
+  - session: Lunch
+    start-time: "13:00"
+    end-time: "14:00"
+    session-type: "break"
+  - session: Afternoon workshops start
+    start-time: "14:00"
+    end-time: "14:00"
+    session-type: "workshop"
+  - session: Tea & Coffee
+    start-time: "15:45"
+    end-time: "16:15"
+    session-type: "break"
+  - session: Afternoon workshops end
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "workshop"
+  - session: End
+    start-time: "18:00"
+    end-time: "18:00"
+    session-type: "break"
