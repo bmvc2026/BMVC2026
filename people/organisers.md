@@ -15,7 +15,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Jun_Liu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2026/People/LiuJun.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/jun-liu2">Jun Liu</a></h4>
         <p class="pb-2">Lancaster University</p>
     </div>
@@ -23,8 +23,8 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Steve_Maddock.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://staffwww.dcs.shef.ac.uk/people/S.Maddock/index.shtml">Majid Mirmehdi</a></h4>
+        <img src="../../imgs_2026/People/MirmehdiMajid.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.bristol.ac.uk/people/person/Majid-Mirmehdi-93fe13c3-06b3-4797-a8fe-9fd6d2dc5dc2/">Majid Mirmehdi</a></h4>
         <p class="pb-2">University of Bristol</p>
     </div>
 </div>
@@ -40,7 +40,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Bryan_Williams.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2026/People/WilliamsBryan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/lira/people/bryan-williams">Bryan M. Williams</a></h4>
         <p class="pb-2">Lancaster University</p>
     </div>
@@ -48,8 +48,8 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Edmond_Ho.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/shulimho/#">Hossein Rahmani</a></h4>
+        <img src="../../imgs_2026/People/RahmaniHossein.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/hossein-rahmani">Hossein Rahmani</a></h4>
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
@@ -57,7 +57,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2026/People/CzannerGabriela.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/fanideligianni">Gabriela Czanner</a></h4>
+        <h4 class="pt-2"><a href="https://www.southampton.ac.uk/people/668885/professor-gabriela-czanner">Gabriela Czanner</a></h4>
         <p class="pb-2">University of Southampton</p>
     </div>
 </div>
