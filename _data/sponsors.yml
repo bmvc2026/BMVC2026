@@ -1,21 +1,21 @@
 sponsors:
-  - name: Tavus
-    type: Gold
-    logo: tavus.png
-    url: "https://www.tavus.io/"
-    url-external: "https://www.tavus.io/"  
+#  - name: Tavus
+#    type: Gold
+#    logo: tavus.png
+#    url: "https://www.tavus.io/"
+#    url-external: "https://www.tavus.io/"  
 
-  - name: ENCORD
-    type: Silver
-    logo: encord.png
-    url: "https://encord.com/"
-    url-external: "https://encord.com/"  
+#  - name: ENCORD
+#    type: Silver
+#    logo: encord.png
+#    url: "https://encord.com/"
+#    url-external: "https://encord.com/"  
 
-  - name: The_University_of_Sheffield
+  - name: Lancaster_University
     type: Supported by
-    logo: tuos_cs.jpg
-    url: "https://sheffield.ac.uk/cs"
-    url-external: "https://sheffield.ac.uk/cs"
+    logo: LancasterLogo.png
+    url: "https://www.lancaster.ac.uk/"
+    url-external: "https://www.lancaster.ac.uk/"
 
   # - name: Technovative Solutions
   #   type: Platinum
