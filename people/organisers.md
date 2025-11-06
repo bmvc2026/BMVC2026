@@ -187,8 +187,8 @@ index: 0
 -->
 
 <h4>Industrial / Keynote Chairs</h4>
-<br>
 <!---
+<br>
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
@@ -239,8 +239,8 @@ index: 0
 --->
 
 <h4>Local Arrangement Chairs</h4>
-<br>
 <!---
+<br>
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
@@ -307,6 +307,7 @@ index: 0
 
 
 <h4>Social Media Chairs</h4>
+<!---
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -329,9 +330,10 @@ index: 0
 </div>
 <br>
 <br>
-
+--->
 
 <h4>Proceedings Chairs</h4>
+<!---
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -354,7 +356,7 @@ index: 0
 </div>
 <br>
 <br>
-
+--->
 
 
 <h4>Supported on behalf of the <a href="https://britishmachinevisionassociation.github.io/">BMVA</a> by</h4>
