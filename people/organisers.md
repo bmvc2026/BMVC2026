@@ -16,16 +16,16 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Jungong_Han.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jungong-han">Jungong Han</a></h4>
-        <p class="pb-2">University of Sheffield</p>
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jungong-han">Jun Liu</a></h4>
+        <p class="pb-2">Lancaster University</p>
     </div>
 </div>
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Steve_Maddock.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://staffwww.dcs.shef.ac.uk/people/S.Maddock/index.shtml">Steve Maddock</a></h4>
-        <p class="pb-2">University of Sheffield</p>
+        <h4 class="pt-2"><a href="https://staffwww.dcs.shef.ac.uk/people/S.Maddock/index.shtml">Majid Mirmehdi</a></h4>
+        <p class="pb-2">University of Bristol</p>
     </div>
 </div>
 
@@ -41,24 +41,24 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Charith_Abhayaratne.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/eee/people/academic-staff/charith-abhayaratne">Charith Abhayaratne</a></h4>
-        <p class="pb-2">University of Sheffield</p>
+        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/eee/people/academic-staff/charith-abhayaratne">Bryan M. Williams</a></h4>
+        <p class="pb-2">Lancaster University</p>
     </div>
 </div>
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Edmond_Ho.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/shulimho/#">Edmond Ho</a></h4>
-        <p class="pb-2">University of Glasgow</p>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/shulimho/#">Hossein Rahmani</a></h4>
+        <p class="pb-2">Lancaster University</p>
     </div>
 </div>
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Fani_Deligianni.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/fanideligianni">Fani Deligianni</a></h4>
-        <p class="pb-2">University of Glasgow</p>
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/fanideligianni">Gabriela Czanner</a></h4>
+        <p class="pb-2">University of Southampton</p>
     </div>
 </div>
 
