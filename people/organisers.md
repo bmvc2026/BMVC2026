@@ -56,7 +56,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Fani_Deligianni.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2026/People/CzannerGabriela.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/fanideligianni">Gabriela Czanner</a></h4>
         <p class="pb-2">University of Southampton</p>
     </div>
