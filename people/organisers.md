@@ -40,8 +40,8 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Charith_Abhayaratne.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/eee/people/academic-staff/charith-abhayaratne">Bryan M. Williams</a></h4>
+        <img src="../../imgs_2025/Bryan_Williams.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/lira/people/bryan-williams">Bryan M. Williams</a></h4>
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
@@ -62,6 +62,7 @@ index: 0
     </div>
 </div>
 
+<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Jefersson_A_dos_Santos.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
@@ -85,13 +86,14 @@ index: 0
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
-
+--->
 </div>
 <br>
 <br>
 
 
 <h4>Technical Programme Chairs</h4>
+<!---
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -122,10 +124,11 @@ index: 0
 </div>
 <br>
 <br>
-
+--->
 
 <h4>Workshop Chairs</h4>
 <br>
+<!---
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
@@ -155,9 +158,10 @@ index: 0
 </div>
 <br>
 <br>
-
+--->
 
 <h4>Sponsorship Chairs</h4>
+<!---
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -180,10 +184,11 @@ index: 0
 </div>
 <br>
 <br>
-
+-->
 
 <h4>Industrial / Keynote Chairs</h4>
 <br>
+<!---
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
@@ -205,9 +210,10 @@ index: 0
 </div>
 <br>
 <br>
-
+--->
 
 <h4>Doctoral Consortium Chairs</h4>
+<!---
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -230,10 +236,11 @@ index: 0
 </div>
 <br>
 <br>
-
+--->
 
 <h4>Local Arrangement Chairs</h4>
 <br>
+<!---
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
@@ -243,14 +250,6 @@ index: 0
         <p class="pb-2">Sheffield Hallam University</p>
     </div>
 </div>
-
-<!-- <div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2025/Ricardo_Szcerbacki.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="">Ricardo Szcerbacki</a></h4>
-        <p class="pb-2">University of Sheffield</p>
-    </div>
-</div> -->
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
@@ -279,7 +278,7 @@ index: 0
 </div>
 <br>
 <br>
-
+--->
 
 <h4>Website Chairs</h4>
 <br>
@@ -288,19 +287,20 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Gerardo_Aragon_Camarasa.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/schools/computing/staff/gerardoaragoncamarasa/">Gerardo Aragon Camarasa</a></h4>
-        <p class="pb-2">University of Glasgow</p>
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/xiaofei-hui">Xiaofei Hui</a></h4>
+        <p class="pb-2">Lancaster University</p>
     </div>
 </div>
 
+<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Bowen_Dang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://dangbowen-bell.github.io">Bowen Dang</a></h4>
+        <h4 class="pt-2"><a href="https://dangbowen-bell.github.io">Xiaofei Hui</a></h4>
         <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
-
+--->
 </div>
 <br>
 <br>
