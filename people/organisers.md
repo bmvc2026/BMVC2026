@@ -127,8 +127,8 @@ index: 0
 --->
 
 <h4>Workshop Chairs</h4>
-<br>
 <!---
+<br>
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
