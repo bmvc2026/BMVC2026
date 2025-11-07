@@ -118,4 +118,4 @@ exclude:
   - sponsorship_backup.md
 
 
-  - attending/registration.md
+  # - attending/registration.md # removed as we don't need to exclude files here
