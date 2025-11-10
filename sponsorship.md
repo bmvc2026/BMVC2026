@@ -134,46 +134,46 @@ permalink: /sponsors/
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
             </tr>
             <tr>
                 <td style="vertical-align:middle">1 Exhibition stand</td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
             </tr>
             <tr>
                 <td style="vertical-align:middle">1 Additional free registration</td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
             </tr>
             <tr>
                 <td style="vertical-align:middle">Acknowledgment in the opening address</td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
             </tr>
             <tr>
                 <td style="vertical-align:middle">Promotion opportunity at the Welcome Reception</td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
             </tr>
             <tr>
                 <td style="vertical-align:middle">Sponsorship of a Prize or Bursary</td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
-                <td align="center"><font style="color: rgb(64,64,64); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
+                <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
             </tr>
         </tbody>
