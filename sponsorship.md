@@ -113,8 +113,8 @@ permalink: /sponsors/
                 <td align="center">TBD</td>
             </tr>
             <tr>
-                <td vertical-align="middle">Logo and link on the conference website</td>
-                <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
+                <td style="vertical-align:middle">Logo and link on the conference website</td>
+                <td align="center"><font style="color: rgb(181,18,27); font-size:150%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
