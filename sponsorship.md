@@ -114,7 +114,7 @@ permalink: /sponsors/
             </tr>
             <tr>
                 <td>Logo and link on the conference website</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
