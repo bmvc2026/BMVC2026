@@ -106,15 +106,15 @@ permalink: /sponsors/
             </tr>
             <tr>
                 <td>Early Cost (to 31 August 2026)</td>
-                <td align="center">£3750</td>
+                <td align="center" vertical-align="middle">£3750</td>
                 <td align="center">£2250</td>
                 <td align="center">£1500</td>
                 <td align="center">£750</td>
                 <td align="center">TBD</td>
             </tr>
             <tr>
-                <td>Logo and link on the conference website</td>
-                <td align="center"><font style="color: rgb(181,18,27); font-size:150%">✔</font></td>
+                <td vertical-align="middle">Logo and link on the conference website</td>
+                <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
