@@ -86,7 +86,7 @@ permalink: /sponsors/
 </div>
 
 <div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-center">
-    <table class="table table-striped table-bordered" style="max-width: 750px;">
+    <table class="table table-striped table-bordered" style="max-width: 1000px;">
         <tbody>
             <tr>
                 <th style="text-align: center">PACKAGE OFFERS</th>
@@ -115,54 +115,54 @@ permalink: /sponsors/
             <tr>
                 <td>Logo and link on the conference website</td>
                 <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
             </tr>
             <tr>
                 <td>Logo on conference programme</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
             </tr>
             <tr>
                 <td>1 Free registration</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>1 Exhibition stand</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>1 Additional free registration</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
                 <td>Acknowledgment in the opening address</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
             </tr>
             <tr>
                 <td>Promotion opportunity at the Welcome Reception</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
@@ -170,11 +170,11 @@ permalink: /sponsors/
             </tr>
             <tr>
                 <td>Sponsorship of a Prize or Bursary</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
-                <td align="center">✔</td>
+                <td align="center"><font style="color: rgb(181,18,27)">✔</font></td>
             </tr>
         </tbody>
     </table>
