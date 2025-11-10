@@ -90,20 +90,39 @@ permalink: /sponsors/
         <tbody>
             <tr>
                 <th style="text-align: center">PACKAGE OFFERS</th>
-                <th style="text-align: center">PLATINUM + Reception Sponsor £9000</th>
-                <th style="text-align: center">PLATINUM £5000</th>
-                <th style="text-align: center">GOLD £3000</th>
-                <th style="text-align: center">SILVER £2000</th>
+                <th style="text-align: center">PLATINUM+</th>
+                <th style="text-align: center">PLATINUM</th>
+                <th style="text-align: center">GOLD</th>
+                <th style="text-align: center">SILVER</th>
+                <th style="text-align: center">PRIZE/ BURSARY</th>
             </tr>
             <tr>
-                <td>Company logo and link on the conference website</td>
+                <td>Standard Cost (from 1 September 2026)</td>
+                <td align="center">£7500</td>
+                <td align="center">£4500</td>
+                <td align="center">£3000</td>
+                <td align="center">£1500</td>
+                <td align="center">TBD</td>
+            </tr>
+            <tr>
+                <td>Early Cost (to 31 August 2026)</td>
+                <td align="center">£3750</td>
+                <td align="center">£2250</td>
+                <td align="center">£1500</td>
+                <td align="center">£750</td>
+                <td align="center">TBD</td>
+            </tr>
+            <tr>
+                <td>Logo and link on the conference website</td>
+                <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
             </tr>
             <tr>
-                <td>Company logo on conference programme</td>
+                <td>Logo on conference programme</td>
+                <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
@@ -115,6 +134,7 @@ permalink: /sponsors/
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
+                <td align="center">✘</td>
             </tr>
             <tr>
                 <td>1 Exhibition stand</td>
@@ -122,11 +142,13 @@ permalink: /sponsors/
                 <td align="center">✔</td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
+                <td align="center">✘</td>
             </tr>
             <tr>
                 <td>1 Additional free registration</td>
                 <td align="center">✔</td>
                 <td align="center">✔</td>
+                <td align="center">✘</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
@@ -136,27 +158,23 @@ permalink: /sponsors/
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
+                <td align="center">✔</td>
             </tr>
             <tr>
-                <td>A Young Researcher attendance bursary named after the company</td>
-                <td align="center">✔</td>
+                <td>Promotion opportunity at the Welcome Reception</td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
-            </tr>
-            <tr>
-                <td>Company names associated with invited talks, tutorials or prizes</td>
-                <td align="center">✔</td>
-                <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
             </tr>
             <tr>
-                <td>Exclusive promotion opportunity at the Welcome Reception</td>
+                <td>Sponsorship of a Prize or Bursary</td>
                 <td align="center">✔</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
                 <td align="center">✘</td>
+                <td align="center">✔</td>
             </tr>
         </tbody>
     </table>
