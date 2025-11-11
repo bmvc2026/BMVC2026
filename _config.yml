@@ -32,7 +32,7 @@ conf_year: 2026
 email: bmvc@bmva.org
 #bmvc2024@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website is for the 37th British Machine Vision Conference. 23th - 26th November 2026, Lancaster, UK.
+  The website is for the 37th British Machine Vision Conference. 23rd - 26th November 2026, Lancaster, UK.
 
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
 #url: "https://britishmachinevisionassociation.github.io" 36007D#"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
