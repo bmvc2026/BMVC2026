@@ -91,9 +91,8 @@ index: 0
 <br>
 <br>
 
-
-<h4>Technical Programme Chairs</h4>
 <!---
+<h4>Technical Programme Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -126,8 +125,8 @@ index: 0
 <br>
 --->
 
-<h4>Workshop Chairs</h4>
 <!---
+<h4>Workshop Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -160,8 +159,8 @@ index: 0
 <br>
 --->
 
-<h4>Sponsorship Chairs</h4>
 <!---
+<h4>Sponsorship Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -186,8 +185,8 @@ index: 0
 <br>
 -->
 
-<h4>Industrial / Keynote Chairs</h4>
 <!---
+<h4>Industrial / Keynote Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -212,8 +211,8 @@ index: 0
 <br>
 --->
 
-<h4>Doctoral Consortium Chairs</h4>
 <!---
+<h4>Doctoral Consortium Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -238,8 +237,8 @@ index: 0
 <br>
 --->
 
-<h4>Local Arrangement Chairs</h4>
 <!---
+<h4>Local Arrangement Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -306,8 +305,8 @@ index: 0
 <br>
 
 
-<h4>Social Media Chairs</h4>
 <!---
+<h4>Social Media Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
@@ -332,8 +331,8 @@ index: 0
 <br>
 --->
 
-<h4>Proceedings Chairs</h4>
 <!---
+<h4>Proceedings Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
