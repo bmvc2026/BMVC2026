@@ -4185,8 +4185,8 @@ a.badge-dark.focus,a.badge-dark:focus{
     color:#0b2e13
 }
 .alert-info{
-    color:#0c5460;
-    background-color:#d1ecf1;
+    color:#000000;<!--#0c5460 -->
+    background-color:#555656;<!--#d1ecf1 -->
     border-color:#bee5eb
 }
 .alert-info hr{
