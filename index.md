@@ -28,7 +28,7 @@ title: Home
     <p>Top papers from BMVC 2026 will be invited to submit extended versions to a special issue of the International Journal of Computer Vision (IJCV). </p>
     <!--  <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p> -->
     <!--<p>BMVC will not have a rebuttal period this year. Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p>-->
-    <p>Follow us on Twitter (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/BMVCconf">BMVCconf</a>) for real-time updates about deadlines, the venue and the city. </p>
+    <p>Follow us on Twitter (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a class="a-dbg" href="https://twitter.com/BMVCconf">BMVCconf</a>) for real-time updates about deadlines, the venue and the city. </p>
     <p>BMVC'26 will be held in Lancaster. </p>
     <center><img src="imgs_2026/Lancaster/welcome-to-lancaster-city-1920x1080.jpg" width="100%"></center>
 </div>
