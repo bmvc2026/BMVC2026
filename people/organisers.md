@@ -56,7 +56,7 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2026/People/CzannerGabriela.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <img src="../../imgs_2026/People/CzannerGabriela2.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.southampton.ac.uk/people/668885/professor-gabriela-czanner">Gabriela Czanner</a></h4>
         <p class="pb-2">University of Southampton</p>
     </div>
