@@ -4186,8 +4186,8 @@ a.badge-dark.focus,a.badge-dark:focus{
 }
 .alert-info{
     color:#ffffff;/*#0c5460*/
-    background-color:#bec0c2;/*#555656;/*#d1ecf1*/
-    border-color:#bec0c2/*#555656*/
+    background-color:#555656;/*#555656;/*#d1ecf1*/
+    border-color:#555656/*#555656*/
 }
 .alert-info hr{
     border-top-color:#abdde5
