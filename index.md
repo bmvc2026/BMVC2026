@@ -68,26 +68,28 @@ title: Home
 <p class="text-justify">The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/">The British Machine Vision Association and Society for Pattern Recognition</a> for the purposes of the scholarly advancement of education and research in machine vision, pattern recognition and associated academic research areas, including the application of such scholarly research within industry. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</p>
 
 {% raw %}
-<link rel="stylesheet" href="https://unpkg.com/photo-sphere-viewer@5/dist/photo-sphere-viewer.css">
-<script src="https://unpkg.com/three@0.158.0/build/three.min.js"></script>
-<script src="https://unpkg.com/photo-sphere-viewer@5/dist/photo-sphere-viewer.js"></script>
+<!-- 1️⃣ Load dependencies -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@5/dist/photo-sphere-viewer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@5/dist/photo-sphere-viewer.min.js"></script>
 
-<div id="panorama"
-     style="width:100%; height:500px; border-radius:10px; overflow:hidden; margin:1em 0;">
-</div>
+<!-- 2️⃣ Viewer container -->
+<div id="panorama" style="width:100%; height:500px; border-radius:10px; overflow:hidden; margin-top:1em;"></div>
 
+<!-- 3️⃣ Initialise viewer AFTER scripts have loaded -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  try {
-    new PhotoSphereViewer.Viewer({
-      container: document.querySelector('#panorama'),
-      panorama: '{{ "/imgs_2026/Lancaster/20251112_123039.jpg" | relative_url }}',
-      navbar: ["zoom", "fullscreen"],
-      touchmoveTwoFingers: true
-    });
-  } catch (err) {
-    console.error("Panorama viewer error:", err);
+  console.log("Initialising PhotoSphereViewer...");
+  if (typeof PhotoSphereViewer === "undefined") {
+    console.error("PhotoSphereViewer failed to load!");
+    return;
   }
+  new PhotoSphereViewer.Viewer({
+    container: document.querySelector('#panorama'),
+    panorama: '{{ "/imgs_2026/Lancaster/20251112_123039.jpg" | relative_url }}',
+    navbar: ["zoom", "fullscreen"],
+    touchmoveTwoFingers: true,
+  });
 });
 </script>
 {% endraw %}
