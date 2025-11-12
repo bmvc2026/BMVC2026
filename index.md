@@ -67,11 +67,11 @@ title: Home
 
 <p class="text-justify">The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/">The British Machine Vision Association and Society for Pattern Recognition</a> for the purposes of the scholarly advancement of education and research in machine vision, pattern recognition and associated academic research areas, including the application of such scholarly research within industry. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</p>
 
+{% raw %}
 <link rel="stylesheet" href="https://unpkg.com/photo-sphere-viewer@5/dist/photo-sphere-viewer.css">
 <script src="https://unpkg.com/three@0.158.0/build/three.min.js"></script>
 <script src="https://unpkg.com/photo-sphere-viewer@5/dist/photo-sphere-viewer.js"></script>
 <div id="panorama" style="width: 100%; height: 500px; border-radius: 10px; overflow: hidden;"></div>
-{% raw %}
 <script>
   const viewer = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#panorama'),
