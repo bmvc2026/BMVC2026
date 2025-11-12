@@ -29,6 +29,12 @@ sponsors:
     url: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
     url-external: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
 
+  - name: iCVL
+    type: Supported by
+    logo: iCVL.png
+    url: "https://wp.lancs.ac.uk/icvl/"
+    url-external: "https://wp.lancs.ac.uk/icvl/"
+
   # - name: Technovative Solutions
   #   type: Platinum
   #   logo: technovative_solutions.png
