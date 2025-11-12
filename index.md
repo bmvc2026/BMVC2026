@@ -75,7 +75,7 @@ title: Home
 <script>
   const viewer = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#panorama'),
-    panorama: '{{ "https://bmvc2026.bmva.org/imgs_2026/Lancaster/20251112_123039.jpg"}}',
+    panorama: '{{ "/imgs_2026/Lancaster/20251112_123039.jpg"}}',
     defaultYaw: 0,
     touchmoveTwoFingers: true,
     navbar: ['zoom', 'fullscreen'],
