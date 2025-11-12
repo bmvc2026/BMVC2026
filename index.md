@@ -74,7 +74,7 @@ title: Home
 <script>
   const viewer = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#panorama'),
-    panorama: '{{ "imgs_2026/Lancaster/welcome-to-lancaster-city-1920x1080.jpg" | relative_url }}',
+    panorama: '{{ "imgs_2026/Lancaster/20251112_123039.jpg" | relative_url }}',
     defaultYaw: 0,
     touchmoveTwoFingers: true,
     navbar: ['zoom', 'fullscreen'],
