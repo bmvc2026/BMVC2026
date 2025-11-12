@@ -71,14 +71,23 @@ title: Home
 <link rel="stylesheet" href="https://unpkg.com/photo-sphere-viewer@5/dist/photo-sphere-viewer.css">
 <script src="https://unpkg.com/three@0.158.0/build/three.min.js"></script>
 <script src="https://unpkg.com/photo-sphere-viewer@5/dist/photo-sphere-viewer.js"></script>
-<div id="panorama" style="width: 100%; height: 500px; border-radius: 10px; overflow: hidden;"></div>
+
+<div id="panorama"
+     style="width:100%; height:500px; border-radius:10px; overflow:hidden; margin:1em 0;">
+</div>
+
 <script>
-  const viewer = new PhotoSphereViewer.Viewer({
-    container: document.querySelector('#panorama'),
-    panorama: '{{ "/imgs_2026/Lancaster/20251112_123039.jpg"}}',
-    defaultYaw: 0,
-    touchmoveTwoFingers: true,
-    navbar: ['zoom', 'fullscreen'],
-  });
+document.addEventListener("DOMContentLoaded", function() {
+  try {
+    new PhotoSphereViewer.Viewer({
+      container: document.querySelector('#panorama'),
+      panorama: '{{ "/imgs_2026/Lancaster/20251112_123039.jpg" | relative_url }}',
+      navbar: ["zoom", "fullscreen"],
+      touchmoveTwoFingers: true
+    });
+  } catch (err) {
+    console.error("Panorama viewer error:", err);
+  }
+});
 </script>
 {% endraw %}
