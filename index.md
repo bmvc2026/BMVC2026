@@ -71,6 +71,7 @@ title: Home
 <script src="https://unpkg.com/three@0.158.0/build/three.min.js"></script>
 <script src="https://unpkg.com/photo-sphere-viewer@5/dist/photo-sphere-viewer.js"></script>
 <div id="panorama" style="width: 100%; height: 500px; border-radius: 10px; overflow: hidden;"></div>
+{% raw %}
 <script>
   const viewer = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#panorama'),
@@ -80,3 +81,4 @@ title: Home
     navbar: ['zoom', 'fullscreen'],
   });
 </script>
+{% endraw %}
