@@ -67,6 +67,7 @@ title: Home
 
 <p class="text-justify">The British Machine Vision Conference is organised by <a href="https://britishmachinevisionassociation.github.io/">The British Machine Vision Association and Society for Pattern Recognition</a> for the purposes of the scholarly advancement of education and research in machine vision, pattern recognition and associated academic research areas, including the application of such scholarly research within industry. The Association is a Company limited by guarantee, No.2543446, and a non-profit-making body, registered in England and Wales as Charity No.1002307 (Registered Office: Dept. of Computer Science, Durham University, South Road, Durham, DH1 3LE, UK).</p>
 
+{% comment %} 
 {% raw %}
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@5.8.2/dist/photo-sphere-viewer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
@@ -89,3 +90,4 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 {% endraw %}
+{% endcomment %} 
