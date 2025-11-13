@@ -20,7 +20,7 @@ title: Home
 
 {% endcomment %} 
 
-<img src="imgs_2026/Lancaster/LancasterTownHallGraphic-Welcome.png" width="100%"  style="vertical-align: bottom; margin-bottom:0rem!important">
+<!--<img src="imgs_2026/Lancaster/LancasterTownHallGraphic-Welcome.png" width="100%"  style="vertical-align: bottom; margin-bottom:0rem!important">-->
 <div class="alert mt-3 alert-info" style="vertical-align: top; margin-top:-1.1rem!important">
     <!-- <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p> -->
     <p>BMVC'26 will be hosted by Lancaster University and held at Lancaster Town Hall. </p>
