@@ -5,9 +5,7 @@
 layout: default_sidebar
 title: Home 
 ---
-<!--
 <p class="text-justify">The British Machine Vision Conference (BMVC) is the British Machine Vision Association's (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.</p>
--->
 
 {% comment %} 
 
@@ -26,7 +24,6 @@ title: Home
 <div class="alert mt-3 alert-info" style="vertical-align: top; margin-top:-1.1rem!important">
     <!-- <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p> -->
     <p>BMVC'26 will be hosted by Lancaster University and held at Lancaster Town Hall. </p>
-    <p class="text-justify">The British Machine Vision Conference (BMVC) is the British Machine Vision Association's (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.</p>
     <p>Top papers from BMVC 2026 will be invited to submit extended versions to a special issue of the International Journal of Computer Vision (IJCV). </p>
     <!--  <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p> -->
     <!--<p>BMVC will not have a rebuttal period this year. Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p>-->
