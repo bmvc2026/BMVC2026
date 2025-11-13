@@ -23,6 +23,12 @@ sponsors:
     url: "https://www.lancaster.gov.uk/"
     url-external: "https://www.lancaster.gov.uk/"
 
+  - name: Lancaster_Town_Hall_2
+    type: Supported by
+    logo: LancasterTownHall.jpeg
+    url: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
+    url-external: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
+
   - name: Lancaster_Town_Hall
     type: Supported by
     logo: LancasterCouncilCoatofArms.png
