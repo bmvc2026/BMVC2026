@@ -22,7 +22,7 @@ title: Home
 
 {% endcomment %} 
 
-<img src="imgs_2026/Lancaster/LancasterTownHallGraphic.png" width="100%">
+<img src="imgs_2026/Lancaster/LancasterTownHallGraphic.png" width="100%"  style="vertical-align: bottom;">
 <div class="alert mt-3 alert-info" style="vertical-align: top;">
     <!-- <p>Paper registeration deadline is 23:59 GMT Tuesday, 13 May 2025. Full paper submission deadline is 23:59 GMT Friday, 16 May 2025. </p> -->
     <p>Top papers from BMVC 2026 will be invited to submit extended versions to a special issue of the International Journal of Computer Vision (IJCV). </p>
