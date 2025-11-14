@@ -13,31 +13,31 @@ sponsors:
 
   - name: Lancaster_University
     type: Supported by
-    logo: Slide5.PNG
+    logo: LancasterLogo.png
     url: "https://www.lancaster.ac.uk/"
     url-external: "https://www.lancaster.ac.uk/"
 
   - name: Lancaster_Council
     type: Supported by
-    logo: Slide2.PNG
+    logo: LancasterCouncil.png
     url: "https://www.lancaster.gov.uk/"
     url-external: "https://www.lancaster.gov.uk/"
 
   - name: Lancaster_Town_Hall_2
     type: Supported by
-    logo: Slide4.PNG
+    logo: LancasterTownHallGraphic.png
     url: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
     url-external: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
 
   - name: Lancaster_Town_Hall
     type: Supported by
-    logo: Slide3.PNG
+    logo: LancasterCouncilCoatofArms.png
     url: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
     url-external: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
 
   - name: iCVL
     type: Supported by
-    logo: Slide1.PNG
+    logo: iCVL.png
     url: "https://wp.lancs.ac.uk/icvl/"
     url-external: "https://wp.lancs.ac.uk/icvl/"
 
