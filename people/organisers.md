@@ -305,19 +305,19 @@ index: 0
 <br>
 
 
-<!---
-<h4>Social Media Chairs</h4>
+<h4>Publicity Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Chaona_Chen.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/chaona-chen">Chaona Chen</a></h4>
-        <p class="pb-2">University of Sheffield</p>
+        <img src="../../imgs_2025/Chaona_Chen1.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu">Chaona Chen</a></h4>
+        <p class="pb-2">Lancaster University</p>
     </div>
 </div>
 
+<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Shiyu_Fan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
