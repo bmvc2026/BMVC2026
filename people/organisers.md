@@ -237,10 +237,18 @@ index: 0
 <br>
 --->
 
-<!---
 <h4>Local Arrangement Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/WalkerMiles.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/miles-walker">Miles Walker</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+<!---
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
@@ -273,11 +281,11 @@ index: 0
         <p class="pb-2">University of Sheffield</p>
     </div>
 </div>
+--->
 
 </div>
 <br>
 <br>
---->
 
 <h4>Website Chairs</h4>
 <br>
