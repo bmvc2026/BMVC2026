@@ -28,7 +28,7 @@ title: Home
     <!--  <p>The submission portal is alive. <a href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">OpenReview Link</a> </p> -->
     <!--<p>BMVC will not have a rebuttal period this year. Further guidance for authors, reviewers and area chairs can be found in the Authors dropdown menu above.</p>-->
     <p>Follow us on Twitter (<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a class="a-dbg" href="https://twitter.com/BMVCconf">BMVCconf</a>) for real-time updates about deadlines, the venue and the city. </p>
-    <center><img src="imgs_2026/Lancaster/an-exterior-shot-of-lancaster.jpg" width="100%"></center>
+    <center><img src="imgs_2026/Lancaster/an-exterior-shot-of-lancaster2.jpg" width="100%"></center>
 </div>
 
 {% comment %} 
