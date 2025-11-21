@@ -237,6 +237,32 @@ index: 0
 <br>
 --->
 
+<h4>Publicity Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/YuZhengxin.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu">Zhengxin Yu</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+<!---
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Shiyu_Fan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/shiyufan/">Shiyu Fan</a></h4>
+        <p class="pb-2">University of Glasgow</p>
+    </div>
+</div>
+
+--->
+</div>
+<br>
+<br>
+
 <h4>Local Arrangement Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -313,31 +339,6 @@ index: 0
 <br>
 
 
-<h4>Publicity Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/YuZhengxin.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu">Zhengxin Yu</a></h4>
-        <p class="pb-2">Lancaster University</p>
-    </div>
-</div>
-
-<!---
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2025/Shiyu_Fan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.gla.ac.uk/pgrs/shiyufan/">Shiyu Fan</a></h4>
-        <p class="pb-2">University of Glasgow</p>
-    </div>
-</div>
-
---->
-</div>
-<br>
-<br>
 
 <!---
 <h4>Proceedings Chairs</h4>
