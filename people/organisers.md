@@ -293,8 +293,8 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2026/People/XiangQuichi.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/qiuchi-xiang">Quichi Xiang</a></h4>
+        <img src="../../imgs_2026/People/XiangQiuchi.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/qiuchi-xiang">Qiuchi Xiang</a></h4>
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
