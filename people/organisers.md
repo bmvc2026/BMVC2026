@@ -91,11 +91,27 @@ index: 0
 <br>
 <br>
 
-<!---
 <h4>Technical Programme Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/QuHaoxuan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/haoxuan-qu">Haoxuan Qu</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/LiZhuoling.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/zhuoling-li">Zhuoling Li</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Mingqi_Gao.png" class="rounded-circle img-fluid" style="max-width: 125px;">
@@ -120,10 +136,10 @@ index: 0
     </div>
 </div>
 
+--->
 </div>
 <br>
 <br>
---->
 
 <!---
 <h4>Workshop Chairs</h4>
@@ -271,6 +287,22 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/WalkerMiles.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/miles-walker">Miles Walker</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/XiangQuichi.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/qiuchi-xiang">Quichi Xiang</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/XueYu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/yu-xue">Yu Xue</a></h4>
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
