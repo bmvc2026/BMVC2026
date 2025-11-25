@@ -370,6 +370,31 @@ index: 0
 <br>
 <br>
 
+<h4>Equality, Diversity and Inclusion Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/WinterEmily.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/emily-winter">Emily Winter</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+<!---
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2025/Bowen_Dang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://dangbowen-bell.github.io">Xiaofei Hui</a></h4>
+        <p class="pb-2">University of Sheffield</p>
+    </div>
+</div>
+--->
+</div>
+<br>
+<br>
+
 
 
 <!---
