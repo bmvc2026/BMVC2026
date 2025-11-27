@@ -253,7 +253,7 @@ index: 0
 <br>
 --->
 
-<h4>Doctoral Consortium Chairs</h4>
+<h4>Sustainability Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
