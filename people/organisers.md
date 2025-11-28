@@ -62,15 +62,15 @@ index: 0
     </div>
 </div>
 
-<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Jefersson_A_dos_Santos.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/dcs/people/academic/jefersson-alex-dos-santos">Jefersson A. dos Santos</a></h4>
-        <p class="pb-2">University of Sheffield</p>
+        <img src="../../imgs_2026/People/CaiJianfei.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://research.monash.edu/en/persons/jianfei-cai/">Jianfei Cai</a></h4>
+        <p class="pb-2">Monash University</p>
     </div>
 </div>
 
+<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Zhixiang_Chen.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
@@ -302,7 +302,7 @@ index: 0
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2026/People/HuPing.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://feinanshan.github.io/">Qiuhong Ke</a></h4>
+        <h4 class="pt-2"><a href="https://feinanshan.github.io/">Ping Hu</a></h4>
         <p class="pb-2">University of Electronic Science and Technology of China</p>
     </div>
 </div>
