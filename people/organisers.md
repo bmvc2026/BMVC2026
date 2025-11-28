@@ -33,6 +33,30 @@ index: 0
 <br>
 <br>
 
+<h4>Advisory Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/MingHsuanYang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://faculty.ucmerced.edu/mhyang/">Ming-Hsuan Yang</a></h4>
+        <p class="pb-2">University of California at Merced; Google DeepMind</p>
+    </div>
+</div>
+
+<!--<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/MirmehdiMajid.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.bristol.ac.uk/people/person/Majid-Mirmehdi-93fe13c3-06b3-4797-a8fe-9fd6d2dc5dc2/">Majid Mirmehdi</a></h4>
+        <p class="pb-2">University of Bristol</p>
+    </div>
+</div>-->
+
+</div>
+<br>
+<br>
+
 
 <h4>Programme Chairs</h4>
 <br>
