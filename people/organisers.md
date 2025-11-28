@@ -41,7 +41,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/MingHsuanYang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://faculty.ucmerced.edu/mhyang/">Ming-Hsuan Yang</a></h4>
-        <p class="pb-2">University of California at Merced; Google DeepMind</p>
+        <p class="pb-2">University of California at Merced</p>
     </div>
 </div>
 
