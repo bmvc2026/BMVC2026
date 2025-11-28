@@ -11,7 +11,7 @@ pages:
   #   dropdown: true
   - title: Programme
     url: /programme/
-  #   dropdown: true
+    dropdown: true
   # - title: Authors
   #   url: /authors/
   #   dropdown: true
