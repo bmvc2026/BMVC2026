@@ -10,21 +10,21 @@ index: 5
         <div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
-                    <img src="../../imgs_2025/Marc_Pollefeys.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-                    <h4 class="pt-2"><a href="https://people.inf.ethz.ch/marc.pollefeys/">Marc Pollefeys</a></h4>
-                    <span class=""><small>ETH Zurich</small></span>
+                    <img src="../../imgs_2026/Keynotes/VedaldiAndrea.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a></h4>
+                    <span class=""><small>University of Oxford</small></span>
                 </div>
             </div>
             <div class="col-12 col-md-8 col-lg-9">
                 <div class="">
                     <h5 class="pt-1 text-center"><b>Spatial AI</b></h5>
                     <p class="text-center mb-1"><small></small></p> 
-                    <p class="pb-1 mb-1 text-justify"><b>Abstract: </b>In this talk we’ll discuss how to build rich 3D representations of the environment to assist people and robots to perform tasks.  We’ll first discuss how to build visual 3D maps of environments and use those for visual (re)localization, spatial data access and navigation.  We’ll cover recent methods based on geometry, learning and combining both.  One of the questions we will consider is what is best learned and where we should use explicit geometric concepts.  We’ll also discuss how to build rich 3D semantic representations that enable queries and interactions with the scene. Our approach allows open vocabulary queries by leveraging foundation models.  While these models are very powerful in recognizing arbitrary objects, there are some aspects that are still missing to enable robotic interactions.  We’ll also briefly cover some of our work on action recognition which is key in building AI assistants and could also be useful to enable robots to learn from examples.</p>
-                    <p class="pb-2 text-justify"><b>Bio: </b>Marc Pollefeys is a Professor of Computer Science at ETH Zurich and the Director of the Microsoft Spatial AI Lab in Zurich. He is a Fellow of IEEE, ACM, AAIA and ELLIS, as well as a member of the Academia Europaea.  His work received several prizes and awards, including the Marr Prize and several best paper awards.  He obtained his PhD from the KU Leuven in 1999 and was a professor at UNC Chapel Hill before joining ETH Zurich. He is best known for his work in 3D computer vision, having been the first to develop a software pipeline to automatically turn photographs into 3D models, but also works on robotics, graphics and machine learning problems. Other noteworthy projects he worked on are real-time 3D scanning with mobile devices (2013), a real-time pipeline for 3D reconstruction of cities from vehicle mounted-cameras (2007), camera-based self-driving cars and the first fully autonomous vision-based drone (2012). More recently his academic research has focused on combining 3D reconstruction with semantic scene understanding. He served as the program chair for CVPR 2009 and general chair for ECCV 2014 and ICCV 2019 and was the founding president of the European Computer Vision Foundation.</p>
+                    <!--<p class="pb-1 mb-1 text-justify"><b>Abstract: </b>In this talk we’ll discuss how to build rich 3D representations of the environment to assist people and robots to perform tasks.  We’ll first discuss how to build visual 3D maps of environments and use those for visual (re)localization, spatial data access and navigation.  We’ll cover recent methods based on geometry, learning and combining both.  One of the questions we will consider is what is best learned and where we should use explicit geometric concepts.  We’ll also discuss how to build rich 3D semantic representations that enable queries and interactions with the scene. Our approach allows open vocabulary queries by leveraging foundation models.  While these models are very powerful in recognizing arbitrary objects, there are some aspects that are still missing to enable robotic interactions.  We’ll also briefly cover some of our work on action recognition which is key in building AI assistants and could also be useful to enable robots to learn from examples.</p>-->
+                    <p class="pb-2 text-justify"><b>Bio: </b>Andrea Vedaldi is Professor of Computer Vision and Machine Learning and a co-lead of the VGG group at the Engineering Science department of the University of Oxford. He researches computer vision and machine learning methods to understand the content of images and videos automatically, with little to no manual supervision, in terms of semantics and 3D geometry.</p>
                 </div>
             </div>
         </div>
-        <div class="row pt-2 pb-2 align-items-center">
+        <!--<div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
                     <img src="../../imgs_2025/Philip_Torr.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
@@ -57,7 +57,7 @@ index: 5
                     <p class="pb-2 text-justify"><b>Bio: </b>Angela Dai is an Associate Professor at the Technical University of Munich where she leads the 3D AI Lab. Angela's research focuses on understanding how real-world 3D scenes around us can be modeled and semantically understood. Previously, she received her PhD in computer science from Stanford in 2018, advised by Pat Hanrahan, and her BSE in computer science from Princeton in 2013. Her research has been recognized through an ECVA Young Researcher Award, ERC Starting Grant, Eurographics Young Researcher Award, German Pattern Recognition Award, Google Research Scholar Award, and an ACM SIGGRAPH Outstanding Doctoral Dissertation Honorable Mention.</p>
                 </div>
             </div>
-        </div>
+        </div>-->
     </div>
 </div>
 

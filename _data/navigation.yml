@@ -9,8 +9,8 @@ pages:
   # - title: Attending
   #   url: /attending/
   #   dropdown: true
-  # - title: Programme
-  #   url: /programme/
+  - title: Programme
+    url: /programme/
   #   dropdown: true
   # - title: Authors
   #   url: /authors/
