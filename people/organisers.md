@@ -8,7 +8,7 @@ index: 0
 <h3>Organising Committee</h3>
 <br>
 
-
+<!------------------------------------------------------------------------------------------------->
 <h4>General Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -33,6 +33,7 @@ index: 0
 <br>
 <br>
 
+<!------------------------------------------------------------------------------------------------->
 <h4>Advisory Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -41,23 +42,23 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/MingHsuanYang.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://faculty.ucmerced.edu/mhyang/">Ming-Hsuan Yang</a></h4>
-        <p class="pb-2">University of California at Merced</p>
+        <p class="pb-2">University of California at Merced; DeepMind</p>
     </div>
 </div>
 
-<!--<div class="col-6 col-md-4 col-lg-3">
+<div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2026/People/MirmehdiMajid.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.bristol.ac.uk/people/person/Majid-Mirmehdi-93fe13c3-06b3-4797-a8fe-9fd6d2dc5dc2/">Majid Mirmehdi</a></h4>
-        <p class="pb-2">University of Bristol</p>
+        <img src="../../imgs_2026/People/SclaroffStan.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.cs.bu.edu/fac/sclaroff/">Stan Sclaroff</a></h4>
+        <p class="pb-2">Boston University</p>
     </div>
-</div>-->
+</div>
 
 </div>
 <br>
 <br>
 
-
+<!------------------------------------------------------------------------------------------------->
 <h4>Programme Chairs</h4>
 <br>
 <div class="row justify-content-around pl-6 pr-6">
@@ -80,9 +81,9 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2026/People/CzannerGabriela2.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.southampton.ac.uk/people/668885/professor-gabriela-czanner">Gabriela Czanner</a></h4>
-        <p class="pb-2">University of Southampton</p>
+        <img src="../../imgs_2026/People/HanBohyung.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://cv.snu.ac.kr/index.php/~bhhan/">Bohyung Han</a></h4>
+        <p class="pb-2">Seoul National University</p>
     </div>
 </div>
 
@@ -94,23 +95,14 @@ index: 0
     </div>
 </div>
 
-<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Zhixiang_Chen.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/zhixiang-chen">Zhixiang Chen</a></h4>
-        <p class="pb-2">University of Sheffield</p>
+        <img src="../../imgs_2026/People/CzannerGabriela2.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.southampton.ac.uk/people/668885/professor-gabriela-czanner">Gabriela Czanner</a></h4>
+        <p class="pb-2">University of Southampton</p>
     </div>
 </div>
 
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2025/Jun_Liu.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/jun-liu2">Jun Liu</a></h4>
-        <p class="pb-2">Lancaster University</p>
-    </div>
-</div>
---->
 </div>
 <br>
 <br>
