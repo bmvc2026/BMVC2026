@@ -54,6 +54,14 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/ShahMubarak.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.crcv.ucf.edu/person/mubarak-shah/">Mubarak Shah</a></h4>
+        <p class="pb-2">University of Central Florida</p>
+    </div>
+</div>
+
 </div>
 <br>
 <br>
