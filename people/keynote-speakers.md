@@ -24,6 +24,23 @@ index: 5
                 </div>
             </div>
         </div>
+        <div class="row pt-2 pb-2 align-items-center">
+            <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
+                <div class="text-center">
+                    <img src="../../imgs_2026/Keynotes/SaenkoKate.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://ai.bu.edu/ksaenko.html">Kate Saenco</a></h4>
+                    <span class=""><small>Boston University; Meta</small></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="">
+                    <!--<h5 class="pt-1 text-center"><b>Spatial AI</b></h5>-->
+                    <p class="text-center mb-1"><small></small></p> 
+                    <!--<p class="pb-1 mb-1 text-justify"><b>Abstract: </b>In this talk we’ll discuss how to build rich 3D representations of the environment to assist people and robots to perform tasks.  We’ll first discuss how to build visual 3D maps of environments and use those for visual (re)localization, spatial data access and navigation.  We’ll cover recent methods based on geometry, learning and combining both.  One of the questions we will consider is what is best learned and where we should use explicit geometric concepts.  We’ll also discuss how to build rich 3D semantic representations that enable queries and interactions with the scene. Our approach allows open vocabulary queries by leveraging foundation models.  While these models are very powerful in recognizing arbitrary objects, there are some aspects that are still missing to enable robotic interactions.  We’ll also briefly cover some of our work on action recognition which is key in building AI assistants and could also be useful to enable robots to learn from examples.</p>-->
+                    <p class="pb-2 text-justify"><b>Bio: </b>Andrea Vedaldi is Professor of Computer Vision and Machine Learning and a co-lead of the VGG group at the Engineering Science department of the University of Oxford. He researches computer vision and machine learning methods to understand the content of images and videos automatically, with little to no manual supervision, in terms of semantics and 3D geometry.</p>
+                </div>
+            </div>
+        </div>
         <!--<div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
