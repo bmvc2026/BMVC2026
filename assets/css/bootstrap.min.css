@@ -8167,7 +8167,7 @@ a.text-dark:focus,a.text-dark:hover{
 
 .dated-list li {
   position: relative !important;
-  padding-left: 80px !important; /* space for the date */
+  padding-left: 60px !important; /* space for the date */
   margin-bottom: 6px !important;
 }
 
@@ -8177,6 +8177,6 @@ a.text-dark:focus,a.text-dark:hover{
   left: 0 !important;
   top: 0 !important;
   font-weight: 600 !important;
-  color: #B5121B !important; /* BMVC blue */
+  color: #B5121B !important; 
   /*font-family: monospace !important; *//* clean bracket look */
 }
