@@ -177,15 +177,15 @@ index: 0
     </div>
 </div>
 
-<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Guosheng_Hu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://research-information.bris.ac.uk/en/persons/guosheng-hu">Guosheng Hu</a></h4>
-        <p class="pb-2">University of Bristol</p>
+        <img src="../../imgs_2026/People/LiuZiquan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://sites.google.com/view/ziquanliu">Ziquan Liu</a></h4>
+        <p class="pb-2">Queen Mary, University of London</p>
     </div>
 </div>
 
+<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Bryan_Williams.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
