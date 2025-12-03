@@ -165,19 +165,19 @@ index: 0
 <br>
 <br>
 
-<!---
 <h4>Workshop Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2025/Chen_Chen.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.sheffield.ac.uk/cs/people/academic/chen-chen">Chen Chen</a></h4>
-        <p class="pb-2">University of Sheffield</p>
+        <img src="../../imgs_2026/People/WilsonEmma.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/emma-wilson">Emma Wilson</a></h4>
+        <p class="pb-2">Lancaster University</p>
     </div>
 </div>
 
+<!---
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2025/Guosheng_Hu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
@@ -194,10 +194,10 @@ index: 0
     </div>
 </div>
 
+--->
 </div>
 <br>
 <br>
---->
 
 <!---
 <h4>Sponsorship Chairs</h4>
