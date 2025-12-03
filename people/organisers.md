@@ -327,7 +327,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/HuPing.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://feinanshan.github.io/">Ping Hu</a></h4>
-        <p class="pb-2">University of Electronic Science and Technology of China</p>
+        <p class="pb-2">University of Electronic Science and Technology of China<br>China</p>
     </div>
 </div>
 
