@@ -474,6 +474,14 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/JuYakun.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://le.ac.uk/people/yakun-ju">Yakun Ju</a></h4>
+        <p class="pb-2">University of Leicester</p>
+    </div>
+</div>
+
 </div>
 <br>
 <br>
