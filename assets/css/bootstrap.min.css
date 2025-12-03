@@ -8162,7 +8162,7 @@ a.text-dark:focus,a.text-dark:hover{
 
 .dated-list {
   list-style: none !important;
-  padding-left: 0 !important;
+  padding-left: 20px !important;
 }
 
 .dated-list li {
