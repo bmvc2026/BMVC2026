@@ -8177,6 +8177,6 @@ a.text-dark:focus,a.text-dark:hover{
   left: 0 !important;
   top: 0 !important;
   font-weight: 600 !important;
-  color: #2b6cb0 !important; /* BMVC blue */
-  font-family: monospace !important; /* clean bracket look */
+  color: #B5121B !important; /* BMVC blue */
+  /*font-family: monospace !important; *//* clean bracket look */
 }
