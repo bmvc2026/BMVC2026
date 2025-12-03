@@ -319,7 +319,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/KeQiuhong.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://research.monash.edu/en/persons/qiuhong-ke/">Qiuhong Ke</a></h4>
-        <p class="pb-2">Monash University</p><p class="pb-2">Australia</p>
+        <p class="pb-2">Monash University<br>Australia</p>
     </div>
 </div>
 
