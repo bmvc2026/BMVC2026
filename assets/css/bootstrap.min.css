@@ -8163,7 +8163,7 @@ a.text-dark:focus,a.text-dark:hover{
 .dated-list {
   list-style: none !important;
   /*padding-left: 20px !important;*/
-  padding: 20px 20px 10px 20px;
+  padding: 20px 20px 10px 20px !important;
   /*padding-inline-start: 60px;*/
 }
 
