@@ -8169,7 +8169,7 @@ a.text-dark:focus,a.text-dark:hover{
 
 .dated-list li {
   position: relative !important;
-  padding-left: 80px !important; /* space for the date */
+  padding-left: 60px !important; /* space for the date */
   margin-bottom: 6px !important;
 }
 
