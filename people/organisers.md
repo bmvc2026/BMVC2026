@@ -335,7 +335,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/VyasRitesh.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://sites.google.com/view/riteshvyas">Ritesh Vyas</a></h4>
-        <p class="pb-2">Pandit Deenjal Energy University<br>India</p>
+        <p class="pb-2">Pandit Deendayal Energy University<br>India</p>
     </div>
 </div>
 
