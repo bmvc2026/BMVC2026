@@ -123,7 +123,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/KeQiuhong.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://research.monash.edu/en/persons/qiuhong-ke/">Qiuhong Ke</a></h4>
-        <p class="pb-2">Monash University<br>Australia</p>
+        <p class="pb-2">Monash University</p>
     </div>
 </div>
 
@@ -131,7 +131,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/HuPing.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://feinanshan.github.io/">Ping Hu</a></h4>
-        <p class="pb-2">University of Electronic Science and Technology of China<br>China</p>
+        <p class="pb-2">University of Electronic Science and Technology of China</p>
     </div>
 </div>
 
@@ -496,7 +496,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/VyasRitesh.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://sites.google.com/view/riteshvyas">Ritesh Vyas</a></h4>
-        <p class="pb-2">Pandit Deendayal Energy University<br>India</p>
+        <p class="pb-2">Pandit Deendayal Energy University</p>
     </div>
 </div>
 
