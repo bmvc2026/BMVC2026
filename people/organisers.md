@@ -406,6 +406,53 @@ index: 0
 <br>
 <br>
 
+
+
+
+
+<h4>Proceedings Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/JuYakun.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://le.ac.uk/people/yakun-ju">Yakun Ju</a></h4>
+        <p class="pb-2">University of Leicester</p>
+    </div>
+</div>
+
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/HuJian.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://lwpyh.github.io/">Jian Hu</a></h4>
+        <p class="pb-2">Queen Mary, University of London</p>
+    </div>
+</div>
+
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/XiangQiuchi.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/qiuchi-xiang">Qiuchi Xiang</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/XueYu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/yu-xue">Yu Xue</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+
+</div>
+<br>
+<br>
+
 <h4>Equality, Diversity and Inclusion Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -427,49 +474,6 @@ index: 0
     </div>
 </div>
 --->
-</div>
-<br>
-<br>
-
-
-
-<h4>Proceedings Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/JuYakun.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://le.ac.uk/people/yakun-ju">Yakun Ju</a></h4>
-        <p class="pb-2">University of Leicester</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/XiangQiuchi.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/qiuchi-xiang">Qiuchi Xiang</a></h4>
-        <p class="pb-2">Lancaster University</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/XueYu.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/yu-xue">Yu Xue</a></h4>
-        <p class="pb-2">Lancaster University</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/HuJian.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://lwpyh.github.io/">Jian Hu</a></h4>
-        <p class="pb-2">Queen Mary, University of London</p>
-    </div>
-</div>
-
-
 </div>
 <br>
 <br>
