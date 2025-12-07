@@ -187,9 +187,9 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2026/People/WilsonEmma.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/emma-wilson">Emma Wilson</a></h4>
-        <p class="pb-2">Lancaster University</p>
+        <img src="../../imgs_2026/People/HuGuosheng.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://huguosheng.github.io">Guosheng Hu</a></h4>
+        <p class="pb-2">University of Bristol</p>
     </div>
 </div>
 
@@ -200,6 +200,16 @@ index: 0
         <p class="pb-2">Queen Mary, University of London</p>
     </div>
 </div>
+
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/WilsonEmma.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/emma-wilson">Emma Wilson</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
 
 <!---
 <div class="col-6 col-md-4 col-lg-3">
