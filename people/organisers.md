@@ -121,6 +121,22 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
+        <img src="../../imgs_2026/People/KeQiuhong.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://research.monash.edu/en/persons/qiuhong-ke/">Qiuhong Ke</a></h4>
+        <p class="pb-2">Monash University<br>Australia</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/HuPing.png" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://feinanshan.github.io/">Ping Hu</a></h4>
+        <p class="pb-2">University of Electronic Science and Technology of China<br>China</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
         <img src="../../imgs_2026/People/QuHaoxuan.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/haoxuan-qu">Haoxuan Qu</a></h4>
         <p class="pb-2">Lancaster University</p>
@@ -303,45 +319,6 @@ index: 0
 <br>
 <br>
 
-<h4>Publicity Chairs</h4>
-<br>
-<div class="row justify-content-around pl-4 pr-4">
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/YuZhengxin.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu">Zhengxin Yu</a></h4>
-        <p class="pb-2">Lancaster University</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/KeQiuhong.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://research.monash.edu/en/persons/qiuhong-ke/">Qiuhong Ke</a></h4>
-        <p class="pb-2">Monash University<br>Australia</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/HuPing.png" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://feinanshan.github.io/">Ping Hu</a></h4>
-        <p class="pb-2">University of Electronic Science and Technology of China<br>China</p>
-    </div>
-</div>
-
-<div class="col-6 col-md-4 col-lg-3">
-    <div class="text-center">
-        <img src="../../imgs_2026/People/VyasRitesh.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://sites.google.com/view/riteshvyas">Ritesh Vyas</a></h4>
-        <p class="pb-2">Pandit Deendayal Energy University<br>India</p>
-    </div>
-</div>
-
-</div>
-<br>
-<br>
 
 <h4>Local Arrangement Chairs</h4>
 <br>
@@ -452,6 +429,14 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
+        <img src="../../imgs_2026/People/JuYakun.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://le.ac.uk/people/yakun-ju">Yakun Ju</a></h4>
+        <p class="pb-2">University of Leicester</p>
+    </div>
+</div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
         <img src="../../imgs_2026/People/XiangQiuchi.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/qiuchi-xiang">Qiuchi Xiang</a></h4>
         <p class="pb-2">Lancaster University</p>
@@ -474,18 +459,35 @@ index: 0
     </div>
 </div>
 
+
+</div>
+<br>
+<br>
+
+<h4>Publicity Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2026/People/JuYakun.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://le.ac.uk/people/yakun-ju">Yakun Ju</a></h4>
-        <p class="pb-2">University of Leicester</p>
+        <img src="../../imgs_2026/People/YuZhengxin.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu">Zhengxin Yu</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/VyasRitesh.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://sites.google.com/view/riteshvyas">Ritesh Vyas</a></h4>
+        <p class="pb-2">Pandit Deendayal Energy University<br>India</p>
     </div>
 </div>
 
 </div>
 <br>
 <br>
-
 
 <h4>Supported on behalf of the <a href="https://britishmachinevisionassociation.github.io/">BMVA</a> by</h4>
 <br>
