@@ -13,6 +13,7 @@
       {% for item in site.data.navigation.pages %}
         {% if item.dropdown %}
           {% assign dropdown_pages = site.pages | where_exp:"page", "page.url contains item.url" %}
+          {% assign dropdown_pages = dropdown_pages | where_exp:"page", "page.nav_exclude != true" %}
           {% assign page_active = item.url == page.url %}
           {% for subpage in dropdown_pages %}
             {% if subpage.url == page.url %}

@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Call for Papers - Doctoral Consortium
 permalink: /calls/doctoral-consortium/
+nav_exclude: true
 ---
 
 We are delighted to invite submissions for the Doctoral Consortium at the upcoming <a href="https://bmvc2025.bmva.org">British Machine Vision Conference (BMVC)</a>, to take place on 24th-27th November, 2025 in Sheffield, England, UK. The Doctoral Consortium will provide a unique opportunity for PhD students who are within 6 months (before or after) of graduating with their doctoral degree to interact with experienced researchers in computer vision. Each student will be assigned a mentor who is a senior member of the community attending the conference, based on similarity of research interests. Students and mentors will attend the Doctoral Consortium event in person, giving students an opportunity to discuss their ongoing research and career plans with their mentor.

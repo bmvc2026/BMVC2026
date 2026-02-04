@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Call for Workshops
 permalink: /calls/call-for-workshops/
+nav_exclude: true
 ---
 
 We are soliciting proposals for workshops to be held together with the 2025 British Machine Vision Conference (BMVC 2025). Workshops will take place on **27th November 2025**.
