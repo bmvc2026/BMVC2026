@@ -111,6 +111,14 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/YangMichael.tiff" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://researchportal.bath.ac.uk/en/persons/michael-yang-2/">Michael Yang</a></h4>
+        <p class="pb-2">University of Bath</p>
+    </div>
+</div>
+
 </div>
 <br>
 <br>
@@ -131,7 +139,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/HuPing.png" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://feinanshan.github.io/">Ping Hu</a></h4>
-        <p class="pb-2">University of Electronic Science and Technology of China</p>
+        <p class="pb-2">VinUniversity</p>
     </div>
 </div>
 
@@ -206,7 +214,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/LiuZiquan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://sites.google.com/view/ziquanliu">Ziquan Liu</a></h4>
-        <p class="pb-2">Queen Mary, University of London</p>
+        <p class="pb-2">Queen Mary University of London</p>
     </div>
 </div>
 
@@ -410,6 +418,22 @@ index: 0
         <img src="../../imgs_2026/People/VyasRitesh.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://sites.google.com/view/riteshvyas">Ritesh Vyas</a></h4>
         <p class="pb-2">Pandit Deendayal Energy University</p>
+    </div>
+</div>
+
+</div>
+<br>
+<br>
+
+<h4>Sponsership Chairs</h4>
+<br>
+<div class="row justify-content-around pl-4 pr-4">
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/LiuZiquan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://sites.google.com/view/ziquanliu">Ziquan Liu</a></h4>
+        <p class="pb-2">Queen Mary University of London</p>
     </div>
 </div>
 

@@ -41,6 +41,26 @@ index: 5
                 </div>
             </div>
         </div>
+        <div class="row pt-2 pb-2 align-items-center">
+            <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
+                <div class="text-center">
+                    <img src="../../imgs_2026/Keynotes/PatelVishal.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://engineering.jhu.edu/vpatel36/vishal-patel/">Vishal M. Patel</a></h4>
+                    <span class=""><small>Johns Hopkins University</small></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="">
+                    <!--<h5 class="pt-1 text-center"><b>Spatial AI</b></h5>-->
+                    <p class="text-center mb-1"><small></small></p> 
+                    <!--<p class="pb-1 mb-1 text-justify"><b>Abstract: </b>In this talk we’ll discuss how to build rich 3D representations of the environment to assist people and robots to perform tasks.  We’ll first discuss how to build visual 3D maps of environments and use those for visual (re)localization, spatial data access and navigation.  We’ll cover recent methods based on geometry, learning and combining both.  One of the questions we will consider is what is best learned and where we should use explicit geometric concepts.  We’ll also discuss how to build rich 3D semantic representations that enable queries and interactions with the scene. Our approach allows open vocabulary queries by leveraging foundation models.  While these models are very powerful in recognizing arbitrary objects, there are some aspects that are still missing to enable robotic interactions.  We’ll also briefly cover some of our work on action recognition which is key in building AI assistants and could also be useful to enable robots to learn from examples.</p>-->
+                    <p class="pb-2 text-justify"><b>Bio: </b>Vishal M. Patel is an Associate Professor in the Department of Electrical and Computer Engineering (ECE) at Johns Hopkins University. His research focuses on computer vision, machine learning, image processing, medical image analysis, and biometrics. He has received a number of awards including the 2021 IEEE Signal Processing Society (SPS) Pierre-Simon Laplace Early Career Technical Achievement Award, the 2021 NSF CAREER Award, the 2021 IAPR Young Biometrics Investigator Award (YBIA), the 2016 ONR Young Investigator Award, and the 2016 Jimmy Lin Award for Invention. 
+                    <!-- Patel serves as an associate editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence journal and IEEE Transactions on Biometrics, Behavior, and Identity Science. He also chairs the conference subcommittee of IAPR Technical Committee on Biometrics (TC4). He is a fellow of the IAPR. -->
+                    <!-- Vishal M. Patel is an Associate Professor of Electrical and Computer Engineering at Johns Hopkins University and leads the Vision & Image Understanding (VIU) Lab. His research focuses on computer vision, machine learning, medical image analysis, and biometrics.  -->
+                    </p>
+                </div>
+            </div>
+        </div>
         <!--<div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
