@@ -61,6 +61,26 @@ index: 5
                 </div>
             </div>
         </div>
+        <div class="row pt-2 pb-2 align-items-center">
+            <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
+                <div class="text-center">
+                    <img src="../../imgs_2026/Keynotes/SchieleBernt.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+                    <h4 class="pt-2"><a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele">Bernt Schiele</a></h4>
+                    <span class=""><small>Max Planck Institute for Informatics</small></span>
+                </div>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="">
+                    <!--<h5 class="pt-1 text-center"><b>Spatial AI</b></h5>-->
+                    <p class="text-center mb-1"><small></small></p> 
+                    <!--<p class="pb-1 mb-1 text-justify"><b>Abstract: </b>In this talk we’ll discuss how to build rich 3D representations of the environment to assist people and robots to perform tasks.  We’ll first discuss how to build visual 3D maps of environments and use those for visual (re)localization, spatial data access and navigation.  We’ll cover recent methods based on geometry, learning and combining both.  One of the questions we will consider is what is best learned and where we should use explicit geometric concepts.  We’ll also discuss how to build rich 3D semantic representations that enable queries and interactions with the scene. Our approach allows open vocabulary queries by leveraging foundation models.  While these models are very powerful in recognizing arbitrary objects, there are some aspects that are still missing to enable robotic interactions.  We’ll also briefly cover some of our work on action recognition which is key in building AI assistants and could also be useful to enable robots to learn from examples.</p>-->
+                    <p class="pb-2 text-justify"><b>Bio: </b>Bernt Schiele has been Max Planck Director at MPI for Informatics and Professor at Saarland University since 2010. His research interests emphasize that understanding sensor information is a fundamental problem, spanning the pipeline from single-sensor processing to spatial and temporal fusion of multiple modalities and, ultimately, large-scale multimodal sensor streams. His group focuses on computer vision and multimodal sensor processing.
+                    <!-- The group focuses on computer vision and multimodal sensor processing: in vision, it studies core image and video understanding problems such as 3D object class recognition, 3D people detection and tracking, and 3D scene understanding of traffic scenes; in multimodal computing, it uses human activity recognition to explore how ubiquitous or wearable computing can benefit from better sensor understanding, with machine learning as a cross-cutting theme. -->
+                    <!-- He studied computer science at the University of Karlsruhe, Germany. He worked on his master thesis in the field of robotics in Grenoble, France, where he also obtained the "diplome d'etudes approfondies d'informatique". In 1994 he worked in the field of multi-modal human-computer interfaces at Carnegie Mellon University, Pittsburgh, PA, USA in the group of Alex Waibel. In 1997 he obtained his PhD from INP Grenoble, France under the supervision of Prof. James L. Crowley in the field of computer vision. The title of his thesis was "Object Recognition using Multidimensional Receptive Field Histograms". Between 1997 and 2000 he was postdoctoral associate and Visiting Assistant Professor with the group of Prof. Alex Pentland at the Media Laboratory of the Massachusetts Institute of Technology, Cambridge, MA, USA. From 1999 until 2004 he was Assistant Professor at the Swiss Federal Institute of Technology in Zurich (ETH Zurich). Between 2004 and 2010 he was Full Professor at the computer science department of TU Darmstadt. -->
+                    </p>
+                </div>
+            </div>
+        </div>
         <!--<div class="row pt-2 pb-2 align-items-center">
             <div class="col-12 col-md-4 col-lg-3"><a class="anchor"></a>
                 <div class="text-center">
