@@ -436,7 +436,7 @@ index: 0
 <br>
 <br>
 
-<h4>Sponsership Chairs</h4>
+<h4>Sponsorship Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
