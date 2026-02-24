@@ -64,6 +64,7 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
   </tbody>
 </table>
 </div>
+* Please note that the Abstract and Paper/ Supplementary deadlines will not be extended.
 
 ### Submission Guidelines
 
@@ -101,7 +102,8 @@ Topics include, but are not limited to:
 -	Multimodal Learning (Vision + Language, Audio, etc.)
 -	Recognition, Segmentation, and Scene Understanding
 -	Representation, Self-supervised, and Transfer Learning
--	Vision Applications, Systems, and Robotics
+- Uncertainty
+- Vision Applications, Systems, and Robotics
 -	Visual Reasoning
 -	Brave New Ideas (novel approaches or theories, not necessarily benchmark gains)
 
