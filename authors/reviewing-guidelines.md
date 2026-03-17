@@ -11,7 +11,6 @@ index: 3
 * Reviewing Summary 
 * Check Your Papers
 * Ethics for Reviewing Papers
-* Check Your Papers
 * How to Write Good Reviews
 
 
