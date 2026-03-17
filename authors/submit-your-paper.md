@@ -3,7 +3,7 @@ layout: default_sparse
 title: Submit Your Paper
 permalink: /authors/submit-your-paper/
 index: 2
-nav_exclude: true
+nav_exclude: False
 ---
 
 ## Abstract and Paper Submission
@@ -12,7 +12,7 @@ nav_exclude: true
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://openreview.net/group?id=bmva.org/BMVC/2025/Conference">Submit your Paper via OpenReview</a></p>
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://openreview.net/group?id=bmva.org/BMVC/2026/Conference">Submit your Paper via OpenReview</a></p>
     </div>
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
         <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://docs.openreview.net/getting-started/creating-an-openreview-profile">How to create an OpenReview Account</a></p>
@@ -32,7 +32,7 @@ A complete paper should be submitted according to the formatting style ([please 
 
 Papers submitted for review should be anonymous and instead include the paper ID allocated by OpenReview upon registration of the abstract/paper. The addition of line numbers (automatic in the PDFLaTeX template) should be included to facilitate the review process.
 
-**Page limit:** A complete paper should be submitted according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). **The length of papers submitted for review should not exceed NINE pages, excluding the references.** All appendices must be supplied as supplementary material, in a separate file to the main paper, and do not count towards the NINE pages limit ([see below for instructions about the supplementary material]({{site.baseurl}}{% link authors/submit-your-paper.md %}#supplementary-material))
+**Page limit:** A complete paper should be submitted according to the [formatting style]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting). **The length of papers submitted for review should not exceed FOURTEEN pages, excluding the references.** All appendices must be supplied as supplementary material, in a separate file to the main paper, and do not count towards the FOURTEEN pages limit ([see below for instructions about the supplementary material]({{site.baseurl}}{% link authors/submit-your-paper.md %}#supplementary-material))
 
 #### Typesetting
 
@@ -42,11 +42,11 @@ Papers submitted for review should be anonymous and instead include the paper ID
 
 <div class="row no-gutters pt-0 d-xs-block ">
     <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/BritishMachineVisionAssociation/BMVCTemplate">View the Github repository</a></p>
+        <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://github.com/lwpyh/BMVCTemplate2026">View the Github repository</a></p>
     </div>
-    <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+    <!-- <div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
          <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://www.overleaf.com/latex/templates/author-guidelines-for-the-british-machine-vision-conference-2025/wtpstkznrwgf">Get Overleaf Template</a></p>
-     </div>
+     </div> -->
 </div>
 
 <p>Instructions on how to use the BMVC LaTeX template are described in the README.md file within the repository. To enable review mode in the LaTeX template, the <code>\bmvcreviewcopy{??}</code> command should be used, where <code>??</code> is your assigned paper number.</p>
@@ -78,10 +78,10 @@ Supplementary material is to be submitted by the [supplemental material deadline
 ---
 ## Camera ready copy (for accepted papers)
 
-Camera-ready submissions for accepted papers can be completed via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2025/Conference). All papers will require one author to pay a registration fee. This will cover the costs of hosting the conference and proceedings. Papers for which no registered authors will be removed from the conference. For each accepted paper, authors should upload the following:
+Camera-ready submissions for accepted papers can be completed via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2026/Conference). All papers will require one author to pay a registration fee. This will cover the costs of hosting the conference and proceedings. Papers for which no registered authors will be removed from the conference. For each accepted paper, authors should upload the following:
 
 * Final camera-ready paper (in PDF format)
 * Optional supplementary materials (ZIP file up to 100MB)
 * The name of your submission file must be of the form XXXX.pdf, where XXXX is the paper ID (zero-padded if necessary). For example, if your paper ID is 24, the filename must be 0024.pdf. If you upload supplementary materials, please name them as XXXX_supp.zip, where XXXX is the four-digit paper ID (zero-padded if necessary).
 
-**The paper length** of the final version must not exceed **10 pages**, *not counting* the acknowledgment and bibliography. **Only** the acknowledgment and bibliography should be *excluded* from the page count: **all** appendices must be counted within the *10-page* limit. or supplied as supplementary material. Papers must not have altered margins and formatting from those laid down by this style guide. The bibliography should begin immediately after the paper text. It may be of any length, within reason. It must *not* include annotations, figures, or any other paraphernalia intended to subvert the paper length requirement.
+**The paper length** of the final version must not exceed **15 pages**, *not counting* the acknowledgment and bibliography. **Only** the acknowledgment and bibliography should be *excluded* from the page count: **all** appendices must be counted within the *15-page* limit. or supplied as supplementary material. Papers must not have altered margins and formatting from those laid down by this style guide. The bibliography should begin immediately after the paper text. It may be of any length, within reason. It must *not* include annotations, figures, or any other paraphernalia intended to subvert the paper length requirement.
