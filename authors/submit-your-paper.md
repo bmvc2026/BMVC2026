@@ -3,6 +3,7 @@ layout: default_sparse
 title: Submit Your Paper
 permalink: /authors/submit-your-paper/
 index: 2
+nav_exclude: true
 ---
 
 ## Abstract and Paper Submission

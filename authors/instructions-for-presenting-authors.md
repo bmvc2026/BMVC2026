@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Presenting at BMVC
 permalink: /authors/instructions-for-presenting-at-bmvc/
+nav_exclude: true
 ---
 
 These instructions provide details on how to prepare and upload video summaries and digital posters for BMVC 2025 papers for all accepted papers (both oral and poster presentation styles). These materials will be included in the conference proceedings.

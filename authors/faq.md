@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Frequently Asked Questions
 permalink: /authors/faq/
+nav_exclude: true
 ---
 
 <div class="row pl-4 pr-4">
