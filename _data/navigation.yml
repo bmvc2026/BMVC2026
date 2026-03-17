@@ -1,8 +1,8 @@
 pages:
   - title: Home
     url: /
-  # - title: Dates
-  #   url: /dates/
+  - title: Dates
+    url: /dates/
   - title: Calls
     url: /calls/
     dropdown: true

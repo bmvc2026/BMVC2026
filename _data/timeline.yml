@@ -1,95 +1,101 @@
 deadlines:
   - title: Abstract Submission Deadline
-    date: 2025-05-13
+    date: 2026-05-22
     tags:
       - key: Authors
-  - title: Workshop Submission Deadline
-    date: 2025-05-16
+  - title: Workshop Proposal Submission Deadline
+    date: 2026-05-22
     tags:
       - key: Authors
   - title: Paper Submission Deadline
-    date: 2025-05-16
+    date: 2026-05-29
     tags:
       - key: Authors
-  - title: Supplementary Material Submission
-    date: 2025-05-16
+  - title: Supplementary Material Submission Deadline
+    date: 2026-05-29
+    tags:
+      - key: Authors
+  - title: Workshop Acceptance Notification
+    date: 2026-06-05
     tags:
       - key: Authors
   - title: Review Period Starts
-    date: 2025-05-26
+    date: 2026-06-08
     tags:
       - key: Reviewers
-  - title: Workshop Acceptance Notification
-    date: 2025-05-30
-    tags:
-      - key: Authors
   - title: Reviews Submitted
-    date: 2025-06-09
+    date: 2026-06-22
     tags:
       - key: Reviewers
-  - title: Start of AC/reviewer Discussion Period
-    date: 2025-06-20
+  - title: Release of Reviews; Start of Rebuttal
+    date: 2026-07-03
     tags:
+      # - key: Authors
       - key: Reviewers
       - key: ACs
-  - title: End of AC/reviewer Discussion Period
-    date: 2025-06-27
+  - title: End of Rebuttal
+    date: 2026-07-10
     tags:
+      # - key: Authors
       - key: Reviewers
-      - key: ACs   
-  - title: Reviewer Final Reviews 
-    date: 2025-07-04
+      - key: ACs
+  - title: AC/Reviewer Discussion, Reviewer Final Reviews
+    date: 2026-07-17
     tags:
       - key: Reviewers
       - key: ACs
   - title: Meta-Reviews Submitted
-    date: 2025-07-08
+    date: 2026-07-24
     tags:
       - key: ACs
       - key: PCs
-  - title: Doctoral Consortium Submission Open
-    date: 2025-7-13
-    tags:
-      - key: Authors  
-  - title: Paper Decisions & Meta-Review Consolidation
-    date: 2025-07-18
+  # - title: Doctoral Consortium Submission Open
+  #   date: 2026-07-13
+  #   tags:
+  #     - key: Authors  
+  - title: Paper Decisions
+    date: 2026-07-31
     tags:
       - key: ACs
       - key: PCs
   - title: Author Notifications
-    date: 2025-07-25
+    date: 2026-08-07
     tags:
       - key: Authors
-  - title: Doctoral Consortium Submission Close
-    date: 2025-7-30
+  # - title: Doctoral Consortium Submission Close
+  #   date: 2026-07-30
+  #   tags:
+  #     - key: Authors
+  - title: Camera Ready Deadline for Papers
+    date: 2026-08-28
     tags:
       - key: Authors
-  - title: Camera Ready for Papers
-    date: 2025-08-29
+  - title: Author Registration Deadline
+    date: 2026-08-28
     tags:
       - key: Authors
-  - title: Doctoral Consortium Acceptance Notification
-    date: 2025-09-05
-    tags:
-      - key: Authors 
-  - title: Camera Ready for Workshops
-    date: 2025-10-31
-    tags:
-      - key: Authors
-  - title: Poster Submissions
-    date: 2025-10-31
+  # - title: Doctoral Consortium Acceptance Notification
+  #   date: 2026-09-05
+  #   tags:
+  #     - key: Authors 
+  - title: Camera Ready Deadline for Workshops
+    date: 2026-10-30
     tags:
       - key: Authors
-  - title: Video Submissions
-    date: 2025-10-31
+  - title: Poster Submissions Deadline
+    date: 2026-10-30
+    tags:
+      - key: Authors
+  - title: Video Submissions Deadline
+    date: 2026-10-30
     tags:
       - key: Authors
   - title: Conference Starts
-    date: 2025-11-24
+    date: 2026-11-23
     tags:
       - key: Everyone
   - title: Conference Ends
-    date: 2025-11-27
+    date: 2026-11-26
     tags:
       - key: Everyone
   # - title: Workshops Start
