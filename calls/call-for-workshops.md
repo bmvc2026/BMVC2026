@@ -2,68 +2,76 @@
 layout: default_sparse
 title: Call for Workshops
 permalink: /calls/call-for-workshops/
-nav_exclude: true
+# nav_exclude: true
 ---
 
-We are soliciting proposals for workshops to be held together with the 2025 British Machine Vision Conference (BMVC 2025). Workshops will take place on **27th November 2025**.
+Workshop Program Chairs: Richard Jiang, Guosheng Hu, Ziquan Liu and Emma Wilson  
+Proposal Deadline: May 22, 2026 AOE  
+Notification by: June 5, 2026 AOE  
+Email:  [bmvc2026workshop@googlegroups.com](mailto:bmvc2026workshop@googlegroups.com)  Please use this email for all questions and concerns.
 
-The purpose of the workshops is to provide a comprehensive forum on topics that will not be fully explored during the main conference, as well as to encourage in-depth discussion of technical and application issues. We also welcome “Challenge Workshops” that aim to compare new and established methods on common data sets. BMVC 2025 organisers will collect workshop registrations, provide facilities, and distribute electronic copies of the workshop proceedings.
+We invite submissions of proposals for workshops to be held together with The 37th British Machine Vision Conference. The workshops will take place on 26 November 2026 at the Lancaster Town Hall in Lancaster, UK. The workshops are intended to provide a comprehensive forum on topics that will not be fully explored during the main conference and to encourage in-depth discussion of technical, application, and community issues. We welcome workshops aiming to create and strengthen communities (e.g., affinity workshops) as well as workshops focusing on the societal impact of computer vision.  
 
-There will be competition for workshop space, time, and topic coverage. Proposals must be specific and detailed in justifying relevance and viability. Proposers may be asked to provide additional information, modify aspects of their proposals, or combine their proposals with another one. Also, note that publication deadlines are very tight between the main conference acceptance notification and the workshop camera-ready deadline, so proposers must be ready to undertake all the work related to soliciting and reviewing submissions and collecting final contributions. Proposals should be submitted by 16th May 2025 (23:59 pm BST) using the Google Form below.
-Proposals should include the following information:
+-------
+### IMPORTANT INFORMATION
 
-- Workshop title.
-- Proposers’ names, titles, affiliations, and primary contact email.
-- Workshop description, key words
-- Duration and type of the workshop
-- Background including the past workshops, if exist,  and the past attendance statistics
-- Rough program outline (estimated numbers of orals, posters, invited talks, etc).
-- Preliminary program including names and bios of any invited speakers and an indication of whether they have agreed to speak.
-- Anticipated target audience as well as the expected number of attendees.
-- Relevance and viability 
-- Commitment to Diversity, Equity, Inclusion
-- Any special space or equipment requests.
+- Workshops will follow the format of BMVC 2026 (in-person only).
+- If workshop organizers intend to peer-review and publish accepted papers in conjunction with BMVC 2026 proceedings, please note the following key dates:
+  - Last day for workshop camera-ready submission will be September 4 2026 (tentative)
+  - Last day for finalized workshop program will be September 7 2026 (tentative)
+- Any workshop sponsorship and award money offered must be managed by Workshop organizers.
+- Workshop proposals must be submitted via the [Google form](https://forms.gle/hmpUtXZUvmufcJCT9). 
 
-BMVC will cover the costs for rooms, coffee breaks, and A/V equipment. However, any other activities with budget implications will be the responsibility of the workshop organizers.
+### EVALUATION CRITERIA
 
-BMVC Workshop Chairs: 
+Workshop proposals will be evaluated based on the following criteria. Their order below does not reflect their importance. We encourage, and expect, broad representation in the organizing team and invited speakers, and a wide range of opinions represented during a workshop.
 
-- [Guosheng Hu](https://huguosheng.github.io/): Senior Lecturer, University of Bristol ([g.hu@bristol.ac.uk](g.hu@bristol.ac.uk)) 
-- [Chen (Cherise) Chen](https://cherise215.github.io/): Lecturer, University of Sheffield ([work.cherise@gmail.com](work.cherise@gmail.com))
+- Interest and Relevance
+  - Workshops should complement the main conference, reflect the BMVC community’s interests, and generate new discussion and momentum.
+  - We strongly encourage workshops aimed at creating or improving community, workshops focusing on the societal impact of computer vision, interdisciplinary workshops, and workshops on emerging topics not sufficiently represented at BMVC.
 
-For any questions regarding the workshops, please get in touch with the workshop chairs via [workshopchairs.bmvc2025@bmva.org](mailto:workshopchairs.bmvc2025@bmva.org).
+- Wide range of topics and formats
+  - We strive for a wide range of topics, especially relevant topics that are not well covered in the main conference.
+  - We strive for different workshop formats, such as invited speakers, challenges, community building, etc.
+  - There should be minimal overlap in invited speakers between workshops. Workshop organizers are strongly encouraged to invite speakers who are uniquely relevant to their topics, and to think broadly about inviting speakers beyond those that commonly speak at BMVC workshops.
 
-Google Form link: [https://forms.gle/daqjfk9nTFqu1hVa9](https://forms.gle/daqjfk9nTFqu1hVa9)
+- Societal impact and ethical consideration 
+  - Computer vision may be useful both in positive and negative ways, so we expect workshop organizers to articulate the potential impact of their topics in the proposal and to incorporate those considerations into the workshop itself.
+  - We encourage workshops focusing specifically on the societal impact of computer vision.
+
+- Organization
+  - The level of experience of the organizing team and the dedication of the main organizers will be taken into account. 
+  - The proposal should clearly articulate plans for engaging the audience.
+
+### SUBMISSION INSTRUCTIONS
+
+Submission must be made via this [Google form](https://forms.gle/hmpUtXZUvmufcJCT9) with the following questions:
+
+1. Proposers’ names, titles, affiliations.
+2. Primary contact email.
+3. Workshop key words.
+4. Workshop name.
+5. Workshop abstract.
+6. Broader impact statement: Describe why the workshop is relevant to the community and how relevant the topics or discussion are beyond the BMVC audience.
+7. Rough program outline (estimated numbers of orals, posters, invited talks, etc).
+8. Have you organized any workshops before? If exist, give the past attendance statistics.
+9. Preliminary program including names and bios of any invited speakers and an indication of whether they have agreed to speak.
+10. Anticipated target audience as well as the expected number of attendees.
+11. Commitment to Diversity, Equity, Inclusion.
+12. Any special space or equipment requests.
 
 
-{% comment %} 
+Google form link is here: [https://forms.gle/hmpUtXZUvmufcJCT9](https://forms.gle/hmpUtXZUvmufcJCT9) 
 
-We are soliciting proposals for workshops to be held together with the 2025 British Machine Vision Conference (BMVC 2025). Workshops will take place on **27th November 2025**.
+### UPON ACCEPTANCE
 
-The purpose of the workshops is to provide a comprehensive forum on topics that will not be fully explored during the main conference, as well as to encourage in-depth discussion of technical and application issues. We also welcome "Challenge Workshops" that aim to compare new and established methods on common data sets. BMVC 2025 organisers will collect workshop registrations, provide facilities, and distribute electronic copies of the workshop proceedings.
+- The BMVC 2026 organizers will provide the room and equipment, and distribute electronic copies of the workshop proceedings.
+- Workshops will be required to prepare their own websites, separate from the BMVC 2026 webpage. These pages will include workshop details, organizers, dates, submission instructions, and, once finalized, the workshop program.
+- Workshop organizers are expected to respond in a timely manner to requests from the BMVC 2026 organizers (e.g., by providing the workshop website url, the workshop program to be included in the main distribution materials).  Failure to respond in a timely manner may result in withdrawal of the workshop’s acceptance at the discretion of the program chairs.
+- Program requests must be finalized by Sep 7, 2026 (including poster boards).
+- Note that everyone, including speakers, must be registered in advance to attend. Half-day workshops may register one invited speaker free of the workshop registration charge and full-day workshops may register two invited speakers free of the workshop registration charge.
 
-There will be competition for workshop space, time, and topic coverage. Proposals must be specific and detailed in justifying relevance and viability. Proposers may be asked to provide additional information, modify aspects of their proposals, or combine their proposals with another one. Also, note that publication deadlines are very tight between the main conference acceptance notification and the workshop camera-ready deadline, so proposers must be ready to undertake all the work related to soliciting and reviewing submissions and collecting final contributions.
 
-**Proposals should be submitted by 9th May 2025 using the Google Form below.**
+### Questions
 
-Proposals should include the following information:
-- Workshop title.
-- Proposers' names, titles, affiliations, and primary contact email.
-- Topics that will be covered.
-- Background and experience that makes the proposers well suited for organising the workshop.
-- Rough program outline (estimated numbers of orals, posters, and invited talks).
-- Names and bios of any invited speakers and an indication of whether they have agreed to speak.
-- Anticipated target audience as well as the expected number of attendees.
-- Description of relevance and viability.
-- Description of how this proposal relates to previous workshops at BMVC/CVPR/ICCV/ECCV (be as specific as possible).
-- Any special space or equipment requests.
-
-BMVC will cover the costs for rooms, coffee breaks, and A/V equipment. However, any other activities with budget implications will be the responsibility of the workshop organizers.
-
-For any questions, please get in touch with the workshop chairs via [workshop_email](mailto:workshop_email).
-
-Google Form link: [workshop_google_form](workshop_google_form)
-
-<iframe src="workshop_google_form" width="670" height="2200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-{% endcomment %} 
+For any questions, please contact the workshop program chairs, Richard Jiang, Guosheng Hu, Ziquan Liu and Emma Wilson via email: [bmvc2026workshop@googlegroups.com](mailto:bmvc2026workshop@googlegroups.com). 
