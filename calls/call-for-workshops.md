@@ -72,6 +72,6 @@ Google form link is here: [https://forms.gle/hmpUtXZUvmufcJCT9](https://forms.gl
 - Note that everyone, including speakers, must be registered in advance to attend. Half-day workshops may register one invited speaker free of the workshop registration charge and full-day workshops may register two invited speakers free of the workshop registration charge.
 
 
-### Questions
+### QUESTIONS
 
 For any questions, please contact the workshop program chairs, Richard Jiang, Guosheng Hu, Ziquan Liu and Emma Wilson via email: [bmvc2026workshop@googlegroups.com](mailto:bmvc2026workshop@googlegroups.com). 
