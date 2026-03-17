@@ -13,7 +13,7 @@ Email:  [bmvc2026workshop@googlegroups.com](mailto:bmvc2026workshop@googlegroups
 We invite submissions of proposals for workshops to be held together with The 37th British Machine Vision Conference. The workshops will take place on 26 November 2026 at the Lancaster Town Hall in Lancaster, UK. The workshops are intended to provide a comprehensive forum on topics that will not be fully explored during the main conference and to encourage in-depth discussion of technical, application, and community issues. We welcome workshops aiming to create and strengthen communities (e.g., affinity workshops) as well as workshops focusing on the societal impact of computer vision.  
 
 -------
-### IMPORTANT INFORMATION
+### Important Information
 
 - Workshops will follow the format of BMVC 2026 (in-person only).
 - If workshop organizers intend to peer-review and publish accepted papers in conjunction with BMVC 2026 proceedings, please note the following key dates:
@@ -22,7 +22,7 @@ We invite submissions of proposals for workshops to be held together with The 37
 - Any workshop sponsorship and award money offered must be managed by Workshop organizers.
 - Workshop proposals must be submitted via the [Google form](https://forms.gle/hmpUtXZUvmufcJCT9). 
 
-### EVALUATION CRITERIA
+### Evaluation Criteria
 
 Workshop proposals will be evaluated based on the following criteria. Their order below does not reflect their importance. We encourage, and expect, broad representation in the organizing team and invited speakers, and a wide range of opinions represented during a workshop.
 
@@ -43,7 +43,7 @@ Workshop proposals will be evaluated based on the following criteria. Their orde
   - The level of experience of the organizing team and the dedication of the main organizers will be taken into account. 
   - The proposal should clearly articulate plans for engaging the audience.
 
-### SUBMISSION INSTRUCTIONS
+### Submission Instructions
 
 Submission must be made via this [Google form](https://forms.gle/hmpUtXZUvmufcJCT9) with the following questions:
 
@@ -63,7 +63,7 @@ Submission must be made via this [Google form](https://forms.gle/hmpUtXZUvmufcJC
 
 Google form link is here: [https://forms.gle/hmpUtXZUvmufcJCT9](https://forms.gle/hmpUtXZUvmufcJCT9) 
 
-### UPON ACCEPTANCE
+### Upon Acceptance
 
 - The BMVC 2026 organizers will provide the room and equipment, and distribute electronic copies of the workshop proceedings.
 - Workshops will be required to prepare their own websites, separate from the BMVC 2026 webpage. These pages will include workshop details, organizers, dates, submission instructions, and, once finalized, the workshop program.
@@ -72,6 +72,6 @@ Google form link is here: [https://forms.gle/hmpUtXZUvmufcJCT9](https://forms.gl
 - Note that everyone, including speakers, must be registered in advance to attend. Half-day workshops may register one invited speaker free of the workshop registration charge and full-day workshops may register two invited speakers free of the workshop registration charge.
 
 
-### QUESTIONS
+### Questions
 
 For any questions, please contact the workshop program chairs, Richard Jiang, Guosheng Hu, Ziquan Liu and Emma Wilson via email: [bmvc2026workshop@googlegroups.com](mailto:bmvc2026workshop@googlegroups.com). 
