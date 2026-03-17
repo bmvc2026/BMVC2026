@@ -21,10 +21,10 @@ nav_exclude: False
 
 <!-- **<span style="color:red">Authors who will use a personal email (e.g. gmail, etc.) to sign up to OpenReview for the first time, need to create an OpenReview profile asap! This is because it can take up to 2 weeks for profiles using public email services to be activated.</span>** -->
 
-Abstract registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting) and the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submission.
+Abstract registration is performed by registering as a user with OpenReview and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates that registration is completed and should be used to prepare the review copy. You can make edits and upload new paper drafts until the final paper deadline. Submitted papers should be prepared according to the published specifications for formatting and style. Please be sure to read both the [formatting instructions]({{site.baseurl}}{% link authors/submit-your-paper.md %}#formatting-your-paper) and the [Author Guidelines]({{site.baseurl}}{% link authors/author-guidelines.md %}) before submission.
 
 ---
-## Formatting your paper
+## Formatting Your Paper
 
 A complete paper should be submitted according to the formatting style ([please see below under typesetting]({{site.baseurl}}{% link authors/submit-your-paper.md %}#typesetting)). 
 
@@ -76,7 +76,7 @@ Supplementary material is to be submitted by the [supplemental material deadline
 
 
 ---
-## Camera ready copy (for accepted papers)
+## Camera Ready Copy (for accepted papers)
 
 Camera-ready submissions for accepted papers can be completed via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2026/Conference). All papers will require one author to pay a registration fee. This will cover the costs of hosting the conference and proceedings. Papers for which no registered authors will be removed from the conference. For each accepted paper, authors should upload the following:
 
