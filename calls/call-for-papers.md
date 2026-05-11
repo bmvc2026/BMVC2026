@@ -39,11 +39,11 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
     </tr>
     <tr>
       <td>Review Period Begins</td>
-      <td>Monday, 8 June 2026</td>
+      <td>Friday, 5 June 2026</td>
     </tr>
     <tr>
       <td>Reviews Due</td>
-      <td>Monday, 22 June 2026</td>
+      <td>Friday, 26 June 2026</td>
     </tr>
     <tr>
       <td>Rebuttal Period</td>
