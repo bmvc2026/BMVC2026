@@ -20,11 +20,11 @@ deadlines:
     tags:
       - key: Authors
   - title: Review Period Starts
-    date: 2026-06-08
+    date: 2026-06-05
     tags:
       - key: Reviewers
   - title: Reviews Submitted
-    date: 2026-06-22
+    date: 2026-06-26
     tags:
       - key: Reviewers
   - title: Release of Reviews; Start of Rebuttal
