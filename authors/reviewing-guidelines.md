@@ -12,6 +12,9 @@ index: 3
 * Check Your Papers
 * Ethics for Reviewing Papers
 * How to Write Good Reviews
+* Use of Large Language Models (LLMs) in Reviews
+* Sharing of Meta Data
+* Responsible Reviewing
 
 
 ---
