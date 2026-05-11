@@ -76,7 +76,7 @@ Each paper that is accepted should be technically sound and make a contribution 
 
 
 ---
-## Check Your Papers (1<sup>st</sup> - 3<sup>rd</sup> June)
+## Check Your Papers (5<sup>th</sup> June)
 
 As soon as you get your reviewing assignment, please go through all the papers to make sure that (a) you have no obvious conflict of interest (see “Avoid Conflicts of Interest” below) and (b) you feel comfortable reviewing the paper assigned. **If issues with either of these points arise, please get in touch with the AC immediately** as instructed in the detailed emails you will receive during the process. 
 
