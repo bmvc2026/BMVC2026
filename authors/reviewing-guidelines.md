@@ -38,7 +38,7 @@ To contact the Programme Chairs (PCs), please send emails to: [bmvc2026pc@gmail.
     </tr>
     <tr>
       <td>Check Your Papers Assigned to You</td>
-      <td>Monday, 1 - Wednesday, 3 June 2026</td>
+      <td>Friday, 5 June 2026</td>
     </tr>
     <tr>
       <td>Review Period Begins</td>
