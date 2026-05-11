@@ -3,7 +3,7 @@ layout: default_sparse
 title: Area Chair Guidelines
 permalink: /authors/area-chair-guidelines/
 index: 4
-nav_exclude: true
+nav_exclude: false
 ---
 
 ## Contents
