@@ -19,7 +19,7 @@ index: 3
 
 Thank you for volunteering your time to review for BMVC 2026. To maintain a high-quality technical program, we rely on the time and expertise of our reviewers. This document explains what is expected of all members of the Reviewing Committee for BMVC 2026. 
 
-BMVC will implement a scoring system, where Area Chairs (ACs) will rate each review submitted. Reviewers that fall above a quality threshold will be acknowledged as being part of the Reviewing Committee for BMVC 2026. We will also be recognising outstanding reviewers. 
+BMVC will implement a scoring system, where Area Chairs (ACs) will rate each review submitted. Reviewers that fall below a quality threshold will not be acknowledged as being part of the Reviewing Committee for BMVC 2026. We will also be recognising outstanding reviewers. 
 
 It is important to familiarise yourself with these guidelines to ensure that you are providing a quality review that the research community would benefit from. 
 
