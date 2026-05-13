@@ -5,40 +5,46 @@ permalink: /sponsors/
 ---
 
 <style>
-.list-inline-item:not(:last-child) {
-  margin-right: 15px;
+.sponsor-group {
+  margin: 36px 0 48px;
 }
 
-/* .image-block {
-  padding: 30px 0;
-  background: #fff;
-  width: 300px;
-  cursor: pointer;
-  transition: all .3s ease;
-  border: 1px solid transparent;
-  margin-bottom: 10px;
-} */
+.sponsor-group h3 {
+  text-align: center;
+}
 
-/* .image-block img {
-  height: 80px;
-} */
+.sponsor-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px 28px;
+}
 
 .image-block {
-  padding: 30px 0;
+  padding: 16px;
   background: #fff;
-  width: 300px;
-  height: 100px; /* Fixed height for consistent row */
+  width: 200px;
+  height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
   transition: all .3s ease;
   border: 1px solid transparent;
-  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.image-block a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
 }
 
 .image-block img {
-  max-height: 80px;
+  max-height: 160px;
   max-width: 100%;
   object-fit: contain;
 }
@@ -50,25 +56,29 @@ permalink: /sponsors/
 
 <p class="mb-3" align="center">We are very grateful to our sponsors for supporting the conference this year.</p>
 
-{% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" -%}
+{% assign sponsor_types = "Platinum+,Platinum,Gold,Silver,Special,Supported by" | split: "," -%}
 
 <section class="sponsors section" align="center">
-{% for group in grouped_sponsors %}
-    {% if group.name == 'Gold' or group.name == 'Platinum' or group.name == 'Silver'%} 
-        <h3 align="left">{{-group.name-}}&nbsp;Sponsors:</h3>
-        {% else %}
-        <!-- <h3>{{-group.name-}}&nbsp;:</h3> -->
-        <h3>{{-group.name-}}:</h3>
-    {% endif %}
-    {% for item in group.items %}
-        <li class="list-inline-item">
-            <div class="image-block text-center">
-                <a href="{{item.url}}" target="_blank" >
-                    <img src="{{ site.baseurl }}/imgs_2026/Sponsors/{{ item.logo }}" alt="sponsors-logo" class="img-fluid" style="max-height: 300px;">
-                </a>
+{% for sponsor_type in sponsor_types %}
+    {% assign items = site.data.sponsors.sponsors | where: "type", sponsor_type -%}
+    {% if items.size > 0 %}
+        <div class="sponsor-group">
+            {% if sponsor_type == 'Platinum+' or sponsor_type == 'Platinum' or sponsor_type == 'Gold' or sponsor_type == 'Silver'%} 
+                <h3>{{-sponsor_type-}}&nbsp;Sponsors:</h3>
+            {% else %}
+                <h3>{{-sponsor_type-}}:</h3>
+            {% endif %}
+            <div class="sponsor-list">
+                {% for item in items %}
+                    <div class="image-block text-center">
+                        <a href="{{item.url}}" target="_blank" >
+                            <img src="{{ site.baseurl }}/imgs_2026/Sponsors/{{ item.logo }}" alt="sponsors-logo" class="img-fluid">
+                        </a>
+                    </div>
+                {% endfor %}
             </div>
-        </li>
-    {% endfor %}
+        </div>
+    {% endif %}
 {% endfor %}
 </section><br>
 

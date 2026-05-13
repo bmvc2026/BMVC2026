@@ -12,6 +12,7 @@ sponsors:
     url-external: "https://www.lancaster.gov.uk/"
 
   - name: Lancaster_Town_Hall_2
+    sidebar_scale: 0.7
     type: Supported by
     logo: LancasterTownHallGraphic.png
     url: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
@@ -28,6 +29,12 @@ sponsors:
     logo: iCVL.png
     url: "https://wp.lancs.ac.uk/icvl/"
     url-external: "https://wp.lancs.ac.uk/icvl/"
+
+  - name: Lloyds_Banking_Group
+    type: Platinum+
+    logo: LBG_Digital_Primary_Logo_Positive_RGB_PNG.png
+    url: "https://www.lloydsbankinggroup.com/"
+    url-external: "https://www.lloydsbankinggroup.com/"
 
   # - name: Technovative Solutions
   #   type: Platinum

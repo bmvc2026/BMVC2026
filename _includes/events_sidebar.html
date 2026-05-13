@@ -1,26 +1,60 @@
 <div class="card mt-2">
+  <style>
+    .sidebar-sponsor-list {
+      display: grid;
+      grid-auto-flow: column;
+      grid-auto-columns: minmax(0, 1fr);
+      gap: 8px;
+    }
+
+    .sidebar-sponsor-logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 86px;
+      min-width: 0;
+      padding: 2px;
+      box-sizing: border-box;
+    }
+
+    .sidebar-sponsor-logo img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+
+    .sidebar-sponsor-logo-main {
+      flex: 0 1 150px;
+      height: 86px;
+    }
+  </style>
   <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
-  {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
+  {% assign sponsor_types = "Platinum+,Platinum,Gold,Silver,Special,Supported by" | split: "," %}
 
   <div class="container">
-    {% for group in grouped_sponsors %}
+    {% for sponsor_type in sponsor_types %}
+    {% assign items = site.data.sponsors.sponsors | where: "type", sponsor_type %}
+    {% if items.size > 0 %}
     <div class="row mt-1 mb-1 justify-content-around align-items-center">
 
       <div class="col-12">
-        {% if group.name == 'Gold' or group.name == 'Platinum' or group.name == 'Silver'%}
-        <b>{{-group.name-}}&nbsp;Sponsors:</b>
+        {% if sponsor_type == 'Gold' or sponsor_type == 'Platinum' or sponsor_type == 'Platinum+' or sponsor_type == 'Silver'%}
+        <b>{{-sponsor_type-}}&nbsp;Sponsors:</b>
         {% else %}
-        <!-- <b>{{-group.name-}}&nbsp;:</b> -->
-        <b>{{-group.name-}}:</b>
+        <b>{{-sponsor_type-}}:</b>
         {% endif %}
       </div>
     
-      {% for item in group.items %}
-      <a href="{{item.url}}" target="_blank"><img src="{{ site.baseurl }}/imgs_2026/Sponsors/{{item.logo}}"
-          class="img-fluid" alt="{{ item.id }}" style="max-height: 50px;"></a>
-      {% endfor %}
+      <div class="col-12 sidebar-sponsor-list">
+        {% for item in items %}
+        <a href="{{item.url}}" target="_blank" class="sidebar-sponsor-logo{% if sponsor_type == 'Platinum+' or sponsor_type == 'Platinum' %} sidebar-sponsor-logo-main{% endif %}">
+          <img src="{{ site.baseurl }}/imgs_2026/Sponsors/{{item.logo}}" class="img-fluid" alt="{{ item.name }}">
+        </a>
+        {% endfor %}
+      </div>
 
     </div>
+    {% endif %}
     {% endfor %}
   </div>
 </div>
