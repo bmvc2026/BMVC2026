@@ -68,7 +68,7 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
 
 ### Submission Guidelines
 
--	Formatting & Length: Submitted papers must use the official BMVC 2026 LaTeX/Word template. Papers must not exceed 14 pages (excluding references). References and any appendices are unlimited. 
+-	Formatting & Length: Submitted papers must use the official BMVC 2026 LaTeX/Word template. Papers must not exceed 14 pages (excluding references). References and any supplymentary material are unlimited. 
 
 -	Supplementary Material: Supplementary information (e.g., appendices, videos, additional results) can be submitted as a single .zip file by the paper deadline. Reviewers are not obligated to read it.
 
