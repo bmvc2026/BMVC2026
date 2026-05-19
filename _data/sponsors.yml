@@ -12,11 +12,11 @@ sponsors:
     url: "https://www.lloydsbankinggroup.com/"
     url-external: "https://www.lloydsbankinggroup.com/"
 
-  - name: Data_Canvas
-    type: Gold
-    logo: DataCanvas.png
-    url: "https://www.datacanvas.com/en/"
-    url-external: "https://www.datacanvas.com/en/"
+  # - name: Data_Canvas
+  #   type: Gold
+  #   logo: DataCanvas.png
+  #   url: "https://www.datacanvas.com/en/"
+  #   url-external: "https://www.datacanvas.com/en/"
 
   - name: Lancaster_Council
     type: Supported by
