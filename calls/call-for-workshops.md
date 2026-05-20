@@ -6,8 +6,8 @@ permalink: /calls/call-for-workshops/
 ---
 
 Workshop Program Chairs: Richard Jiang, Guosheng Hu, Ziquan Liu and Emma Wilson  
-Proposal Deadline: May 22, 2026 AOE  
-Notification by: June 5, 2026 AOE  
+Proposal Deadline: June 5, 2026 AOE  
+Notification by: June 12, 2026 AOE  
 Email:  [bmvc2026workshop@googlegroups.com](mailto:bmvc2026workshop@googlegroups.com)  Please use this email for all questions and concerns.
 
 We invite submissions of proposals for workshops to be held together with The 37th British Machine Vision Conference. The workshops will take place on 26 November 2026 at the Lancaster Town Hall in Lancaster, UK. The workshops are intended to provide a comprehensive forum on topics that will not be fully explored during the main conference and to encourage in-depth discussion of technical, application, and community issues. We welcome workshops aiming to create and strengthen communities (e.g., affinity workshops) as well as workshops focusing on the societal impact of computer vision.  

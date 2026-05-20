@@ -3,10 +3,6 @@ deadlines:
     date: 2026-05-22
     tags:
       - key: Authors
-  - title: Workshop Proposal Submission Deadline
-    date: 2026-05-22
-    tags:
-      - key: Authors
   - title: Paper Submission Deadline
     date: 2026-05-29
     tags:
@@ -15,14 +11,18 @@ deadlines:
     date: 2026-05-29
     tags:
       - key: Authors
-  - title: Workshop Acceptance Notification
-    date: 2026-06-05
-    tags:
-      - key: Authors
   - title: Review Period Starts
     date: 2026-06-05
     tags:
       - key: Reviewers
+  - title: Workshop Proposal Submission Deadline
+    date: 2026-06-05
+    tags:
+      - key: Authors
+  - title: Workshop Acceptance Notification
+    date: 2026-06-12
+    tags:
+      - key: Authors
   - title: Reviews Submitted
     date: 2026-06-26
     tags:
