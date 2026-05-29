@@ -30,7 +30,7 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
       <th scope="row">Date (AOE)</th>
     </tr>
     <tr>
-      <td><strong>Abstract Submission Deadline</strong></td>
+      <td><del><strong>Abstract Submission Deadline</strong></del></td>
       <td><strong>Friday, 22 May 2026</strong></td>
     </tr>
     <tr>
