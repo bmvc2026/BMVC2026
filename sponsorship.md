@@ -115,7 +115,7 @@ permalink: /sponsors/
                 <td align="center">TBD</td>
             </tr>
             <tr>
-                <td>Early Cost (to 31 May 2026)</td>
+                <td>Early Cost (to 30 June 2026)</td>
                 <td align="center" vertical-align="middle">£3750</td>
                 <td align="center">£2250</td>
                 <td align="center">£1500</td>
