@@ -107,7 +107,7 @@ permalink: /sponsors/
                 <th style="text-align: center">PRIZE/ BURSARY</th>
             </tr>
             <tr>
-                <td>Standard Cost (from 1 June 2026)</td>
+                <td>Standard Cost (from 1 July 2026)</td>
                 <td align="center">£7500</td>
                 <td align="center">£4500</td>
                 <td align="center">£3000</td>
