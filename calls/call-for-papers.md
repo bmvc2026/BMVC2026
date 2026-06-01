@@ -34,7 +34,7 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
       <td><strong>Friday, 22 May 2026</strong></td>
     </tr>
     <tr>
-      <td><strong>Paper & Supplementary Material Submission Deadline</strong></td>
+      <td><del><strong>Paper & Supplementary Material Submission Deadline</strong></del></td>
       <td><strong>Friday, 29 May 2026</strong></td>
     </tr>
     <tr>
