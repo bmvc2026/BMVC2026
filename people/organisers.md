@@ -151,6 +151,8 @@ index: 0
     </div>
 </div>
 
+<div class="w-100"></div> 
+
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2026/People/LiZhuoling.png" class="rounded-circle img-fluid" style="max-width: 125px;">
@@ -158,6 +160,15 @@ index: 0
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
+
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/HuiXiaofei.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/xiaofei-hui">Xiaofei Hui</a></h4>
+        <p class="pb-2">Lancaster University</p>
+    </div>
+</div>
+
 
 <!---
 <div class="col-6 col-md-4 col-lg-3">
@@ -328,8 +339,8 @@ index: 0
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
-        <img src="../../imgs_2026/People/HuiXiaofei.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
-        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/xiaofei-hui">Xiaofei Hui</a></h4>
+        <img src="../../imgs_2026/People/ZhangJiarui.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://www.lancaster.ac.uk/sci-tech/about-us/people/jiarui-zhang">Jiaui Zhang</a></h4>
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
