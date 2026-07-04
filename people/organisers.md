@@ -409,13 +409,13 @@ index: 0
 <br>
 <div class="row justify-content-around pl-4 pr-4">
 
-<div class="col-6 col-md-4 col-lg-3">
+<!-- <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
         <img src="../../imgs_2026/People/DerpanisKonstantinos.jpeg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://csprofkgd.github.io">Konstantinos Derpanis</a></h4>
         <p class="pb-2">York University</p>
     </div>
-</div>
+</div> -->
 
 <div class="col-6 col-md-4 col-lg-3">
     <div class="text-center">
