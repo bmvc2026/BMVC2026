@@ -46,7 +46,7 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
       <td>Friday, 26 June 2026</td>
     </tr>
     <tr>
-      <td>Rebuttal Period</td>
+      <td><del>Rebuttal Period<del></td>
       <td>Friday, 3 July – Friday, 10 July 2026</td>
     </tr>
     <tr>
