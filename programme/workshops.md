@@ -5,7 +5,105 @@ permalink: /programme/workshops/
 index: 15
 ---
 
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">MVEO - Workshop on Machine Vision for Earth Observation, Environmental Monitoring, and Climate Change</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Lakshmi Babu Saheer (Associate Professor/Director of Applied AI research group, Anglia Ruskin University); Mahdi Maktabdar Oghaz (Senior Lecturer, Anglia Ruskin University); Diego Marcos (Junior Professor, Inria, Université de Montpellier); Keiller Nogueira (Lecturer, University of Liverpool); Vahid Akbari (Lecturer, University of Stirling); Jan Boehm (Professor, University College London); Fabiana Di Ciaccio (Assistant Professor, University of Florence); Ronny Hänsch (German Aerospace Center (DLR)); Chunbo Luo (Associate Professor, University of Exeter); Konstantin Klemmer (Assistant Professor, University College London); Paolo Russo (Assistant Professor, Sapienza University of Rome); Manu Sasidharan (Assistant Professor, University College London)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>lakshmi.babu-saheer@aru.ac.uk</p> -->
+    </div>
+</div>
 
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">2nd Workshop on Smart Cameras for Physical AI</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Marcos V. Conde (Principal Investigator and Postdoc, University of Würzburg &amp; Cidaut AI); Lev Markhasin (Manager and Principal Engineer, Sony); Radu Timofte (Professor, University of Würzburg); Hirokatsu Kataoka (Postdoc, AIST &amp; University of Oxford); Ziteng Cui (Assistant Professor, University of Tokyo); Matthieu Terris (CEO and Researcher, Blur Labs); Tom Bishop (CTO, GLASS Imaging); Shivansh Rao (Researcher, GLASS Imaging); Daniel Feijoo (PhD student, CIDAUT AI); Paula Garrido (PhD student, CIDAUT AI); Alvaro Garcia (Manager and Principal Engineer, Cidaut AI)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>marcos.conde@uni-wuerzburg.de</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">WILD VISION: Reliable and Responsible Computer Vision in the Wild</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>George Azzopardi (Associate Professor, University of Groningen; Honorary Professor, Stellenbosch University; Visiting Associate Professor, University of Malta); Laura Fernández-Robles (Associate Professor, University of Leon); Antonio Greco (Associate Professor, University of Salerno); Bruno Vento (Post-Doc Researcher, Consorzio Interuniversitario per l'Informatica)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>g.azzopardi@rug.nl</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">Biomarker-Driven Medical Vision Intelligence</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Yang Hu (Lecturer, School of Computing and Mathematical Sciences, University of Leicester); He Zhao (Tenure-Track Fellow/Lecturer, Institute of Life Course &amp; Medical Sciences, University of Liverpool); Tianyang Zhang (Research Scientist, Big Data Institute, University of Oxford); Jian Chen (PhD Researcher, Clinical Medicine School, University of Cambridge); Dan Dai (Lecturer, School of Computer Science and Digital Technologies, Aston University); Yakun Ju (Lecturer, School of Computing and Mathematical Sciences, University of Leicester); Le Zhang (Assistant Professor, School of Engineering, University of Birmingham); Shangqi Gao (Research Associate, Department of Oncology, University of Cambridge); Zheheng Jiang (Lecturer, School of Computing and Mathematical Sciences, University of Leicester)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>hy208@leicester.ac.uk</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">BEST: Biomechanics-guided Multimodal Understanding of Human Movement for Sports and Health</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Bryan Scotney (Professor of Informatics, BTIIC, Ulster University); Liang Fan (AI Scientist, Loughborough University, ai.io); Dave Yearling (Research Fellow, BTIIC, Ulster University); Zhi Chen (Research Associate, BTIIC, Ulster University); Mamun Abu-Tair (Research Fellow, BTIIC, Ulster University)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>L.Fan@lboro.ac.uk</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">TrustVis: Workshop on Trustworthy Visual AI for Online and Public Safety</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Guangliang Cheng (Reader, University of Liverpool); Zeyu Fu (Lecturer, University of Exeter); Jianbo Jiao (Associate Professor, University of Birmingham); Xiaowei Huang (Professor, University of Liverpool)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>guangliang.cheng@liverpool.ac.uk; Z.Fu@exeter.ac.uk</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">Deployable Multimodal AI for Real-World Systems</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>A. Stephen McGough (Newcastle University); Amir Atapour-Abarghouei (Durham University); David Towers (Newcastle University); Lukas Neumann (Czech Technical University); Ondrej Tybl (Czech Technical University)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>stephen.mcgough@newcastle.ac.uk</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">GlobalSouthCV: Bridging Gaps for Underrepresented Computer Vision Researchers from the Global South</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Tushar Shinde (Assistant Professor, IIT Madras Zanzibar); Nabajeet Barman (Senior Research Scientist, Sony Interactive Entertainment (PlayStation)); Pedram Ghamisi (Head of Responsible AI Group HZDR &amp; Lancaster University); Hitika Tiwari (Assistant Professor, IIT Madras Zanzibar)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>shinde@iitmz.ac.in</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">Multimodal Foundation Models for Healthcare: Methods and Applications</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Asra Aslam (Assistant Professor in Data Science, University of Sheffield); Estefanía Talavera (Assistant Professor in Multimodal Learning, University of Twente); Mamatha Thota (Senior Lecturer, AVAIL Research Group, University of Lincoln); Ziqi Huang (PhD Candidate, MMLab@NTU, Nanyang Technological University)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>a.aslam@sheffield.ac.uk, e.talaveramartinez@utwente.nl</p> -->
+    </div>
+</div>
+
+---
+
+<div class="row pt-2 pb-2 align-items-center">
+    <div class="col-12 col-md-12 col-lg-12">
+        <h4 class="pt-1 ">Beyond Real: Robust Vision in Synthetic Environments</h4>
+        <p class=" mb-1 text-justify"><b>Organisers: </b>Ketan Kotwal (Center of Computer Vision, IIT Bombay); Akshay Agarwal (Assistant Professor, Department of Data Science and Engineering, IISER Bhopal); Tamar Glaser (Harman International)</p>
+        <!-- <p class=" mb-1"><b>Contact: </b>ketank1@gmail.com</p> -->
+    </div>
+</div>
+
+{% comment %} 
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Multisensory Intelligence for Human Perception</h4>
@@ -121,7 +219,7 @@ index: 15
     </div>
 </div>
 
-{% comment %} 
+
 
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
