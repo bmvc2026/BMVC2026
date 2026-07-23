@@ -4,8 +4,6 @@ title: Call for Participation - Doctoral Consortium
 permalink: /calls/doctoral-consortium/
 ---
 
-## CALL FOR PARTICIPATION — BMVC 2026 DOCTORAL CONSORTIUM
-
 We are delighted to invite submissions for the Doctoral Consortium at the 37th British Machine Vision Conference (BMVC 2026), to take place during BMVC 23rd-26th November 2026 in Lancaster, UK. The Doctoral Consortium will provide a unique opportunity for PhD students who are within 6 months (before or after) of graduating with their doctoral degree to interact with experienced researchers in computer vision. Each student will be assigned a mentor who is a senior member of the community attending the conference. Students and mentors will attend the Doctoral Consortium event in person, allowing students to discuss their ongoing research and career plans with their mentors and give a short presentation as part of the consortium.
 
 We invite submissions from PhD students conducting research in any area of computer vision. Each accepted student will have the opportunity to present their ongoing research, discuss future career plans with their mentor, and ask questions to a career panel. The goal of the Doctoral Consortium is to help students refine their research ideas and receive feedback on their work in progress. This year, the Doctoral Consortium will also feature a moderated career panel including academic, industrial, and early-career researchers.
