@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: CALL FOR PARTICIPATION — BMVC 2026 DOCTORAL CONSORTIUM
+title: Call for Participation - Doctoral Consortium
 permalink: /calls/doctoral-consortium/
 ---
 
@@ -15,7 +15,7 @@ Submissions should consist of:
 - A letter from the student's supervisor confirming their date of graduation.
 - A link to the student’s google scholar page.
 
-Submission Guidelines:
+Submission guidelines:
 
 - Abstracts should describe the research the student wishes to present and may include already-published or ongoing work.
 - The abstract submission should be formatted according to the BMVC 2026 template, available on the conference website with a maximum of two-pages.
@@ -24,13 +24,13 @@ Submission Guidelines:
 
 Submissions for the Doctoral Consortium should be sent to: [bmvc2026dc@gmail.com](mailto:bmvc2026dc@gmail.com).
 
-Selection Process: Submissions will be reviewed by a panel of computer vision experts. Selection will be based on the quality and potential impact of the research, as well as the clarity and organisation of the abstract.
+Selection process: Submissions will be reviewed by a panel of computer vision experts. Selection will be based on the quality and potential impact of the research, as well as the clarity and organisation of the abstract.
 
-Important Dates (all deadlines AoE):
+Important dates (all deadlines AoE):
 
-- Submission Opens: Monday, 20th July 2026
-- Submission Deadline: Friday, 21st August 2026
-- Notification of Acceptance: Friday, 11th September 2026
+- Submission opens: Monday, 20th July 2026
+- Submission deadline: Friday, 21st August 2026
+- Notification of acceptance: Friday, 11th September 2026
 - Doctoral Consortium: Meet your Mentor Monday 23rd November, Main event Wednesday 25th November during BMVC 2026 (23–26 November 2026)
 
 We look forward to receiving your submissions and to a stimulating and productive Doctoral Consortium at BMVC 2026.
