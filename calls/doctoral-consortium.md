@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: Call for Participation - Doctoral Consortium
+title: CALL FOR PARTICIPATION — BMVC 2026 DOCTORAL CONSORTIUM
 permalink: /calls/doctoral-consortium/
 ---
 
