@@ -1,44 +1,40 @@
 ---
 layout: default_sparse
-title: Call for Papers - Doctoral Consortium
+title: Call for Participation - Doctoral Consortium
 permalink: /calls/doctoral-consortium/
-nav_exclude: true
 ---
 
-We are delighted to invite submissions for the Doctoral Consortium at the upcoming <a href="https://bmvc2025.bmva.org">British Machine Vision Conference (BMVC)</a>, to take place on 24th-27th November, 2025 in Sheffield, England, UK. The Doctoral Consortium will provide a unique opportunity for PhD students who are within 6 months (before or after) of graduating with their doctoral degree to interact with experienced researchers in computer vision. Each student will be assigned a mentor who is a senior member of the community attending the conference, based on similarity of research interests. Students and mentors will attend the Doctoral Consortium event in person, giving students an opportunity to discuss their ongoing research and career plans with their mentor.
+We are delighted to invite submissions for the Doctoral Consortium at the 37th British Machine Vision Conference (BMVC 2026), to take place during BMVC 23rd-26th November 2026 in Lancaster, UK. The Doctoral Consortium will provide a unique opportunity for PhD students who are within 6 months (before or after) of graduating with their doctoral degree to interact with experienced researchers in computer vision. Each student will be assigned a mentor who is a senior member of the community attending the conference. Students and mentors will attend the Doctoral Consortium event in person, allowing students to discuss their ongoing research and career plans with their mentors and give a short presentation as part of the consortium.
 
-We invite submissions from PhD students conducting research in any area of computer vision. Each student will be given a 10-minute slot to present their ongoing research followed by a short Q&A session and then will have the opportunity to present a poster on their research within the main BMVC poster session. The goal of the Doctoral Consortium is to help students to refine their research ideas and to receive feedback on their work in progress. Additionally, this year, there will also be an academic speaker and an industrial speaker talking about the future career prospects for students.
+We invite submissions from PhD students conducting research in any area of computer vision. Each accepted student will have the opportunity to present their ongoing research, discuss future career plans with their mentor, and ask questions to a career panel. The goal of the Doctoral Consortium is to help students refine their research ideas and receive feedback on their work in progress. This year, the Doctoral Consortium will also feature a moderated career panel including academic, industrial, and early-career researchers.
 
 Submissions should consist of:
 
-- A (maximum) two-page abstract of the research the student will be presenting at the Doctoral Consortium.
-- The student’s CV.
-- A letter from the student’s supervisor confirming their date of graduation.
+- A (maximum) two-page abstract of the research the student will present at the Doctoral Consortium.
+- The student's CV.
+- A letter from the student's supervisor confirming their date of graduation.
+- A link to the student’s google scholar page.
 
-Submission Guidelines:
+Submission guidelines:
 
-- Abstracts should describe the research that the student wishes to present and may include already published work.
-- The abstract submission should be formatted according to the BMVC template, available on the conference website.
+- Abstracts should describe the research the student wishes to present and may include already-published or ongoing work.
+- The abstract submission should be formatted according to the BMVC 2026 template, available on the conference website with a maximum of two-pages.
 - Submission to the Doctoral Consortium while also presenting a paper at the main conference is permitted.
-- **The submission deadline is 30th July (23:59 GMT).**
+- The submission deadline is 21st August 2026 (AoE).
 
-**Submission for the Doctoral Consortium should be sent to [doctoral-consortium.bmvc2025-group@sheffield.ac.uk](mailto:doctoral-consortium.bmvc2025-group@sheffield.ac.uk).**
+Submissions for the Doctoral Consortium should be sent to: [bmvc2026dc@gmail.com](mailto:bmvc2026dc@gmail.com).
 
-Selection Process: Submissions will be reviewed by a panel of experts in computer vision. Selection will be based on the quality and potential impact of the research, as well as the clarity and organisation of the abstract.
+Selection process: Submissions will be reviewed by a panel of computer vision experts. Selection will be based on the quality and potential impact of the research, as well as the clarity and organisation of the abstract.
 
-Accepted authors will be invited to attend the Doctoral Consortium in parallel to the main track of BMVC. Each student will give a short presentation, followed by a Q&A session with the panel and other attendees. After the oral presentations, there will be two presentations on the future career prospects for students, one of which will be given by an academic speaker and another by an industrial speaker.  Students will then present a poster within the main BMVC poster session. Each student will additionally have the opportunity to receive individual feedback from their assigned mentor.
+Important dates (all deadlines AoE):
 
-Important Dates:
+- Submission opens: Monday, 20th July 2026
+- Submission deadline: Friday, 21st August 2026
+- Notification of acceptance: Friday, 11th September 2026
+- Doctoral Consortium: Meet your Mentor Monday 23rd November, Main event Wednesday 25th November during BMVC 2026 (23–26 November 2026)
 
-- Submission Opens: Sunday, 13th July 2025
-- Submission Deadline: Wednesday, 30th July 2025
-- Notification of Acceptance: Friday, 5th September 2025
-- Doctoral Consortium: TBC, during the main BMVC conference.
+We look forward to receiving your submissions and to a stimulating and productive Doctoral Consortium at BMVC 2026.
 
-All deadlines are 23:59 GMT.
+Organisers: Ali Cheraghian (Macquarie University), Michael Wray (University of Bristol)
 
-We look forward to receiving your submissions and to a stimulating and productive Doctoral Consortium at BMVC 2025!
-
-Organisers: Cass Zhixue Zhao (University of Sheffield), Yang Long (Durham University), 
-
-Contact: [doctoral-consortium.bmvc2025-group@sheffield.ac.uk](mailto:doctoral-consortium.bmvc2025-group@sheffield.ac.uk)
+Contact: [bmvc2026dc+contact@gmail.com](mailto:bmvc2026dc+contact@gmail.com)

@@ -116,7 +116,7 @@ Each paper will be reviewed by at least three reviewers. An Area Chair will prov
 ### Associated Calls
 
 -	Workshops: Workshop proposals are welcome. The proposal deadline is Friday, 22 May 2026, with notifications on Friday, 5 June 2026.
--	Doctoral Consortium (DC): The DC provides a forum for PhD students. Submissions open on 29 May 2026 and close on 31 July 2026, with notifications on 4 September 2026.
+-	Doctoral Consortium (DC): The DC provides a forum for PhD students. Submissions open on 20 July 2026 and close on 21 August 2026 (AoE), with notifications on 11 September 2026.
 
 ### Contact
 
