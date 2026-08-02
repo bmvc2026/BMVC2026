@@ -43,6 +43,12 @@ sponsors:
     url: "https://wp.lancs.ac.uk/icvl/"
     url-external: "https://wp.lancs.ac.uk/icvl/"
 
+  - name: MPIL_Lab
+    type: Supported by
+    logo: MPIL_Lab.png
+    url: "https://mpil-lab.github.io/lab-webpage/"
+    url-external: "https://mpil-lab.github.io/lab-webpage/"
+
 
 
   # - name: Technovative Solutions
@@ -110,5 +116,3 @@ sponsors:
   #   logo: SoCS.png
   #   url: "https://www.gla.ac.uk/schools/computing"
   #   url-external: "https://www.gla.ac.uk/schools/computing/"
-
-

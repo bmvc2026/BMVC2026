@@ -15,17 +15,24 @@ permalink: /sponsors/
 
 .sponsor-list {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
   align-items: center;
-  gap: 20px 28px;
+  gap: 18px;
+  width: max-content;
+  max-width: 100%;
+  margin: 0 auto;
+  overflow-x: auto;
+  padding-bottom: 4px;
 }
 
 .image-block {
-  padding: 16px;
+  padding: 14px;
   background: #fff;
-  width: 200px;
-  height: 200px;
+  width: 170px;
+  height: 150px;
+  flex: 0 1 170px;
+  min-width: 120px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,7 +51,7 @@ permalink: /sponsors/
 }
 
 .image-block img {
-  max-height: 160px;
+  max-height: 120px;
   max-width: 100%;
   object-fit: contain;
 }
@@ -70,9 +77,9 @@ permalink: /sponsors/
             {% endif %}
             <div class="sponsor-list">
                 {% for item in items %}
-                    <div class="image-block text-center">
+                    <div class="image-block text-center"{% if item.logo_block_width %} style="width: {{ item.logo_block_width }}; flex-basis: {{ item.logo_block_width }};"{% endif %}>
                         <a href="{{item.url}}" target="_blank" >
-                            <img src="{{ site.baseurl }}/imgs_2026/Sponsors/{{ item.logo }}" alt="sponsors-logo" class="img-fluid">
+                            <img src="{{ site.baseurl }}/imgs_2026/Sponsors/{{ item.logo }}" alt="sponsors-logo" class="img-fluid"{% if item.logo_width %} style="width: {{ item.logo_width }}; max-width: none;"{% endif %}>
                         </a>
                     </div>
                 {% endfor %}
