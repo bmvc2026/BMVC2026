@@ -85,7 +85,7 @@ exclude:
 
   - conference/
 
-  - programme/accepted_papers.md  
+#  - programme/accepted_papers.md  
   - programme/reception.md  
   - programme/keynotes.md
   - programme/programme_glance.html  
