@@ -50,7 +50,7 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
       <td>Friday, 3 July – Friday, 10 July 2026</td>
     </tr>
     <tr>
-      <td><strong>Author Notification of Decisions</strong></td>
+      <td><del><strong>Author Notification of Decisions</strong><del></td>
       <td><strong>Friday, 7 August 2026</strong></td>
     </tr>
     <tr>
