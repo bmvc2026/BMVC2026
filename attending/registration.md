@@ -7,11 +7,11 @@ index: 1
 
 ## Rates and deadlines
 
-Early-bird (SILVER) registration rate: £650. Deadline: 23:59 AoE, Friday 28 August, 2026. Early-bird registration (SILVER) includes one full-conference registration only, together with the additional benefits available to SILVER sponsors (see [sponsorship page](https://bmvc2026.org/sponsorship/)).
+Early-bird (SILVER) registration rate: £650. Deadline: 23:59 AoE, Friday 28 August, 2026. Early-bird registration (SILVER) includes one full-conference registration only, together with the additional benefits available to SILVER sponsors (see [sponsorship page](https://bmvc2026.bmva.org/sponsors/)).
 
 Early-bird (NORMAL) registration rate: £550. Deadline: 23:59 AoE, Friday 28 August, 2026. Early-bird registration (NORMAL) includes one full-conference registration only.
 
-Late registration (SILVER) rate: £700. Deadline: 23:59 AoE, Monday 9 November, 2026. Late registration (SILVER) includes one full-conference registration only, with additional benefits for SILVER sponsors (see [sponsorship page](https://bmvc2026.org/sponsorship/)).
+Late registration (SILVER) rate: £700. Deadline: 23:59 AoE, Monday 9 November, 2026. Late registration (SILVER) includes one full-conference registration only, with additional benefits for SILVER sponsors (see [sponsorship page](https://bmvc2026.bmva.org/sponsors/)).
 
 Late registration (NORMAL) rate: £600. Deadline: 23:59 AoE, Monday 9 November, 2026. Late registration (NORMAL) includes one full-conference registration only.
 
