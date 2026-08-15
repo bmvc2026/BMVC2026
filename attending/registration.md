@@ -7,36 +7,34 @@ index: 1
 
 ## Rates and deadlines
 
-Early-bird registration rate: £500. Deadline for early-bird registration: 3pm, Friday 31 October, 2025 (GMT).
+Early-bird (SILVER) registration rate: £650. Deadline: 23:59 AoE, Friday 28 August, 2026. Early-bird registration (SILVER) includes one full-conference registration only, together with the additional benefits available to SILVER sponsors (see [sponsorship page](https://bmvc2026.org/sponsorship/)).
 
-Late registration rate: £550. Deadline for late registration: 3pm, Tuesday 11 November, 2025 (GMT).
+Early-bird (NORMAL) registration rate: £550. Deadline: 23:59 AoE, Friday 28 August, 2026. Early-bird registration (NORMAL) includes one full-conference registration only.
+
+Late registration (SILVER) rate: £700. Deadline: 23:59 AoE, Monday 9 November, 2026. Late registration (SILVER) includes one full-conference registration only, with additional benefits for SILVER sponsors (see [sponsorship page](https://bmvc2026.org/sponsorship/)).
+
+Late registration (NORMAL) rate: £600. Deadline: 23:59 AoE, Monday 9 November, 2026. Late registration (NORMAL) includes one full-conference registration only.
 
 There will be no registration at the conference venue. 
 
-If you are only attending a workshop and not the rest of the conference, the rate is £100. Note: All workshops will take place on Thursday 27th November.
-
-## Capacity
-
-The venue for this year’s conference has a fixed capacity. Thus, all authors of conference contributions are being registered first. 
-
-Once that is done, we will make a limited number of places available for registration for the conference on a first-come, first-served basis until we reach capacity.
+If you are only attending a workshop and not the rest of the conference, the rate is £100. Note: All workshops will take place on Thursday 26th November.
 
 ## Registration links
 
-If there is remaining capacity for the conference, these links will become active on Wednesday 8 October 2025. Once capacity is reached, these links will then be removed.
+Early-bird (SILVER) registration: [https://bmva.charitysuite.com/events/mp1ldklc](https://bmva.charitysuite.com/events/mp1ldklc)
 
-Early-bird: We have a small number of 'General Registration' places available for the full conference at: [link](https://bmva.charitysuite.com/events/prwpddoj?tickets=XaK8).
+Early-bird (NORMAL) registration: [https://bmva.charitysuite.com/events/mp1ldklc](https://bmva.charitysuite.com/events/mp1ldklc)
 
-Late: It is unlikely there will be any late registration places. 
+One-day workshop only registration: [https://bmva.charitysuite.com/events/mp1ldklc](https://bmva.charitysuite.com/events/mp1ldklc)
 
-Workshop-only registration: [workshop-only link](https://bmva.charitysuite.com/events/prwpddoj?tickets=RohQ)
+Late registration (SILVER): coming soon
 
-{% comment %} 
+Late registration (NORMAL): coming soon
 
-We have reached capacity. We may be able to release a few more places at a later date so do please check back occasionally.
+#### Note
 
-## Cancelations and Refunds
+For authors of main-conference papers, each accepted paper must be covered by at least one SILVER or NORMAL full-conference registration. Each SILVER/NORMAL registration may cover up to two papers.
 
-All cancellation notifications must be submitted in writing to bmvc@bmva.org. Cancellations and refunds will only be accommodated until 25th October 2024, with the exclusion of a £20 administration charge. There will be no refunds for cancellations received after this date.
+For authors of workshop papers, each accepted paper must be covered by at least one SILVER, NORMAL, or workshop-only registration. Each workshop-only registration may cover up to two workshop papers.
 
-{% endcomment %} 
+Attendees who are not registering a paper may choose any registration category. However, please note that workshop-only registration provides access only to the workshop sessions on Thursday 26th November and does not include access to the main conference.

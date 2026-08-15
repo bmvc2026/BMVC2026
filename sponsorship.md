@@ -146,7 +146,7 @@ permalink: /sponsors/
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
             </tr>
             <tr>
-                <td style="vertical-align:middle">1 Free registration</td>
+                <td style="vertical-align:middle">Covering 1 registration</td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
@@ -162,7 +162,7 @@ permalink: /sponsors/
                 <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
             </tr>
             <tr>
-                <td style="vertical-align:middle">1 Additional free registration</td>
+                <td style="vertical-align:middle">Covering 1 additional free registration</td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(181,18,27); font-size:125%">✔</font></td>
                 <td align="center"><font style="color: rgb(192,192,192); font-size:125%">✘</font></td>
