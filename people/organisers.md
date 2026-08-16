@@ -429,7 +429,7 @@ index: 0
     <div class="text-center">
         <img src="../../imgs_2026/People/YangSiyuan.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
         <h4 class="pt-2"><a href="https://siyuan9446.github.io">Siyuan Yang</a></h4>
-        <p class="pb-2">KTH Royal Institute of Technology; Nanyang Technological University</p>
+        <p class="pb-2">KTH Royal Institute of Technology</p>
     </div>
 </div>
 
