@@ -17,9 +17,9 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 <center>
 <table border: 1px solid black;>
 	<tr>
-		<td>&nbsp&nbsp&nbspRegistration Type&nbsp&nbsp&nbsp</td>
-		<td>&nbsp&nbsp&nbspEarly&nbsp&nbsp&nbsp</td>
-		<td>&nbsp&nbsp&nbspLate&nbsp&nbsp&nbsp</td>
+		<td>   Registration Type   </td>
+		<td>   Early   </td>
+		<td>   Late   </td>
 	</tr>
 	<tr>
 		<td>NORMAL<sup>1</sup></td>
