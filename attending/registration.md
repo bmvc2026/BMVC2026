@@ -15,7 +15,7 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 <li>There will be no registration at the conference venue.</li>
 </ul>
 <center>
-<table border: 1px solid black;>
+<table style="border: 1px solid black; border-collapse: collapse;">
 	<tr>
 		<td>   Registration Type   </td>
 		<td>   Early   </td>
