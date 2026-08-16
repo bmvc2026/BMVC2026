@@ -9,11 +9,11 @@ index: 1
 
 You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.com/events/mp1ldklc">https://bmva.charitysuite.com/events/mp1ldklc</a>.
 
-Early-bird registration finishes at 23:59 AoE on Friday 28 August, 2026.
-
-Late registration finishes at 23:59 AoE on Monday 2 November, 2026.
-
-There will be no registration at the conference venue. 
+<ul>
+<li>Early-bird registration finishes at 23:59 AoE on Friday 28 August, 2026.</li>
+<li>Late registration finishes at 23:59 AoE on Monday 2 November, 2026.</li>
+<li>There will be no registration at the conference venue.</li>
+</ul>
 
 <table>
 	<tr>
