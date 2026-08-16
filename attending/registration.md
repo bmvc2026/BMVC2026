@@ -5,7 +5,7 @@ permalink: /attending/registration/
 index: 1
 ---
 
-## Rates and deadlines
+## Rates and Deadlines
 
 You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.com/events/mp1ldklc">https://bmva.charitysuite.com/events/mp1ldklc</a>.
 
