@@ -17,24 +17,24 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 <center>
 <table style="border: 1px solid black; border-collapse: collapse;">
 	<tr>
-		<td>   Registration Type   </td>
-		<td>   Early   </td>
-		<td>   Late   </td>
+		<th style="border: 1px solid black; padding: 8px;">Registration Type</th>
+		<th style="border: 1px solid black; padding: 8px;">Early</th>
+		<th style="border: 1px solid black; padding: 8px;">Late</th>
 	</tr>
 	<tr>
-		<td>NORMAL<sup>1</sup></td>
-		<td>£550</td>
-		<td>£600</td>
+		<td style="border: 1px solid black; padding: 8px;">NORMAL<sup>1</sup></td>
+		<td style="border: 1px solid black; padding: 8px;">£550</td>
+		<td style="border: 1px solid black; padding: 8px;">£600</td>
 	</tr>
 	<tr>
-		<td>SILVER<sup>2</sup></td>
-		<td>£650</td>
-		<td>£700</td>
+		<td style="border: 1px solid black; padding: 8px;">SILVER<sup>2</sup></td>
+		<td style="border: 1px solid black; padding: 8px;">£650</td>
+		<td style="border: 1px solid black; padding: 8px;">£700</td>
 	</tr>
 	<tr>
-		<td>WORKSHOP ONLY<sup>3</sup></td>
-		<td>£100</td>
-		<td>TBC</td>
+		<td style="border: 1px solid black; padding: 8px;">WORKSHOP ONLY<sup>3</sup></td>
+		<td style="border: 1px solid black; padding: 8px;">£100</td>
+		<td style="border: 1px solid black; padding: 8px;">TBC</td>
 	</tr>
 </table>
 </center>
