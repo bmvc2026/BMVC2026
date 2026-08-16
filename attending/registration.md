@@ -14,8 +14,8 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 <li>Late registration finishes at 23:59 AoE on Monday 2 November, 2026.</li>
 <li>There will be no registration at the conference venue.</li>
 </ul>
-
-<table>
+<center>
+<table border: 1px solid black;>
 	<tr>
 		<td>&nbsp&nbsp&nbspRegistration Type&nbsp&nbsp&nbsp</td>
 		<td>&nbsp&nbsp&nbspEarly&nbsp&nbsp&nbsp</td>
@@ -37,6 +37,7 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 		<td>TBC</td>
 	</tr>
 </table>
+</center>
 <br><br>
 <sup>1</sup>NORMAL registration includes one full-conference registration only.
 <sup>2</sup>SILVER registration includes one full-conference registration only, together with the additional benefits available to SILVER sponsors (see [sponsorship page](https://bmvc2026.bmva.org/sponsors/)).
