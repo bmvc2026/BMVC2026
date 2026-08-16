@@ -23,17 +23,17 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 	</tr>
 	<tr>
 		<td>NORMAL<sup>1</sup></td>
-		<td>550</td>
-		<td>600</td>
+		<td>£550</td>
+		<td>£600</td>
 	</tr>
 	<tr>
 		<td>SILVER<sup>2</sup></td>
-		<td>650</td>
-		<td>700</td>
+		<td>£650</td>
+		<td>£700</td>
 	</tr>
 	<tr>
 		<td>WORKSHOP ONLY<sup>3</sup></td>
-		<td>100</td>
+		<td>£100</td>
 		<td>TBC</td>
 	</tr>
 </table>
