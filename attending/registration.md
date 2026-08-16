@@ -37,11 +37,9 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 		<td>TBC</td>
 	</tr>
 </table>
-
+<br><br>
 <sup>1</sup>NORMAL registration includes one full-conference registration only.
-
 <sup>2</sup>SILVER registration includes one full-conference registration only, together with the additional benefits available to SILVER sponsors (see [sponsorship page](https://bmvc2026.bmva.org/sponsors/)).
-
 <sup>3</sup>WORKSHOP ONLY registration provides access only to the workshop sessions on Thursday 26th November and does not include access to the main conference.
 
 
