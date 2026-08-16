@@ -36,6 +36,7 @@ There will be no registration at the conference venue.
 		<td>100</td>
 		<td>TBC</td>
 	</tr>
+</table>
 
 <sup>1</sup>NORMAL registration includes one full-conference registration only.
 
