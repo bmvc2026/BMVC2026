@@ -38,7 +38,7 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 	</tr>
 </table>
 </center>
-<br><br>
+<br>
 <sup>1</sup>NORMAL registration includes one full-conference registration only.<br>
 <sup>2</sup>SILVER registration includes one full-conference registration only, together with the additional benefits available to SILVER sponsors (see [sponsorship page](https://bmvc2026.bmva.org/sponsors/)).<br>
 <sup>3</sup>WORKSHOP ONLY registration provides access only to the workshop sessions on Thursday 26th November and does not include access to the main conference.
@@ -46,6 +46,6 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 
 #### Note
 
-For authors of main-conference papers, each accepted paper must be covered by at least one SILVER or NORMAL full-conference registration. Each SILVER/NORMAL registration may cover up to two papers.
+For authors of main conference papers, each accepted paper must be covered by at least one SILVER or NORMAL full-conference registration. Each SILVER/NORMAL registration may cover up to two papers.
 
-For authors of workshop papers, each accepted paper must be covered by at least one SILVER, NORMAL, or workshop-only registration. Each workshop-only registration may cover up to two workshop papers.
+For authors of workshop papers, each accepted paper must be covered by at least one SILVER, NORMAL, or WORKSHOP ONLY registration. Each WORKSHOP ONLY registration may cover up to two workshop papers.
