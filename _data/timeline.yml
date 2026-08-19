@@ -62,12 +62,20 @@ deadlines:
     date: 2026-08-07
     tags:
       - key: Authors
-  - title: •  Presentation Format Notifications
+  - title: Presentation Format Notifications
     date: 2026-08-21
     tags:
       - key: Authors
   - title: Doctoral Consortium Submission Close
     date: 2026-08-21
+    tags:
+      - key: Authors
+  - title: Registration Accessibility Grant Application
+    date: 2026-08-24
+    tags:
+      - key: Authors
+  - title: Registration Accessibility Grant Notification
+    date: 2026-08-26
     tags:
       - key: Authors
   - title: Camera Ready Deadline for Papers
