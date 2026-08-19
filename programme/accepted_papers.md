@@ -159,6 +159,7 @@ This year, BMVC received 1448 submissions of which 404 papers were accepted. Eac
 <tr><td>471</td><td>TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition</td></tr>
 <tr><td>474</td><td>CountVideoBench: A Benchmark to Evaluate Prediction Biases on the Object Counting task by Video-Language Models</td></tr>
 <tr><td>475</td><td>A New Multicenter Testicular US Dataset and a Lightweight Cond-UNet for Generalization in US Segmentation</td></tr>
+<tr><td>478</td><td>SignMatch: Matching Dictionary Signs to Continuous Sign Language Video</td></tr>
 <tr><td>479</td><td>SOS! : A Streamlined Object-Conditional Transformer for Model-free Segmentation</td></tr>
 <tr><td>480</td><td>Uni- and Bi-Directional Granularity-Aware Prompt Learning for Face Anti-Spoofing</td></tr>
 <tr><td>481</td><td>From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection</td></tr>
@@ -227,7 +228,6 @@ This year, BMVC received 1448 submissions of which 404 papers were accepted. Eac
 <tr><td>701</td><td>Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models</td></tr>
 <tr><td>703</td><td>AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models</td></tr>
 <tr><td>704</td><td>Real-time Unsupervised Object Discovery from Asynchronous Event Streams</td></tr>
-<tr><td>707</td><td>When More Foundation Models Means Less: Diagnosing and Addressing Multi-View Fusion Failure</td></tr>
 <tr><td>708</td><td>UniFMamba: Uni-directional Visual Mamba with Full-Feature Parallel Mixing</td></tr>
 <tr><td>712</td><td>Temperature-Adaptive Transformed Teacher Matching</td></tr>
 <tr><td>715</td><td>MEIA: Reliability-Aware Multimodal Learning for Joint Emotion, Intention, and Action Recognition</td></tr>
@@ -256,6 +256,7 @@ This year, BMVC received 1448 submissions of which 404 papers were accepted. Eac
 <tr><td>803</td><td>DROA-CLIPSeg: Prompt-Guided Thin Crack Segmentation in Low-Light Conditions</td></tr>
 <tr><td>805</td><td>MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching</td></tr>
 <tr><td>809</td><td>ChromaIter: Real-Time Low-Light Enhancement via Iterative Log-Domain and Diversity-Enforced Reparameterization</td></tr>
+<tr><td>811</td><td>Foundational feature fusion for conditional flow matching in 6D pose estimation</td></tr>
 <tr><td>812</td><td>Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection</td></tr>
 <tr><td>825</td><td>PhasorNet: Learning Structure from Frequency for Real-Time Stereo Matching</td></tr>
 <tr><td>828</td><td>TamperLens: Tool-Augmented Vision-Language Agents for Document Forgery Detection and Localization</td></tr>
@@ -409,6 +410,7 @@ This year, BMVC received 1448 submissions of which 404 papers were accepted. Eac
 <tr><td>1615</td><td>Few-Shot Logical Anomaly Detection via Symbolic Constraint Extraction with Grounded Explanations</td></tr>
 <tr><td>1624</td><td>A Feasibility Study on Self-Supervised LLM-Inspired Training for Generalizable Human Motion Understanding</td></tr>
 <tr><td>1628</td><td>Evaluating Video LLMs’ Understanding of Corner Cases in Autonomous Driving</td></tr>
+<tr><td>1629</td><td>GRCD: Grounded Region Change Detection for Multi-Finding Chest X-Ray Pairs</td></tr>
 <tr><td>1632</td><td>OCCAM: Class-Agnostic, Training-Free, Prior-Free and Multi-Class Object Counting</td></tr>
 <tr><td>1643</td><td>Triple-Expert Learning from Noisy Labels for Semi-Supervised Vision Foundation Model Adaptation</td></tr>
 <tr><td>1645</td><td>ReCalMatch: Reliability-Calibrated Semantic Guidance for Semi-Supervised Fine-Grained Recognition</td></tr>
