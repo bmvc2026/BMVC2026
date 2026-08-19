@@ -11,6 +11,7 @@ BMVC 2026 is committed to fostering an inclusive, diverse, and accessible resear
 To be eligible for a registration grant, applicants must:
 * Be an author or co-author of an **accepted paper** at BMVC 2026.
 * Demonstrate that alternative funding sources (such as institutional support, travel grants, or research project funds) are unavailable or insufficient.
+Please note that we have a limited number of grants available and application does not guarantee acceptance.
 
 ### Key Dates
 * **Application Deadline:** Monday, 24th August 2026 at 23:59 AoE
