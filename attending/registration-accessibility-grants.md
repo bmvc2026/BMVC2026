@@ -2,7 +2,7 @@
 layout: default_sparse
 title: Registration Accessibility Grants
 permalink: /attending/registration-accessibility-grants/
-index: 1
+index: 2
 ---
 
 ### Registration Accessibility Grants
