@@ -9,7 +9,7 @@ Below is the list of accepted papers for BMVC 2026. Congratulations! You will re
 
 If your paper is not listed, it has been rejected. We understand how disappointing it can be to have a paper rejected, but we hope the feedback from the area chairs and reviewers will provide valuable insights for revising the work and that you will consider resubmitting it in the future. 
 
-This year, BMVC received 1448 submissions of which 404 papers were accepted. Each paper had at least 3 reviews and a meta-review. All papers were discussed among the reviewers and the assigned Area Chairs (AC). All this was done while preserving author anonymity and avoiding domain conflicts.
+This year, BMVC received 1448 submissions of which 406 papers were accepted. Each paper had at least 3 reviews and a meta-review. All papers were discussed among the reviewers and the assigned Area Chairs (AC). All this was done while preserving author anonymity and avoiding domain conflicts.
 
 ---
 
