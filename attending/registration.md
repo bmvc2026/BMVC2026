@@ -66,7 +66,7 @@ To be eligible for a registration grant, applicants must:
 #### How to Apply
 To apply, please send an email directly to our Equity, Diversity, and Inclusion (EDI) Chair Emily Winter (e.winter@lancaster.ac.uk) with the following details:
 
-* **Email Subject:** `BMVC 2026 Registration Accessibility Grant`
+* **Email Subject:** BMVC 2026 Registration Accessibility Grant
 * **Applicant Role:** (e.g., PhD Student, Early Career Researcher, Independent Researcher)
 * **Institutional Affiliation:**
 * **Accepted Paper ID(s):**
