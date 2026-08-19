@@ -60,11 +60,11 @@ To be eligible for a registration grant, applicants must:
 * Demonstrate that alternative funding sources (such as institutional support, travel grants, or research project funds) are unavailable or insufficient.
 
 #### Key Dates
-* **Application Deadline:** Monday, 24th August 2026 at 23:59 AoE (Anywhere on Earth)
+* **Application Deadline:** Monday, 24th August 2026 at 23:59 AoE
 * **Notification Date:** Wednesday, 26th August 2026 by 17:00 UK time (BST)
 
 #### How to Apply
-To apply, please send an email directly to our Equity, Diversity, and Inclusion (EDI) Chair Emily Winter (e.winter@lancaster.ac.uk) with the following details:
+To apply, please send an email directly to our Equity, Diversity, and Inclusion (EDI) Chair Emily Winter (<a href="e.winter@lancaster.ac.uk">e.winter@lancaster.ac.uk</a>) with the following details:
 
 * **Email Subject:** BMVC 2026 Registration Accessibility Grant
 * **Applicant Role:** (e.g., PhD Student, Early Career Researcher, Independent Researcher)
