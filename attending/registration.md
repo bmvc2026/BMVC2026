@@ -45,10 +45,10 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 
 
 #### Notes
-
-For authors of main conference papers, each accepted paper must be covered by at least one SILVER or NORMAL full-conference registration. Each SILVER/NORMAL registration may cover up to two papers.</li>
-
-For authors of workshop papers, each accepted paper must be covered by at least one SILVER, NORMAL, or WORKSHOP ONLY registration. Each WORKSHOP ONLY registration may cover up to two workshop papers.</li>
+<ul>
+<li>For authors of main conference papers, each accepted paper must be covered by at least one SILVER or NORMAL full-conference registration. Each SILVER/NORMAL registration may cover up to two papers.</li>
+<li>For authors of workshop papers, each accepted paper must be covered by at least one SILVER, NORMAL, or WORKSHOP ONLY registration. Each WORKSHOP ONLY registration may cover up to two workshop papers.</li>
+</ul>
 
 ### Registration Accessibility Grants
 
