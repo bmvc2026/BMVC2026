@@ -98,27 +98,6 @@
 </div>-->
 
 <div>
-  <style>
-    .tweet-frame {
-      width: 100%;
-      min-height: 280px;
-      height: auto;
-      overflow-y: auto;
-      overflow-x: hidden;
-      scrollbar-gutter: stable;
-      -webkit-overflow-scrolling: touch;
-      border-radius: 12px;
-      border: 1px solid #d6d9dc;
-      background: #fff;
-    }
-
-    .tweet-frame .twitter-tweet {
-      margin: 0 !important;
-      width: 100% !important;
-      min-width: 0 !important;
-    }
-  </style>
-  <h5 class="card-header mb-2" style="text-align: center;"><a href="https://twitter.com/{{ site.twitter_username }}"><i class="fab fa-twitter fa-1x"></i> {{ site.twitter_username }}</a></h5>
     <!-- <a class="twitter-timeline" height="400" href="https://twitter.com/{{ site.twitter_username }}" data-chrome="nofooter noheader noborders">News by {{ site.twitter_username }}</a> -->
 
   <!-- <iframe src="https://nitter.net/{{ site.twitter_username }}" width="100%" height="400" frameborder="0" loading="lazy"></iframe> -->
@@ -143,54 +122,6 @@
 
   <!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3 at <a href="https://twitter.com/hashtag/BMVC2025?src=hash&amp;ref_src=twsrc%5Etfw">#BMVC2025</a> featured a keynote from Dr. Angela Dai (<a href="https://twitter.com/angelaqdai?ref_src=twsrc%5Etfw">@angelaqdai</a>) from <a href="https://twitter.com/TU_Muenchen?ref_src=twsrc%5Etfw">@TU_Muenchen</a> on &quot;Can Transformers Speak Geometry?&quot; <br><br>A fascinating on about how transformer-based models can generate 3D meshes, unlocking scalable, interactive content creation for graphics &amp; vision. <a href="https://t.co/fROJhBFtvf">pic.twitter.com/fROJhBFtvf</a></p>&mdash; British Machine Vision Conference (BMVC) (@BMVCconf) <a href="https://twitter.com/BMVCconf/status/1993666417909215381?ref_src=twsrc%5Etfw">November 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-  <div class="tweet-frame">
-    <blockquote class="twitter-tweet" data-conversation="none">
-      <a href="https://twitter.com/BMVCconf/status/2030794337869508767?ref_src=twsrc%5Etfw">https://twitter.com/BMVCconf/status/2030794337869508767</a>
-    </blockquote>
-  </div>
-
   <!-- <a class="twitter-timeline" href="https://twitter.com/BMVCconf?ref_src=twsrc%5Etfw">Tweets by BMVCconf</a>  -->
   
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <script>
-    (function () {
-      function alignTweetHeight() {
-        if (window.innerWidth < 768) return;
-
-        var row = document.querySelector('.row-offcanvas');
-        if (!row) return;
-
-        var leftCol = row.querySelector('.col-sm-7');
-        var rightCol = row.querySelector('.col-sm-5');
-        var tweetFrame = rightCol ? rightCol.querySelector('.tweet-frame') : null;
-        if (!leftCol || !rightCol || !tweetFrame) return;
-
-        var leftRect = leftCol.getBoundingClientRect();
-        var rightRect = rightCol.getBoundingClientRect();
-        var tweetRect = tweetFrame.getBoundingClientRect();
-
-        var usedBeforeTweet = tweetRect.top - rightRect.top;
-        var targetHeight = Math.floor(leftRect.height - usedBeforeTweet);
-        var minHeight = 280;
-        var maxByViewport = Math.floor(window.innerHeight * 0.78);
-        var appliedMax = Math.max(minHeight, Math.min(targetHeight, maxByViewport));
-
-        // Keep natural content height when short; constrain only when it gets too tall.
-        tweetFrame.style.height = 'auto';
-        tweetFrame.style.maxHeight = appliedMax + 'px';
-      }
-
-      var resizeTimer = null;
-      window.addEventListener('load', alignTweetHeight);
-      window.addEventListener('resize', function () {
-        if (resizeTimer) window.cancelAnimationFrame(resizeTimer);
-        resizeTimer = window.requestAnimationFrame(alignTweetHeight);
-      });
-      document.addEventListener('DOMContentLoaded', alignTweetHeight);
-
-      // Recalculate once after X/Twitter widget rendering finishes.
-      setTimeout(alignTweetHeight, 800);
-      setTimeout(alignTweetHeight, 1800);
-    })();
-  </script>
 </div>

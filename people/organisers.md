@@ -400,10 +400,11 @@ index: 0
     </div>
 </div>
 
-
 </div>
 <br>
 <br>
+
+
 
 <h4>Publicity Chairs</h4>
 <br>
@@ -515,7 +516,6 @@ index: 0
 <br>
 <br>
 
-
 <h4>Local Arrangement Chairs</h4>
 <br>
 <div class="row justify-content-around pl-4 pr-4">
@@ -536,6 +536,11 @@ index: 0
         <p class="pb-2">Lancaster University</p>
     </div>
 </div>
+
+
+</div>
+<br>
+<br>
 
 <!---
 
@@ -572,9 +577,6 @@ index: 0
 </div>
 --->
 
-</div>
-<br>
-<br>
 
 
 
