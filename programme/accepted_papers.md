@@ -181,7 +181,6 @@ This year, BMVC received 1448 submissions of which 406 papers were accepted. Eac
 <tr><td>542</td><td>MixSIS: Mixed-supervised instance segmentation</td></tr>
 <tr><td>543</td><td>PhysBeam: Physics-Informed Beam Splatting for Snowy LiDAR Simulation</td></tr>
 <tr><td>549</td><td>Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models</td></tr>
-<tr><td>551</td><td>CoRe-CLIP: Restoring Final-Layer Patch Coherence for Training-Free Open-Vocabulary Semantic Segmentation</td></tr>
 <tr><td>552</td><td>Investigating Adversarial Robustness of Multi-modal Large Language Models</td></tr>
 <tr><td>555</td><td>Part-Aware Prompt Adaptation for 3D Scene Affordance Segmentation</td></tr>
 <tr><td>556</td><td>OmniSurvival: Ensemble Mixture Density Learning for Oncology Survival Prediction</td></tr>
