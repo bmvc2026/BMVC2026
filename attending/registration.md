@@ -34,7 +34,7 @@ You are invited to register for BMVC 2026 at <a href="https://bmva.charitysuite.
 	<tr>
 		<td style="border: 1px solid black; padding: 8px;">WORKSHOP ONLY<sup>3</sup></td>
 		<td style="border: 1px solid black; padding: 8px;">£100</td>
-		<td style="border: 1px solid black; padding: 8px;">TBC</td>
+		<td style="border: 1px solid black; padding: 8px;">£150</td>
 	</tr>
 </table>
 </center>
