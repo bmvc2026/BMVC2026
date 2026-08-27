@@ -18,6 +18,18 @@ sponsors:
   #   url: "https://www.datacanvas.com/en/"
   #   url-external: "https://www.datacanvas.com/en/"
 
+  - name: Podium_Institute
+    type: Silver
+    logo: POD_LOGO_CMYK.jpg
+    url: "https://thepodiuminstitute.ox.ac.uk/"
+    url-external: "https://thepodiuminstitute.ox.ac.uk/"
+  
+  - name: Equixly
+    type: Silver
+    logo: EQUIXLY.jpg
+    url: "https://equixly.com/"
+    url-external: "https://equixly.com/"
+
   - name: Lancaster_Council
     type: Supported by
     logo: LancasterCouncil.png

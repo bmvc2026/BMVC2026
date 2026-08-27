@@ -22,6 +22,18 @@
       max-height: 74px;
     }
 
+    .sidebar-sponsor-list-silver {
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: center;
+      gap: 16px;
+    }
+
+    .sidebar-sponsor-list-silver .sidebar-sponsor-logo {
+      width: 130px;
+      flex: 0 1 130px;
+    }
+
     .sidebar-sponsor-logo {
       display: flex;
       align-items: center;
@@ -60,7 +72,7 @@
         {% endif %}
       </div>
     
-      <div class="col-12 sidebar-sponsor-list{% if sponsor_type == 'Platinum+' or sponsor_type == 'Platinum' or sponsor_type == 'Gold' or sponsor_type == 'Silver' %} sidebar-sponsor-list-featured{% endif %}">
+      <div class="col-12 sidebar-sponsor-list{% if sponsor_type == 'Platinum+' or sponsor_type == 'Platinum' or sponsor_type == 'Gold' or sponsor_type == 'Silver' %} sidebar-sponsor-list-featured{% endif %}{% if sponsor_type == 'Silver' %} sidebar-sponsor-list-silver{% endif %}">
         {% for item in items %}
         <a href="{{item.url}}" target="_blank" class="sidebar-sponsor-logo{% if sponsor_type == 'Platinum+' or sponsor_type == 'Platinum' %} sidebar-sponsor-logo-main{% endif %}">
           <img src="{{ site.baseurl }}/imgs_2026/Sponsors/{{item.logo}}" class="img-fluid" alt="{{ item.name }}">
