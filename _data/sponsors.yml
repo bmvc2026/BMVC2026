@@ -18,9 +18,15 @@ sponsors:
   #   url: "https://www.datacanvas.com/en/"
   #   url-external: "https://www.datacanvas.com/en/"
 
+  - name: NeuraVision
+    type: Silver
+    logo: NeuraVisionLab.svg
+    url: "https://neuravisionlab.com"
+    url-external: "https://neuravisionlab.com"
+
   - name: Podium_Institute
     type: Silver
-    logo: POD_LOGO_CMYK.jpg
+    logo: POD_LOGO_RGB.jpg
     url: "https://thepodiuminstitute.ox.ac.uk/"
     url-external: "https://thepodiuminstitute.ox.ac.uk/"
   
@@ -29,6 +35,13 @@ sponsors:
     logo: EQUIXLY.jpg
     url: "https://equixly.com/"
     url-external: "https://equixly.com/"
+
+  - name: NJUST
+    type: Silver
+    logo: njust2.png
+    logo_width: 100px
+    url: "https://www.njust.edu.cn/"
+    url-external: "https://www.njust.edu.cn/"
 
   - name: Lancaster_Council
     type: Supported by
