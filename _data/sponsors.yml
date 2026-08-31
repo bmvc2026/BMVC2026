@@ -39,9 +39,9 @@ sponsors:
   - name: NJUST
     type: Silver
     logo: njust2.png
-    logo_width: 100px
-    url: "https://www.njust.edu.cn/"
-    url-external: "https://www.njust.edu.cn/"
+    logo_width: 95px
+    url: "https://english.njust.edu.cn"
+    url-external: "https://english.njust.edu.cn"
 
   - name: Lancaster_Council
     type: Supported by
