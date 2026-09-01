@@ -54,7 +54,7 @@ Please note that BMVC is a single-track meeting with oral and poster presentatio
       <td><strong>Friday, 7 August 2026</strong></td>
     </tr>
     <tr>
-      <td>Final Camera-Ready Paper Deadline</td>
+      <td><del>Final Camera-Ready Paper Deadline</del></td>
       <td>Friday, 28 August 2026</td>
     </tr>
     <tr>
