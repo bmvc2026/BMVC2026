@@ -61,14 +61,25 @@ morecambe:
   resized: true
 
 windermere:
-  file: windermere.jpg
-  title: Lake Windermere MMB A3 Bowness-on-Windermere
-  alt: Sailing boats on Windermere with wooded islands and Lake District hills in the distance.
+  # file: windermere.jpg
+  # title: Lake Windermere MMB A3 Bowness-on-Windermere
+  # alt: Sailing boats on Windermere with wooded islands and Lake District hills in the distance.
+  # width: 960
+  # height: 541
+  # author: mattbuck
+  # source: https://commons.wikimedia.org/wiki/File:Lake_Windermere_MMB_A3_Bowness-on-Windermere.jpg
+  # # The source offers multiple licences; this copy uses CC BY-SA 3.0.
+  # license: CC BY-SA 3.0
+  # license_url: https://creativecommons.org/licenses/by-sa/3.0/
+  # resized: true
+  file: bowness.jpg
+  title: Bowness, Windermere
+  alt: Aerial view of Lake Windermere near Bowness, surrounded by wooded shoreline and Lake District hills.
   width: 960
   height: 541
-  author: mattbuck
-  source: https://commons.wikimedia.org/wiki/File:Lake_Windermere_MMB_A3_Bowness-on-Windermere.jpg
-  # The source offers multiple licences; this copy uses CC BY-SA 3.0.
-  license: CC BY-SA 3.0
-  license_url: https://creativecommons.org/licenses/by-sa/3.0/
+  author: Jonny Gios
+  source: https://unsplash.com/photos/a-large-body-of-water-surrounded-by-trees-rI2qNWdcBcA
+  # Free to use under the Unsplash License. Attribution is appreciated but not required.
+  license: Unsplash License
+  license_url: https://unsplash.com/license
   resized: true
