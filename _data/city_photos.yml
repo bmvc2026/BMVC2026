@@ -1,0 +1,74 @@
+# Images are hosted locally; source pages retain the original files and licensing history.
+# Wikimedia Commons thumbnails preserve the full composition. No crops or colour edits.
+castle:
+  file: lancaster-castle.jpg
+  title: Lancaster Castle
+  alt: Lancaster Castle's stone gatehouse beside trees and a sloping approach road.
+  width: 960
+  height: 640
+  author: The wub
+  source: https://commons.wikimedia.org/wiki/File:Lancaster_Castle_-_2023-03-25.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  resized: true
+
+ashton:
+  file: ashton-memorial.jpg
+  title: Ashton Memorial HDR
+  alt: Ashton Memorial's dome and curved stone staircase in Williamson Park.
+  width: 960
+  height: 686
+  author: PangolinOne
+  source: https://commons.wikimedia.org/wiki/File:Ashton_Memorial_HDR.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  resized: true
+
+museum:
+  file: city-museum.jpg
+  title: City Museum, Market Square, Lancaster
+  alt: Lancaster City Museum's columned entrance and clock tower facing Market Square.
+  width: 640
+  height: 537
+  author: Stephen Richards
+  source: https://commons.wikimedia.org/wiki/File:City_Museum,_Market_Square,_Lancaster_-_geograph.org.uk_-_5168822.jpg
+  license: CC BY-SA 2.0
+  license_url: https://creativecommons.org/licenses/by-sa/2.0/
+  resized: false
+
+quay:
+  file: st-georges-quay.jpg
+  title: St. George's Quay
+  alt: Stone buildings along St George's Quay beside the River Lune, seen from the Millennium Bridge.
+  width: 960
+  height: 720
+  author: Antiquary
+  source: https://commons.wikimedia.org/wiki/File:St._George%27s_Quay.JPG
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  resized: true
+
+morecambe:
+  file: morecambe-bay.jpg
+  title: Sunset over Morecambe Bay
+  alt: Golden evening light over Morecambe Bay's water and exposed sands.
+  width: 960
+  height: 707
+  author: Steve Fareham
+  source: https://commons.wikimedia.org/wiki/File:Sunset_over_Morecambe_Bay_-_geograph.org.uk_-_4404186.jpg
+  license: CC BY-SA 2.0
+  license_url: https://creativecommons.org/licenses/by-sa/2.0/
+  resized: true
+
+windermere:
+  file: windermere.jpg
+  title: Lake Windermere MMB A3 Bowness-on-Windermere
+  alt: Sailing boats on Windermere with wooded islands and Lake District hills in the distance.
+  width: 960
+  height: 541
+  author: mattbuck
+  source: https://commons.wikimedia.org/wiki/File:Lake_Windermere_MMB_A3_Bowness-on-Windermere.jpg
+  # The source offers multiple licences; this copy uses CC BY-SA 3.0.
+  license: CC BY-SA 3.0
+  license_url: https://creativecommons.org/licenses/by-sa/3.0/
+  resized: true

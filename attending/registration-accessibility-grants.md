@@ -2,7 +2,7 @@
 layout: default_sparse
 title: Registration Accessibility Grants
 permalink: /attending/registration-accessibility-grants/
-index: 2
+index: 6
 ---
 
 BMVC 2026 is committed to fostering an inclusive, diverse, and accessible research community. To support researchers who face financial barriers to attendance, we are pleased to offer a limited number of **Registration Accessibility Grants**, which support full or partial registration fee waivers.

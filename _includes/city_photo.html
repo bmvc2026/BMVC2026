@@ -1,0 +1,16 @@
+{% assign photo = site.data.city_photos[include.photo] %}
+<figure class="mb-0">
+  <img
+    src="{{ '/imgs_2026/Lancaster/city/' | append: photo.file | relative_url }}"
+    class="img-fluid rounded w-100"
+    width="{{ photo.width }}"
+    height="{{ photo.height }}"
+    alt="{{ photo.alt | escape }}"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption class="small text-muted mt-2">
+    <a href="{{ photo.source }}">{{ photo.title | escape }}</a> &mdash; {{ photo.author | escape }}.<br>
+    <a href="{{ photo.license_url }}">{{ photo.license }}</a>{% if photo.resized %}. Resized from the original{% endif %}.
+  </figcaption>
+</figure>

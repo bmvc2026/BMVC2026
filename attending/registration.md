@@ -2,7 +2,7 @@
 layout: default_sparse
 title: Registration
 permalink: /attending/registration/
-index: 1
+index: 5
 ---
 
 ## Rates and Deadlines
