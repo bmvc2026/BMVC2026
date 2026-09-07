@@ -51,7 +51,7 @@ Arrive at **Lancaster railway station** for the city centre. From the station, y
 
 The conference venue is in **Lancaster city centre**. If you are staying at the University's Bailrigg Campus, including the Guest Rooms, please allow time to travel to the Town Hall by bus or taxi. See [Lancaster University's maps and travel information](https://www.lancaster.ac.uk/about-us/maps-and-travel/) for routes between campus and the city centre.
 
-### By Car
+### By Car / Uber / Taxi
 
 Use **LA1 1PJ** to locate the Town Hall. For public parking locations and current charges, consult [Lancaster City Council's car park information](https://lancaster.gov.uk/parking/car-parks).
 
