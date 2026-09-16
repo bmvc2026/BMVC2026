@@ -18,6 +18,14 @@ sponsors:
   #   url: "https://www.datacanvas.com/en/"
   #   url-external: "https://www.datacanvas.com/en/"
 
+  - name: IET
+    type: Platinum
+    logo: IET.png
+    logo_width: 190px
+    logo_block_width: 230px
+    url: "https://www.theiet.org/"
+    url-external: "https://www.theiet.org/"
+
   - name: NeuraVision
     type: Silver
     logo: NeuraVisionLab.svg
