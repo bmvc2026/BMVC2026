@@ -37,26 +37,35 @@
     }
 
     .sidebar-sponsor-list-silver {
-      display: flex;
-      flex-wrap: nowrap;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 104px));
       justify-content: center;
-      gap: 18px;
+      max-width: 390px;
+      gap: 8px 24px;
     }
 
     .sidebar-sponsor-list-silver .sidebar-sponsor-logo {
-      width: 104px;
-      flex: 0 1 104px;
+      width: 100%;
+      max-width: 104px;
     }
 
     .sidebar-sponsor-list-silver .sidebar-sponsor-logo-podium-institute,
     .sidebar-sponsor-list-silver .sidebar-sponsor-logo-neuravision {
-      width: 94px;
-      flex-basis: 94px;
+      max-width: 94px;
     }
 
     .sidebar-sponsor-list-silver .sidebar-sponsor-logo-njust {
-      width: 64px;
-      flex-basis: 64px;
+      max-width: 64px;
+    }
+
+    .sidebar-sponsor-list-silver .sidebar-sponsor-logo:nth-child(4) {
+      grid-column: 1 / span 2;
+      grid-row: 2;
+    }
+
+    .sidebar-sponsor-list-silver .sidebar-sponsor-logo:nth-child(5) {
+      grid-column: 2 / span 2;
+      grid-row: 2;
     }
 
     .sidebar-sponsor-list-silver .sidebar-sponsor-logo img {
