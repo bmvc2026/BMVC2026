@@ -58,6 +58,12 @@ sponsors:
     url: "https://glimpse.ml"
     url-external: "https://glimpse.ml"
 
+  - name: nsimaging
+    type: Silver
+    logo: nsimaging.jpeg
+    url: "https://nsimaging.ai"
+    url-external: "https://nsimaging.ai"
+
   - name: Lancaster_Council
     type: Supported by
     logo: LancasterCouncil.png
