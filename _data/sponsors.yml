@@ -18,6 +18,14 @@ sponsors:
   #   url: "https://www.datacanvas.com/en/"
   #   url-external: "https://www.datacanvas.com/en/"
 
+  - name: IET
+    type: Platinum
+    logo: IET.png
+    logo_width: 190px
+    logo_block_width: 230px
+    url: "https://www.theiet.org/"
+    url-external: "https://www.theiet.org/"
+
   - name: NeuraVision
     type: Silver
     logo: NeuraVisionLab.svg
@@ -29,12 +37,6 @@ sponsors:
     logo: POD_LOGO_RGB.jpg
     url: "https://thepodiuminstitute.ox.ac.uk/"
     url-external: "https://thepodiuminstitute.ox.ac.uk/"
-  
-  - name: Equixly
-    type: Silver
-    logo: EQUIXLY.jpg
-    url: "https://equixly.com/"
-    url-external: "https://equixly.com/"
 
   - name: NJUST
     type: Silver
@@ -42,6 +44,25 @@ sponsors:
     logo_width: 95px
     url: "https://english.njust.edu.cn"
     url-external: "https://english.njust.edu.cn"
+
+  - name: Equixly
+    type: Silver
+    logo: EQUIXLY.jpg
+    url: "https://equixly.com/"
+    url-external: "https://equixly.com/"
+
+
+  - name: Glimpse
+    type: Silver
+    logo: Glimpse-Logo.png
+    url: "https://glimpse.ml"
+    url-external: "https://glimpse.ml"
+
+  - name: nsimaging
+    type: Silver
+    logo: nsimaging.jpeg
+    url: "https://nsimaging.ai"
+    url-external: "https://nsimaging.ai"
 
   - name: Lancaster_Council
     type: Supported by
