@@ -553,6 +553,13 @@ index: 0
     </div>
 </div>
 
+<div class="col-6 col-md-4 col-lg-3">
+    <div class="text-center">
+        <img src="../../imgs_2026/People/RadaLavdie.jpg" class="rounded-circle img-fluid" style="max-width: 125px;">
+        <h4 class="pt-2"><a href="https://akademik.bahcesehir.edu.tr/web/lavdieradaulgen/en/index.html">Lavdie Rada</a></h4>
+        <p class="pb-2">Bahçeşehir University</p>
+    </div>
+</div>
 
 </div>
 <br>
