@@ -88,6 +88,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Multimodal Foundation Models for Healthcare: Methods and Applications</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/utwente.nl/mfm4health/home" target="_blank">MFM4Health workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Asra Aslam (Assistant Professor in Data Science, University of Sheffield); Estefanía Talavera (Assistant Professor in Multimodal Learning, University of Twente); Mamatha Thota (Senior Lecturer, AVAIL Research Group, University of Lincoln); Ziqi Huang (PhD Candidate, MMLab@NTU, Nanyang Technological University)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>a.aslam@sheffield.ac.uk, e.talaveramartinez@utwente.nl</p> -->
     </div>
