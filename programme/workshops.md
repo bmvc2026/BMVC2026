@@ -8,6 +8,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">MVEO - Workshop on Machine Vision for Earth Observation, Environmental Monitoring, and Climate Change</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://mveo.github.io/index.html" target="_blank">MVEO workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Lakshmi Babu Saheer (Associate Professor/Director of Applied AI research group, Anglia Ruskin University); Mahdi Maktabdar Oghaz (Senior Lecturer, Anglia Ruskin University); Diego Marcos (Junior Professor, Inria, Université de Montpellier); Keiller Nogueira (Lecturer, University of Liverpool); Vahid Akbari (Lecturer, University of Stirling); Jan Boehm (Professor, University College London); Fabiana Di Ciaccio (Assistant Professor, University of Florence); Ronny Hänsch (German Aerospace Center (DLR)); Chunbo Luo (Associate Professor, University of Exeter); Konstantin Klemmer (Assistant Professor, University College London); Paolo Russo (Assistant Professor, Sapienza University of Rome); Manu Sasidharan (Assistant Professor, University College London)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>lakshmi.babu-saheer@aru.ac.uk</p> -->
     </div>
