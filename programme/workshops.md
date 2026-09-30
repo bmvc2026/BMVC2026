@@ -49,6 +49,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">BEST: Biomechanics-guided Multimodal Understanding of Human Movement for Sports and Health</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://best-bmvc.github.io/BMVC2026-BEST-Workshop/index.html" target="_blank">BEST workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Bryan Scotney (Professor of Informatics, BTIIC, Ulster University); Liang Fan (AI Scientist, Loughborough University, ai.io); Dave Yearling (Research Fellow, BTIIC, Ulster University); Zhi Chen (Research Associate, BTIIC, Ulster University); Mamun Abu-Tair (Research Fellow, BTIIC, Ulster University)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>L.Fan@lboro.ac.uk</p> -->
     </div>
