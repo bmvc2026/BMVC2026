@@ -41,7 +41,6 @@ sponsors:
   - name: NJUST
     type: Silver
     logo: njust2.png
-    logo_width: 95px
     url: "https://english.njust.edu.cn"
     url-external: "https://english.njust.edu.cn"
 
@@ -66,17 +65,13 @@ sponsors:
 
   - name: MBZUAI
     type: Silver
-    logo: MBZUAI_Logo.jpg
-    logo_width: 200px
-    logo_block_width: 230px
+    logo: MBZUAI_Logo_cropped.jpg
     url: "https://mbzuai.ac.ae/"
     url-external: "https://mbzuai.ac.ae/"
 
   - name: PRL
     type: Silver
-    logo: PRL_LOGO.png
-    logo_width: 200px
-    logo_block_width: 230px
+    logo: PRL_LOGO_cropped.png
     url: "https://szhanglab-au.github.io"
     url-external: "https://szhanglab-au.github.io"
 
