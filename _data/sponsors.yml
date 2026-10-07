@@ -64,6 +64,22 @@ sponsors:
     url: "https://nsimaging.ai"
     url-external: "https://nsimaging.ai"
 
+  - name: MBZUAI
+    type: Silver
+    logo: MBZUAI_Logo.jpg
+    logo_width: 200px
+    logo_block_width: 230px
+    url: "https://mbzuai.ac.ae/"
+    url-external: "https://mbzuai.ac.ae/"
+
+  - name: PRL
+    type: Silver
+    logo: PRL_LOGO.png
+    logo_width: 200px
+    logo_block_width: 230px
+    url: "https://szhanglab-au.github.io"
+    url-external: "https://szhanglab-au.github.io"
+
   - name: Lancaster_Council
     type: Supported by
     logo: LancasterCouncil.png

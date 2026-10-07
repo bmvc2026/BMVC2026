@@ -26,6 +26,14 @@ permalink: /sponsors/
   padding-bottom: 4px;
 }
 
+.sponsor-list-silver {
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  max-width: 854px;
+  overflow-x: visible;
+}
+
 .image-block {
   padding: 14px;
   background: #fff;
@@ -75,7 +83,7 @@ permalink: /sponsors/
             {% else %}
                 <h3>{{-sponsor_type-}}:</h3>
             {% endif %}
-            <div class="sponsor-list">
+            <div class="sponsor-list{% if sponsor_type == 'Silver' %} sponsor-list-silver{% endif %}">
                 {% for item in items %}
                     <div class="image-block text-center"{% if item.logo_block_width %} style="width: {{ item.logo_block_width }}; flex-basis: {{ item.logo_block_width }};"{% endif %}>
                         <a href="{{item.url}}" target="_blank" >
