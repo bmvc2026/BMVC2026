@@ -30,7 +30,7 @@ permalink: /sponsors/
   flex-wrap: wrap;
   justify-content: center;
   width: 100%;
-  max-width: 734px;
+  max-width: 922px;
   overflow-x: visible;
 }
 

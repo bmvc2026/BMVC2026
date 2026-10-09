@@ -51,6 +51,12 @@ sponsors:
     url-external: "https://equixly.com/"
 
 
+  - name: VIMAGE_LAB
+    type: Silver
+    logo: VIMAGE_LAB_cropped.png
+    url: "https://vimage.iitb.ac.in/"
+    url-external: "https://vimage.iitb.ac.in/"
+
   - name: Glimpse
     type: Silver
     logo: Glimpse-Logo.png
