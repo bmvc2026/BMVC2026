@@ -84,6 +84,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">GlobalSouthCV: Bridging Gaps for Underrepresented Computer Vision Researchers from the Global South</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://sites.google.com/view/globalsouthcv-bmvc26/home" target="_blank">GlobalSouthCV workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Tushar Shinde (Assistant Professor, IIT Madras Zanzibar); Nabajeet Barman (Senior Research Scientist, Sony Interactive Entertainment (PlayStation)); Pedram Ghamisi (Head of Responsible AI Group HZDR &amp; Lancaster University); Hitika Tiwari (Assistant Professor, IIT Madras Zanzibar)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>shinde@iitmz.ac.in</p> -->
     </div>
