@@ -29,6 +29,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">WILD VISION: Reliable and Responsible Computer Vision in the Wild</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://wildvisionworkshop.github.io/wildvision2026/" target="_blank">WILDVISION workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>George Azzopardi (Associate Professor, University of Groningen; Honorary Professor, Stellenbosch University; Visiting Associate Professor, University of Malta); Laura Fernández-Robles (Associate Professor, University of Leon); Antonio Greco (Associate Professor, University of Salerno); Bruno Vento (Post-Doc Researcher, Consorzio Interuniversitario per l'Informatica)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>g.azzopardi@rug.nl</p> -->
     </div>
@@ -39,6 +40,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Biomarker-Driven Medical Vision Intelligence</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://bmvc-bdmedvis.github.io/" target="_blank">BD-MedVis workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Yang Hu (Lecturer, School of Computing and Mathematical Sciences, University of Leicester); He Zhao (Tenure-Track Fellow/Lecturer, Institute of Life Course &amp; Medical Sciences, University of Liverpool); Tianyang Zhang (Research Scientist, Big Data Institute, University of Oxford); Jian Chen (PhD Researcher, Clinical Medicine School, University of Cambridge); Dan Dai (Lecturer, School of Computer Science and Digital Technologies, Aston University); Yakun Ju (Lecturer, School of Computing and Mathematical Sciences, University of Leicester); Le Zhang (Assistant Professor, School of Engineering, University of Birmingham); Shangqi Gao (Research Associate, Department of Oncology, University of Cambridge); Zheheng Jiang (Lecturer, School of Computing and Mathematical Sciences, University of Leicester)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>hy208@leicester.ac.uk</p> -->
     </div>
@@ -60,6 +62,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">TrustVis: Workshop on Trustworthy Visual AI for Online and Public Safety</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://trustvis-bmvc2026.github.io/" target="_blank">TrustVis workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Guangliang Cheng (Reader, University of Liverpool); Zeyu Fu (Lecturer, University of Exeter); Jianbo Jiao (Associate Professor, University of Birmingham); Xiaowei Huang (Professor, University of Liverpool)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>guangliang.cheng@liverpool.ac.uk; Z.Fu@exeter.ac.uk</p> -->
     </div>
@@ -70,6 +73,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Deployable Multimodal AI for Real-World Systems</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://bmvc-multimodal.gitlab.io/website/" target="_blank">MMAIRS workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>A. Stephen McGough (Newcastle University); Amir Atapour-Abarghouei (Durham University); David Towers (Newcastle University); Lukas Neumann (Czech Technical University); Ondrej Tybl (Czech Technical University)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>stephen.mcgough@newcastle.ac.uk</p> -->
     </div>
@@ -101,6 +105,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">Beyond Real: Robust Vision in Synthetic Environments</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://rvsse.github.io" target="_blank">RVS-SE workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Ketan Kotwal (Center of Computer Vision, IIT Bombay); Akshay Agarwal (Assistant Professor, Department of Data Science and Engineering, IISER Bhopal); Tamar Glaser (Harman International)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>ketank1@gmail.com</p> -->
     </div>
