@@ -19,6 +19,7 @@ index: 15
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">2nd Workshop on Smart Cameras for Physical AI</h4>
+        <p class=" mb-1"><b>Website: </b><a href="https://supercamerai.github.io/" target="_blank">Smart Cameras for Physical AI workshop website</a></p>
         <p class=" mb-1 text-justify"><b>Organisers: </b>Marcos V. Conde (Principal Investigator and Postdoc, University of Würzburg &amp; Cidaut AI); Lev Markhasin (Manager and Principal Engineer, Sony); Radu Timofte (Professor, University of Würzburg); Hirokatsu Kataoka (Postdoc, AIST &amp; University of Oxford); Ziteng Cui (Assistant Professor, University of Tokyo); Matthieu Terris (CEO and Researcher, Blur Labs); Tom Bishop (CTO, GLASS Imaging); Shivansh Rao (Researcher, GLASS Imaging); Daniel Feijoo (PhD student, CIDAUT AI); Paula Garrido (PhD student, CIDAUT AI); Alvaro Garcia (Manager and Principal Engineer, Cidaut AI)</p>
         <!-- <p class=" mb-1"><b>Contact: </b>marcos.conde@uni-wuerzburg.de</p> -->
     </div>
