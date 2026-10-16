@@ -19,17 +19,17 @@ These instructions provide details on how to prepare and upload video summaries 
 ---
 ## Posters
 
-All authors with papers accepted at BMVC 2026 as a poster will have the opportunity to present their work in one of the poster sessions. For this, we ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in portrait, A0 aspect ratio and no larger than 5 MB. Posters should be in portrait. 
-
-For the conference, please prepare a physical poster in A0 size (841 x 1188 mm) in portrait to fit our poster boards. <!--Details for the poster schedule can be found in the [conference schedule](https://bmvc2026.bmva.org/programme/programme/).--> We have no official template for your, poster, e-poster or video, but we would suggest you include our BMVC 2026 logo which can be downloaded from [https://bmvc2026.bmva.org/](https://bmvc2026.bmva.org/assets/images/layout/bmvc-2026-transparent.png).
-
+All authors with papers accepted at BMVC 2026 as a poster will have the opportunity to present their work in one of the poster sessions. For the conference, please prepare a physical poster in A0 size (841 x 1188 mm) in portrait aspect to fit our poster boards. <!--Details for the poster schedule can be found in the [conference schedule](https://bmvc2026.bmva.org/programme/programme/).--> We have no official template for your, poster, e-poster or video, but we would suggest you include our BMVC 2026 logo which can be downloaded from [https://bmvc2026.bmva.org/](https://bmvc2026.bmva.org/assets/images/layout/bmvc-2026-transparent.png).
 
 **We will not have facilities to print posters, so participants are asked to bring their posters.**
 
+## e-Posters
+
+All authors with papers accepted at BMVC 2026 as a poster are asked to submit an e-poster for inclusion in the online proceedings. Authors with papers accepted as an oral session are also welcome and encouraged to submit an e-poster for inclusion in the online proceedings. We ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in A0 portrait and no larger than 5 MB.
 
 ## Video summaries
 
-Authors of papers accepted as orals and posters are strongly encouraged to prepare a 3-minute video summary of the paper. We recommend spending the first 1 minute of the video giving a high-level overview of the paper followed by a more in-depth presentation of the work. Authors can choose the total duration of the video up to the maximum length of 3 minutes. Videos should be
+Authors of papers accepted for oral and poster presentation are strongly encouraged to prepare a 3-minute video summary of the paper. We recommend spending the first 1 minute of the video giving a high-level overview of the paper followed by a more in-depth presentation of the work. Authors can choose the total duration of the video up to the maximum length of 3 minutes. Videos should be
 
 * No more than 3 minutes long,
 * 1920x1080p,
@@ -37,7 +37,6 @@ Authors of papers accepted as orals and posters are strongly encouraged to prepa
 * in MP4 format.
 
 Please note that the video presentation will be publicly available in the conference proceedings. If you are uncomfortable showing your face to the public, please do not record your face during the video presentation.
-
 
 ## Uploading your e-poster and video
 
