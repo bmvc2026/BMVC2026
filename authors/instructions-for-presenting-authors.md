@@ -25,7 +25,7 @@ All authors with papers accepted at BMVC 2026 as a poster will have the opportun
 
 ## e-Posters
 
-All authors with papers accepted at BMVC 2026 as a poster are asked to submit an e-poster for inclusion in the online proceedings. Authors with papers accepted as an oral session are also welcome and encouraged to submit an e-poster for inclusion in the online proceedings. We ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in A0 portrait and no larger than 5 MB.
+All authors with papers accepted at BMVC 2026 as a poster are asked to submit an e-poster for inclusion in the online proceedings. Authors with papers accepted as an oral presentation are also welcome and encouraged to submit an e-poster for inclusion in the online proceedings. We ask that the e-poster image to be a non-transparent .pdf file that is at least 1000 X 600 px in A0 portrait and no larger than 5 MB.
 
 ## Video summaries
 
