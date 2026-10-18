@@ -1,7 +1,7 @@
 monday:
   - session: Registration
-    start-time: "08:00"
-    end-time: "09:30"
+    start-time: "08:30"
+    end-time: "09:45"
     session-type: "ceremony event"
     data: "Throughout the day"
   - session: Tea & Coffee
