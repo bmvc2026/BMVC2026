@@ -35,7 +35,7 @@ monday:
     end-time: "17:15"
     session-type: "poster"
     data: "Banqueting Suite"
-  - session: Doctoral Consortium - Meet your Mentor
+  - session: Doctoral Consortium: Meet your Mentor
     start-time: "17:30"
     end-time: "18:00"
     session-type: "meeting"
