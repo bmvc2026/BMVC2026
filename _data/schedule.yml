@@ -11,7 +11,7 @@ monday:
   - session: Keynote 1
     start-time: "10:00"
     end-time: "10:45"
-    session-type: "keynote event"
+    session-type: "keynote"
     data: "Ashton Hall"
   - session: Poster Session 1 - Machine and Deep Learning, Architectures and Theory
     start-time: "10:45"
@@ -21,7 +21,7 @@ monday:
   - session: Lunch
     start-time: "12:30"
     end-time: "13:30"
-    session-type: "break"
+    session-type: "break event"
   - session: Oral Session 1 - 3D Vision, Spatial AI and Low-level Vision
     start-time: "13:30"
     end-time: "14:45"
@@ -40,12 +40,12 @@ monday:
   - session: Doctoral Consortium - Meet your Mentor
     start-time: "17:30"
     end-time: "18:00"
-    session-type: "meeting"
+    session-type: "meeting event"
     data: "Council Chamber"
   - session: Reception
     start-time: "18:00"
     end-time: "19:30"
-    session-type: "ceremony"
+    session-type: "ceremony event"
     data: "Lancaster Town Hall"
 
 tuesday:
@@ -66,7 +66,7 @@ tuesday:
   - session: Lunch
     start-time: "12:30"
     end-time: "13:30"
-    session-type: "break"
+    session-type: "break event"
   - session: Poster Session 4 - Multimodal AI
     start-time: "13:30"
     end-time: "15:15"
@@ -101,7 +101,7 @@ wednesday:
   - session: Doctoral Consortium
     start-time: "09:30"
     end-time: "12:30"
-    session-type: "meeting"
+    session-type: "meeting event"
     data: "Council Chamber"
   - session: Poster Session 5 - Responsible AI, Medical Imaging and Applications
     start-time: "10:45"
@@ -111,7 +111,7 @@ wednesday:
   - session: Lunch
     start-time: "12:30"
     end-time: "13:30"
-    session-type: "break"
+    session-type: "break event"
   - session: Poster Session 6 - Dynamic Vision, Human Perception and Video Analytics
     start-time: "13:30"
     end-time: "15:15"
@@ -120,7 +120,7 @@ wednesday:
   - session: BMVA Town Hall
     start-time: "13:30"
     end-time: "15:15"
-    session-type: "meeting"
+    session-type: "meeting event"
     data: "Council Chamber"
   - session: Keynote 4
     start-time: "15:15"
@@ -150,7 +150,7 @@ thursday:
   - session: Lunch and Posters
     start-time: "12:30"
     end-time: "13:30"
-    session-type: "break"
+    session-type: "break event"
   - session: Afternoon Workshops
     start-time: "13:30"
     end-time: "17:00"
