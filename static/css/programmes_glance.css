@@ -172,42 +172,42 @@ td {
 
 .session.keynote {
   background: none;
-  border-left: 8px solid #ffbac0;
+  border-left: 8px solid #0B76A0;
 }
 
 .session.meeting {
   background: none;
-  border-left: 8px solid#ffd195;
+  border-left: 8px solid#104862;
 }
 
 .session.oral {
   background: none;
-  border-left: 8px solid#dffaad;
+  border-left: 8px solid#275317;
 }
 
 .session.workshop {
   background: none;
-  border-left: 8px solid#ccffe5;
+  border-left: 8px solid#275317;
 }
 
 .session.ws_poster {
   background: none;
-  border-left: 8px solid#ccffe5;
+  border-left: 8px solid#C04F15;
 }
 
 .session.industrial {
   background: none;
-  border-left: 8px solid#dee2e6;
+  border-left: 8px solid#C04F15;
 }
 
 .session.ceremony {
   background: none;
-  border-left: 8px solid #456e9b;
+  border-left: 8px solid #215F9A;
 }
 
 .session.break {
   background: none;
-  border-left: 8px solid rgb(248, 236, 128);
+  border-left: 8px solid #3B7D23;
 }
 
 summary {
