@@ -47,68 +47,43 @@ monday:
 
 tuesday:
   - session: Registration
-    start-time: "08:00"
-    end-time: "09:00"
-    session-type: "ceremony event"
-  - session: Tea & Coffee
     start-time: "08:30"
-    end-time: "09:00"
-    session-type: "break"
-  - session: Keynote 2/3 - Marc Pollefeys
-    start-time: "09:00"
-    end-time: "10:00"
-    session-type: "keynote"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Poster Session 3 - 3D Scene Analysis and Understanding
-    start-time: "10:00"
-    end-time: "11:45"
-    session-type: "poster"
-    data: "Cutlers' Hall"
-  - session: Tea & Coffee
+    end-time: "09:30"
+    session-type: "industrial event"
+  - session: Oral Session 2: Modelling and Multimodal AI
+    start-time: "09:30"
+    end-time: "10:45"
+    session-type: "oral"
+    data: "Ashton Hall"
+  - session: Poster Session 3: Generative Modelling and Interaction
     start-time: "10:45"
-    end-time: "11:45"
-    session-type: "break"
-  - session: Oral Session 3 - 3D Scene Analysis and Understanding
-    start-time: "11:45"
-    end-time: "13:00"
-    session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Lunch
-    start-time: "13:00"
-    end-time: "14:00"
-    session-type: "break"
-  - session: Poster Session 4 - Medical and Biological Image Analysis and Real World Applications and Systems
-    start-time: "14:00"
-    end-time: "15:45"
+    end-time: "12:30"
     session-type: "poster"
-    data: "Cutlers' Hall"
-  - session: Tea & Coffee
+    data: "Banqueting Room"
+  - session: Lunch
+    start-time: "12:30"
+    end-time: "13:30"
+    session-type: "break"
+  - session: Poster Session 4: Multimodal AI
+    start-time: "13:30"
+    end-time: "15:15"
+    session-type: "poster"
+    data: "Banqueting Room"
+  - session: Keynote 3
     start-time: "15:15"
-    end-time: "15:45"
-    session-type: "break"
-  - session: Oral Session 4 - Medical and Biological Image Analysis
-    start-time: "15:45"
-    end-time: "16:45"
+    end-time: "16:00"
+    session-type: "keynote"
+    data: "Ashton Hall"
+  - session: Oral Session 3: Machine and Deep Learning, Architectures and Theory
+    start-time: "16:00"
+    end-time: "17:15"
     session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Tea & Coffee
-    start-time: "16:40"
-    end-time: "17:05"
-    session-type: "break"
-  - session: Oral Session 5 - Real World Applications and Systems
-    start-time: "17:00"
-    end-time: "18:00"
-    session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
-  - session: End
-    start-time: "18:00"
-    end-time: "18:00"
-    session-type: "break"
-  - session: Dinner
-    start-time: "19:00"
-    end-time: "23:00"
+    data: "Ashton Hall"
+  - session: Conference Dinner
+    start-time: "18:30"
+    end-time: "21:00"
     session-type: "ceremony event"
-    data: "Cambridge Street Collective"
+    data: "Lancaster Castle"
 
 wednesday:
   - session: Registration
