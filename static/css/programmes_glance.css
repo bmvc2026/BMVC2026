@@ -139,37 +139,30 @@ td {
 
 .meeting {
   background: #104862;
-  color: white;
 }
 
 .oral {
   background: #275317;
-  color: white;
 }
 
 .workshop {
   background: #275317;
-  color: white;
 }
 
 .ws_poster {
   background: #C04F15;
-  color: white;
 }
 
 .industrial {
   background: #C04F15;
-  color: white;
 }
 
 .ceremony {
   background: #215F9A;
-  color: white;
 }
 
 .break {
   background: #3B7D23;
-  color: white;
 }
 
 .session.poster {
