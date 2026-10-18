@@ -136,7 +136,6 @@ td {
 
 .keynote {
   background: #0B76A0;
-  background: #ffbac0;
   color: white;
 }
 
@@ -151,7 +150,7 @@ td {
 }
 
 .workshop {
-  background: #C04F15;
+  background: #275317;
   color: white;
 }
 
@@ -161,7 +160,8 @@ td {
 }
 
 .industrial {
-  background: #dee2e6;
+  background: #C04F15;
+  color: white;
 }
 
 .ceremony {
