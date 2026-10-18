@@ -130,29 +130,34 @@ td {
 }
 
 .poster {
-  background: #b7dfff;
+  background: #78206E;
+  color: white;
 }
 
 .keynote {
   background: #0B76A0;
+  background: #ffbac0;
   color: white;
-
 }
 
 .meeting {
-  background: #fff9a3;
+  background: #104862;
+  color: white;
 }
 
 .oral {
-  background: #dffaad;
+  background: #275317;
+  color: white;
 }
 
 .workshop {
-  background: #ccffe5;
+  background: #C04F15;
+  color: white;
 }
 
 .ws_poster {
-  background: #ccffe5;
+  background: #C04F15;
+  color: white;
 }
 
 .industrial {
@@ -160,11 +165,13 @@ td {
 }
 
 .ceremony {
-  background: yellow;
+  background: #215F9A;
+  color: white;
 }
 
 .break {
-  background: rgb(248, 236, 128);
+  background: #3B7D23;
+  color: white;
 }
 
 .session.poster {
