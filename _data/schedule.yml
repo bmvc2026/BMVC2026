@@ -147,6 +147,11 @@ thursday:
     start-time: "09:00"
     end-time: "12:30"
     session-type: "workshop"
+  - session: MVEO - Workshop on Machine Vision for Earth Observation, Environmental Monitoring, and Climate Change
+    start-time: "09:00"
+    end-time: "17:00"
+    session-type: "workshop"
+    data: "Reception Room"
   - session: Lunch and Posters
     start-time: "12:30"
     end-time: "13:30"
