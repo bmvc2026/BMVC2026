@@ -147,36 +147,6 @@ thursday:
     start-time: "09:00"
     end-time: "12:30"
     session-type: "workshop"
-  - session: MVEO - Workshop on Machine Vision for Earth Observation, Environmental Monitoring, and Climate Change
-    start-time: "09:00"
-    end-time: "17:00"
-    session-type: "workshop"
-    data: "Reception Room"
-  - session: 2nd Workshop on Smart Cameras for Physical AI
-    start-time: "09:00"
-    end-time: "17:00"
-    session-type: "workshop"
-    data: "Banqueting Room"
-  - session: TrustVis - Workshop on Trustworthy Visual AI for Online and Public Safety
-    start-time: "09:00"
-    end-time: "12:30"
-    session-type: "workshop"
-    data: "Ashton Hall"
-  - session: WILD VISION - Reliable and Responsible Computer Vision in the Wild
-    start-time: "09:00"
-    end-time: "12:30"
-    session-type: "workshop"
-    data: "Breakout Room"
-  - session: Multimodal Foundation Models for Healthcare - Methods and Applications
-    start-time: "09:00"
-    end-time: "12:30"
-    session-type: "workshop"
-    data: "Committee Room B"
-  - session: Biomarker-Driven Medical Vision Intelligence
-    start-time: "09:00"
-    end-time: "12:30"
-    session-type: "workshop"
-    data: "Council Chamber"
   - session: Lunch and Posters
     start-time: "12:30"
     end-time: "13:30"
