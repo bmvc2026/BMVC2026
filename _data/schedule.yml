@@ -87,108 +87,67 @@ tuesday:
 
 wednesday:
   - session: Registration
-    start-time: "08:00"
-    end-time: "09:00"
-    session-type: "ceremony event"
-  - session: Tea & Coffee
     start-time: "08:30"
-    end-time: "09:00"
-    session-type: "break"
-  - session: Keynote 3/3 - Angela Dai
-    start-time: "09:00"
-    end-time: "10:00"
-    session-type: "keynote"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Poster Session 5 - Advanced Architectures, Robustness and Efficiency
-    start-time: "10:00"
-    end-time: "11:45"
-    session-type: "poster"
-    data: "Cutlers' Hall"
+    end-time: "09:30"
+    session-type: "industrial event"
+  - session: Oral Session 4: Responsible AI, Medical Imaging and Applications
+    start-time: "09:30"
+    end-time: "10:45"
+    session-type: "oral"
   - session: Doctoral Consortium
-    start-time: "10:00"
-    end-time: "13:00"
-    session-type: "poster"
-    data: "Cutlers' Hall"
-  - session: Tea & Coffee
+    start-time: "09:30"
+    end-time: "12:30"
+    session-type: "meeting"
+    data: "Council Chamber"
+  - session: Poster Session 5: Responsible AI, Medical Imaging and Applications
     start-time: "10:45"
-    end-time: "11:45"
-    session-type: "break"
-  - session: Oral Session 6 - Advanced Architectures, Robustness and Efficiency
-    start-time: "11:45"
-    end-time: "13:00"
-    session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Lunch
-    start-time: "13:00"
-    end-time: "14:00"
-    session-type: "break"
-  - session: Poster Session 6 - Human & Motion Analysis (+ Doctoral Consortium Posters)
-    start-time: "14:00"
-    end-time: "15:45"
+    end-time: "12:30"
     session-type: "poster"
-    data: "Cutlers' Hall"
-  - session: Tea & Coffee
-    start-time: "15:15"
-    end-time: "15:45"
+    data: "Banqueting Room"
+  - session: Lunch
+    start-time: "12:30"
+    end-time: "13:30"
     session-type: "break"
-  - session: Oral Session 7 - Human & Motion Analysis
-    start-time: "15:45"
-    end-time: "17:00"
+  - session: Poster Session 6: Dynamic Vision, Human Perception and Video Analytics
+    start-time: "13:30"
+    end-time: "15:15"
+    session-type: "poster"
+    data: "Banqueting Room"
+  - session: BMVA Town Hall
+    start-time: "13:30"
+    end-time: "15:15"
+    session-type: "meeting"
+    data: "Council Chamber"
+  - session: Keynote 4
+    start-time: "15:15"
+    end-time: "16:00"
+    session-type: "keynote"
+    data: "Ashton Hall"
+  - session: Oral Session 5: Dynamic Vision, Human Perception and Video Analytics
+    start-time: "16:00"
+    end-time: "17:15"
     session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Awards & closing speech
-    start-time: "17:00"
+    data: "Ashton Hall"
+  - session: Confererence Close
+    start-time: "17:15"
     end-time: "17:30"
     session-type: "ceremony event"
-    data: "Main Hall, Cutlers' Hall"
-  - session: End
-    start-time: "17:30"
-    end-time: "17:30"
-    session-type: "break"
+    data: "Ashton Hall"
 
 thursday:
-  - session: Registration for workshops
-    start-time: "08:00"
-    end-time: "09:00"
-    session-type: "ceremony event"
-    data: "For one-day attendees"
-  - session: Tea & Coffee
+  - session: Registration
     start-time: "08:30"
     end-time: "09:00"
-    session-type: "break"
-  - session: Morning workshops start
+    session-type: "industrial event"
+  - session: Morning Workshops
     start-time: "09:00"
-    end-time: "09:00"
+    end-time: "12:30"
     session-type: "workshop"
-  - session: BMVA Town Hall
-    start-time: "10:00"
-    end-time: "11:00"
-    session-type: "ceremony event"
-  - session: Tea & Coffee
-    start-time: "10:45"
-    end-time: "11:15"
+  - session: Lunch and Posters
+    start-time: "12:30"
+    end-time: "13:30"
     session-type: "break"
-  - session: Morning workshops end
-    start-time: "13:00"
-    end-time: "13:00"
+  - session: Afternoon Workshops
+    start-time: "13:30"
+    end-time: "17:00"
     session-type: "workshop"
-  - session: Lunch
-    start-time: "13:00"
-    end-time: "14:00"
-    session-type: "break"
-  - session: Afternoon workshops start
-    start-time: "14:00"
-    end-time: "14:00"
-    session-type: "workshop"
-  - session: Tea & Coffee
-    start-time: "15:45"
-    end-time: "16:15"
-    session-type: "break"
-  - session: Afternoon workshops end
-    start-time: "18:00"
-    end-time: "18:00"
-    session-type: "workshop"
-  - session: End
-    start-time: "18:00"
-    end-time: "18:00"
-    session-type: "break"
