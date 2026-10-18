@@ -2,62 +2,48 @@ monday:
   - session: Registration
     start-time: "08:30"
     end-time: "09:45"
-    session-type: "ceremony event"
-    data: "Throughout the day"
-  - session: Tea & Coffee
-    start-time: "08:00"
-    end-time: "09:30"
-    session-type: "break"
-  - session: Welcome speech
-    start-time: "09:30"
-    end-time: "09:45"
-    session-type: "ceremony event"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Oral Session 1 - Multimodal Learning
+    session-type: "industrial event"
+  - session: Welcome
     start-time: "09:45"
-    end-time: "11:00"
-    session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Tea & Coffee
-    start-time: "11:00"
-    end-time: "11:45"
-    session-type: "break"
-  - session: Poster Session 1 - Multimodal Learning
-    start-time: "11:00"
+    end-time: "10:00"
+    session-type: "ceremony"
+  - session: Keynote 1
+    start-time: "10:00"
+    end-time: "10:45"
+    session-type: "keynote event"
+    data: "Ashton Hall"
+  - session: Poster Session 1
+    start-time: "10:45"
     end-time: "12:30"
     session-type: "poster"
-    data: "Cutlers' Hall"
+    data: "Banqueting Suite"
   - session: Lunch
     start-time: "12:30"
-    end-time: "14:00"
+    end-time: "13:30"
     session-type: "break"
-  - session: Keynote 1/3 - Phil Torr
-    start-time: "14:00"
-    end-time: "15:00"
-    session-type: "keynote"
-    data: "Main Hall, Cutlers' Hall"
-  - session: Poster Session 2 - Generative Models and Synthesis
-    start-time: "15:00"
-    end-time: "16:30"
-    session-type: "poster"
-    data: "Cutlers' Hall"
-  - session: Tea & Coffee
-    start-time: "15:15"
-    end-time: "16:00"
-    session-type: "break"
-  - session: Oral Session 2 - Generative Models and Synthesis
-    start-time: "16:30"
-    end-time: "17:30"
+  - session: Oral Session 1
+    start-time: "13:30"
+    end-time: "14:45"
     session-type: "oral"
-    data: "Main Hall, Cutlers' Hall"
-  - session: End
+    data: "Ashton Hall"
+  - session: Keynote 2
+    start-time: "14:45"
+    end-time: "15:30"
+    session-type: "keynote"
+  - session: Poster Session 2
+    start-time: "15:30"
+    end-time: "17:15"
+    session-type: "poster"
+    data: "Banqueting Suite"
+  - session: Doctoral Consortium - Meet your Mentor
     start-time: "17:30"
-    end-time: "17:30"
-    session-type: "break"
-  - session: Reception (inc. the Fellowship award)
-    start-time: "19:00"
-    end-time: "20:30"
-    session-type: "ceremony event"
+    end-time: "18:00"
+    session-type: "meeting"
+    data: "Council Chamber"
+  - session: Reception
+    start-time: "18:00"
+    end-time: "19:30"
+    session-type: "ceremony"
 
 tuesday:
   - session: Registration
