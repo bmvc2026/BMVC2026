@@ -35,7 +35,7 @@ monday:
     end-time: "17:15"
     session-type: "poster"
     data: "Banqueting Suite"
-  - session: Doctoral Consortium: Meet your Mentor
+  - session: Doctoral Consortium - Meet your Mentor
     start-time: "17:30"
     end-time: "18:00"
     session-type: "meeting"
@@ -50,12 +50,12 @@ tuesday:
     start-time: "08:30"
     end-time: "09:30"
     session-type: "industrial event"
-  - session: Oral Session 2: Modelling and Multimodal AI
+  - session: Oral Session 2 - Modelling and Multimodal AI
     start-time: "09:30"
     end-time: "10:45"
     session-type: "oral"
     data: "Ashton Hall"
-  - session: Poster Session 3: Generative Modelling and Interaction
+  - session: Poster Session 3 - Generative Modelling and Interaction
     start-time: "10:45"
     end-time: "12:30"
     session-type: "poster"
@@ -64,7 +64,7 @@ tuesday:
     start-time: "12:30"
     end-time: "13:30"
     session-type: "break"
-  - session: Poster Session 4: Multimodal AI
+  - session: Poster Session 4 - Multimodal AI
     start-time: "13:30"
     end-time: "15:15"
     session-type: "poster"
@@ -74,7 +74,7 @@ tuesday:
     end-time: "16:00"
     session-type: "keynote"
     data: "Ashton Hall"
-  - session: Oral Session 3: Machine and Deep Learning, Architectures and Theory
+  - session: Oral Session 3 - Machine and Deep Learning, Architectures and Theory
     start-time: "16:00"
     end-time: "17:15"
     session-type: "oral"
@@ -90,7 +90,7 @@ wednesday:
     start-time: "08:30"
     end-time: "09:30"
     session-type: "industrial event"
-  - session: Oral Session 4: Responsible AI, Medical Imaging and Applications
+  - session: Oral Session 4 - Responsible AI, Medical Imaging and Applications
     start-time: "09:30"
     end-time: "10:45"
     session-type: "oral"
@@ -99,7 +99,7 @@ wednesday:
     end-time: "12:30"
     session-type: "meeting"
     data: "Council Chamber"
-  - session: Poster Session 5: Responsible AI, Medical Imaging and Applications
+  - session: Poster Session 5 - Responsible AI, Medical Imaging and Applications
     start-time: "10:45"
     end-time: "12:30"
     session-type: "poster"
@@ -108,7 +108,7 @@ wednesday:
     start-time: "12:30"
     end-time: "13:30"
     session-type: "break"
-  - session: Poster Session 6: Dynamic Vision, Human Perception and Video Analytics
+  - session: Poster Session 6 - Dynamic Vision, Human Perception and Video Analytics
     start-time: "13:30"
     end-time: "15:15"
     session-type: "poster"
@@ -123,7 +123,7 @@ wednesday:
     end-time: "16:00"
     session-type: "keynote"
     data: "Ashton Hall"
-  - session: Oral Session 5: Dynamic Vision, Human Perception and Video Analytics
+  - session: Oral Session 5 - Dynamic Vision, Human Perception and Video Analytics
     start-time: "16:00"
     end-time: "17:15"
     session-type: "oral"
