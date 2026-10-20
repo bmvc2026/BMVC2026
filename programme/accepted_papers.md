@@ -74,7 +74,7 @@ This year, BMVC received 1448 submissions of which 406 papers were accepted. Eac
 <tr><td>132</td><td>MorphoStyle: Motion Style Transfer with Morphology Control</td></tr>
 <tr><td>134</td><td>Memory-Bounded Continuation of Greedy Sampling for Continual Anomaly Detection</td></tr>
 <tr><td>137</td><td>PhysEdit: Accelerating Physics-Sensitive Image Editing with Risk-Aware Caching</td></tr>
-<tr><td>138</td><td>Efficient and Explicit Emotion-Controllable Video Dubbing Synthesis via Audio-Visual Alignment onto Implicit Motion Space</td></tr>
+<tr><td>138</td><td>Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control</td></tr>
 <tr><td>139</td><td>Parameter-efficient Latent Diffusion for Label-free Virtual Staining in High-content Microscopy</td></tr>
 <tr><td>143</td><td>TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos</td></tr>
 <tr><td>149</td><td>Hyper$^2$: Unleashing Hyperbolic Geometry's Full Potential via Dual-Space Consistency</td></tr>
