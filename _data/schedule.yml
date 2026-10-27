@@ -8,7 +8,7 @@ monday:
     end-time: "10:00"
     session-type: "ceremony"
     data: "Ashton Hall"
-  - session: Keynote 1
+  - session: Keynote 1 - Bernt Schiele
     start-time: "10:00"
     end-time: "10:45"
     session-type: "keynote"
@@ -27,7 +27,7 @@ monday:
     end-time: "14:45"
     session-type: "oral"
     data: "Ashton Hall"
-  - session: Keynote 2
+  - session: Keynote 2 - Vishal M. Patel
     start-time: "14:45"
     end-time: "15:30"
     session-type: "keynote"
@@ -72,7 +72,7 @@ tuesday:
     end-time: "15:15"
     session-type: "poster"
     data: "Banqueting Room"
-  - session: Keynote 3
+  - session: Keynote 3 - Kate Saenko
     start-time: "15:15"
     end-time: "16:00"
     session-type: "keynote"
@@ -122,7 +122,7 @@ wednesday:
     end-time: "15:15"
     session-type: "meeting event"
     data: "Council Chamber"
-  - session: Keynote 4
+  - session: Keynote 4 - Andrea Vedaldi
     start-time: "15:15"
     end-time: "16:00"
     session-type: "keynote"
