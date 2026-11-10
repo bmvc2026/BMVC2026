@@ -53,7 +53,7 @@ tuesday:
     start-time: "08:30"
     end-time: "09:30"
     session-type: "industrial event"
-  - session: Oral Session 2 - Modelling and Multimodal AI
+  - session: Oral Session 2 - Generative Modelling and Multimodal AI
     start-time: "09:30"
     end-time: "10:45"
     session-type: "oral"
