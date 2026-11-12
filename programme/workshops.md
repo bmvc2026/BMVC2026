@@ -15,7 +15,7 @@ index: 15
 </div>
 
 ---
-
+<!---
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">2nd Workshop on Smart Cameras for Physical AI</h4>
@@ -26,7 +26,7 @@ index: 15
 </div>
 
 ---
-
+--->
 <div class="row pt-2 pb-2 align-items-center">
     <div class="col-12 col-md-12 col-lg-12">
         <h4 class="pt-1 ">WILD VISION: Reliable and Responsible Computer Vision in the Wild</h4>
