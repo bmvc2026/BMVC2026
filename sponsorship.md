@@ -126,7 +126,7 @@ permalink: /sponsors/
                 <td align="center">£15000</td>
                 <td align="center">£9000</td>
                 <td align="center">£6000</td>
-                <td align="center">£1400</td>
+                <td align="center">£3000</td>
                 <td align="center">TBD</td>
             </tr>
             <tr>
