@@ -123,10 +123,10 @@ permalink: /sponsors/
             </tr>
             <tr>
                 <td>Standard Cost</td>
-                <td align="center">£7500</td>
-                <td align="center">£4500</td>
-                <td align="center">£3000</td>
-                <td align="center">£700</td>
+                <td align="center">£15000</td>
+                <td align="center">£9000</td>
+                <td align="center">£6000</td>
+                <td align="center">£1400</td>
                 <td align="center">TBD</td>
             </tr>
             <tr>
