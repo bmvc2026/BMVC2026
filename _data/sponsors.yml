@@ -44,17 +44,17 @@ sponsors:
     url: "https://nsimaging.ai"
     url-external: "https://nsimaging.ai"
 
-  - name: NJUST
-    type: Silver
-    logo: njust2.png
-    url: "https://english.njust.edu.cn"
-    url-external: "https://english.njust.edu.cn"
-
   - name: Podium_Institute
     type: Silver
     logo: POD_LOGO_RGB.jpg
     url: "https://thepodiuminstitute.ox.ac.uk/"
     url-external: "https://thepodiuminstitute.ox.ac.uk/"
+
+  - name: NJUST
+    type: Silver
+    logo: njust2.png
+    url: "https://english.njust.edu.cn"
+    url-external: "https://english.njust.edu.cn"
 
   - name: MBZUAI
     type: Silver
@@ -62,17 +62,17 @@ sponsors:
     url: "https://mbzuai.ac.ae/"
     url-external: "https://mbzuai.ac.ae/"
 
-  - name: NeuraVision
-    type: Silver
-    logo: NeuraVisionLab.svg
-    url: "https://neuravisionlab.com"
-    url-external: "https://neuravisionlab.com"
-
   - name: VIMAGE_LAB
     type: Silver
     logo: VIMAGE_LAB_cropped.png
     url: "https://vimage.iitb.ac.in/"
     url-external: "https://vimage.iitb.ac.in/"
+
+  - name: NeuraVision
+    type: Silver
+    logo: NeuraVisionLab.svg
+    url: "https://neuravisionlab.com"
+    url-external: "https://neuravisionlab.com"
 
   - name: PRL
     type: Silver
