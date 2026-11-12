@@ -26,36 +26,11 @@ sponsors:
     url: "https://www.theiet.org/"
     url-external: "https://www.theiet.org/"
 
-  - name: NeuraVision
-    type: Silver
-    logo: NeuraVisionLab.svg
-    url: "https://neuravisionlab.com"
-    url-external: "https://neuravisionlab.com"
-
-  - name: Podium_Institute
-    type: Silver
-    logo: POD_LOGO_RGB.jpg
-    url: "https://thepodiuminstitute.ox.ac.uk/"
-    url-external: "https://thepodiuminstitute.ox.ac.uk/"
-
-  - name: NJUST
-    type: Silver
-    logo: njust2.png
-    url: "https://english.njust.edu.cn"
-    url-external: "https://english.njust.edu.cn"
-
   - name: Equixly
     type: Silver
     logo: EQUIXLY.jpg
     url: "https://equixly.com/"
     url-external: "https://equixly.com/"
-
-
-  - name: VIMAGE_LAB
-    type: Silver
-    logo: VIMAGE_LAB_cropped.png
-    url: "https://vimage.iitb.ac.in/"
-    url-external: "https://vimage.iitb.ac.in/"
 
   - name: Glimpse
     type: Silver
@@ -69,11 +44,35 @@ sponsors:
     url: "https://nsimaging.ai"
     url-external: "https://nsimaging.ai"
 
+  - name: NJUST
+    type: Silver
+    logo: njust2.png
+    url: "https://english.njust.edu.cn"
+    url-external: "https://english.njust.edu.cn"
+
+  - name: Podium_Institute
+    type: Silver
+    logo: POD_LOGO_RGB.jpg
+    url: "https://thepodiuminstitute.ox.ac.uk/"
+    url-external: "https://thepodiuminstitute.ox.ac.uk/"
+
   - name: MBZUAI
     type: Silver
     logo: MBZUAI_Logo_cropped.jpg
     url: "https://mbzuai.ac.ae/"
     url-external: "https://mbzuai.ac.ae/"
+
+  - name: NeuraVision
+    type: Silver
+    logo: NeuraVisionLab.svg
+    url: "https://neuravisionlab.com"
+    url-external: "https://neuravisionlab.com"
+
+  - name: VIMAGE_LAB
+    type: Silver
+    logo: VIMAGE_LAB_cropped.png
+    url: "https://vimage.iitb.ac.in/"
+    url-external: "https://vimage.iitb.ac.in/"
 
   - name: PRL
     type: Silver
@@ -99,6 +98,12 @@ sponsors:
     logo: LancasterCouncilCoatofArms.png
     url: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
     url-external: "https://www.lancaster.gov.uk/sites/lancaster-town-hall"
+
+  - name: Lancaster_University
+    type: Supported by
+    logo: LancasterLogo.png
+    url: "https://www.lancaster.ac.uk/"
+    url-external: "https://www.lancaster.ac.uk/"
 
   - name: iCVL
     type: Supported by
