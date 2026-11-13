@@ -163,7 +163,7 @@ This year, BMVC received 1448 submissions of which 406 papers were accepted. Eac
 <tr><td>479</td><td>SOS! : A Streamlined Object-Conditional Transformer for Model-free Segmentation</td></tr>
 <tr><td>480</td><td>Uni- and Bi-Directional Granularity-Aware Prompt Learning for Face Anti-Spoofing</td></tr>
 <tr><td>481</td><td>From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection</td></tr>
-<tr><td>482</td><td>Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study</td></tr>
+<tr><td>482</td><td>GP-VM×SMA: Benchmarking General-Purpose Vision Models and Specialized Architectures for 2D Medical Image Segmentation</td></tr>
 <tr><td>484</td><td>RS$^3$-Prune: Read-Sparse, Store-Sparse Token Pruning for Video Object Segmentation</td></tr>
 <tr><td>493</td><td>Robust Image Quality Assessment via Feature-Space Smoothing</td></tr>
 <tr><td>494</td><td>Depth-to-Image Synthesis-Driven Generative Unguided Depth Completion</td></tr>
