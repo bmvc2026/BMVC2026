@@ -41,7 +41,7 @@ monday:
     start-time: "17:30"
     end-time: "18:00"
     session-type: "meeting event"
-    data: "Council Chamber"
+    data: "Committee Room B"
   - session: Reception
     start-time: "18:00"
     end-time: "19:30"
