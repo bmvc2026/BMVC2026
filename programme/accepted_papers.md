@@ -36,7 +36,8 @@ This year, BMVC received 1448 submissions of which 406 papers were accepted. Eac
                 {%- endif -%}!-->
                 <br>
                 {%- assign padded_id = paper.number | prepend: "00000" | slice: -5, 5 -%}
-                <a class="btn btn-info btn-sm mt-1" href="{{ '/proceedings/papers/paper_' | append: padded_id | append: '/' | relative_url }}" role="button">Paper</a>&nbsp;
+                <!--<a class="btn btn-info btn-sm mt-1" href="{{ '/proceedings/papers/paper_' | append: padded_id | append: '/' | relative_url }}" role="button">Paper</a>&nbsp;-->
+                <a class="btn btn-info btn-sm mt-1" href="https://www.bmva.org/bmvc/2026/proceedings/papers/paper_{{- padded_id -}}.html" role="button">Paper Page</a>&nbsp;
             </td></tr>
             {% endfor %}
         </tbody>
