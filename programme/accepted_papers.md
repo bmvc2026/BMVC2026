@@ -11,6 +11,39 @@ If your paper is not listed, it has been rejected. We understand how disappointi
 
 This year, BMVC received 1448 submissions of which 406 papers were accepted. Each paper had at least 3 reviews and a meta-review. All papers were discussed among the reviewers and the assigned Area Chairs (AC). All this was done while preserving author anonymity and avoiding domain conflicts.
 
+{% assign sorted-papers = site.data.camera_ready.papers | sort: "number" %}
+
+<div class="row pl-2 pr-2 pt-2 pb-2 mx-auto justify-content-left">
+    <table class="table table-striped table-bordered" style="">
+        <thead>
+        <tr><th>ID</th><th>Paper</th></tr>
+        </thead>
+        <tbody>
+            {% for paper in sorted-papers %}
+            <!--{% assign all_authors = paper.authors | join: ", " %}-->
+            {% assign all_authors = paper.authors | array_to_sentence_string %}
+            <tr><td>{{paper.number}}</td>
+            <td>
+                <strong>{{paper.title}}</strong>
+                <!--<br>{{all_authors}}-->
+                <br>{% include authors.html authors=paper.authors %}
+                <!--<br>
+                {%- assign authors = paper.authors -%}
+                {%- if authors.size > 1 -%}
+                  {{ authors | pop | join: ", " }} and {{ authors | last }}
+                {%- else -%}
+                  {{ authors | first }}
+                {%- endif -%}!-->
+                <br>
+                {%- assign padded_id = paper.number | prepend: "00000" | slice: -5, 5 -%}
+                <a class="btn btn-info btn-sm mt-1" href="{{ '/proceedings/papers/paper_' | append: padded_id | append: '/' | relative_url }}" role="button">Paper</a>&nbsp;
+            </td></tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<!--
 ---
 
 <head>
@@ -451,3 +484,5 @@ This year, BMVC received 1448 submissions of which 406 papers were accepted. Eac
 <tr><td>1868</td><td>When Neural Collapse Fails to Route: Routing Drift in Continual Learning</td></tr>
 </tbody>
 </table>
+
+-->

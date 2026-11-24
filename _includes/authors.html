@@ -1,0 +1,5 @@
+{%- for author in include.authors -%}
+  {%- if forloop.first -%}
+  {%- elsif forloop.last %} and {% else -%}, {% endif -%}
+  {{- author -}}
+{%- endfor -%}

@@ -125,5 +125,13 @@ exclude:
 
   - sponsorship_backup.md
 
+  - UNUSED_proceedings/
+
 
   # - attending/registration.md # removed as we don't need to exclude files here
+
+# exclude:
+#   - proceedings_old/
+#   
+#   - authors/submit-your-paper-old.md
+
