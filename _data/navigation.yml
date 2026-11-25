@@ -20,6 +20,6 @@ pages:
     dropdown: true
   - title: Sponsors
     url: /sponsors/
-  # - title: Proceedings
-  #   url: /proceedings/
-  #   dropdown: true
+  - title: Proceedings
+    url: /proceedings/
+    dropdown: true
