@@ -12,6 +12,8 @@ pages:
   - title: Programme
     url: /programme/
     dropdown: true
+  - title: Proceedings
+    url: /proceedings/
   - title: Authors
     url: /authors/
     dropdown: true
@@ -20,6 +22,3 @@ pages:
     dropdown: true
   - title: Sponsors
     url: /sponsors/
-  - title: Proceedings
-    url: /proceedings/
-    dropdown: true
